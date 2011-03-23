@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="agfa">
+  <camera id="0">
+    <name>AgfaPhoto DC-600uw</name>
+    <description>6.0 million effective pixels;  MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/agfa_dc600uw.gif</picture>
+    </links>
+    <releasedDate>2009-06-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3680" height="2760" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="640.0" height="480.0" />
+  </camera>
+</cameras>
+

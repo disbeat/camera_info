@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="hp">
+  <camera id="0">
+    <name>HP Photosmart R937</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 39 mm - 118 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="10 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/hp_r937.gif</picture>
+    </links>
+    <releasedDate>2007-06-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3298" height="2474" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="1">
+    <name>HP Photosmart R742</name>
+    <description>7.0 million effective pixels; 28 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.0 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/hp_r742.gif</picture>
+    </links>
+    <releasedDate>2007-06-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3096" height="3228" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="2">
+    <name>HP Photosmart Mz67</name>
+    <description>8.0 million effective pixels; 21 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/hp_mz67.gif</picture>
+    </links>
+    <releasedDate>2007-06-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="3">
+    <name>HP Photosmart E337</name>
+    <description>5.1 million effective pixels; 21 MP/cm^2 pixel density; 36 mm § lens;</description>
+    <summary />
+    <effectivePixels>5.1 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/hp_e337.gif</picture>
+    </links>
+    <releasedDate>2007-06-22</releasedDate>
+    <resolutions>
+      <maxResolution width="2576" height="1920" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>60</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="4">
+    <name>HP Photosmart R837</name>
+    <description>7.2 million effective pixels; 29 MP/cm^2 pixel density; 39 mm - 118 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.2 million</effectivePixels>
+    <shutterTime min="10 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/hp_r837.gif</picture>
+    </links>
+    <releasedDate>2007-03-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3112" height="2328" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="5">
+    <name>HP Photosmart M437</name>
+    <description>5.0 million effective pixels; 20 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>5.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/hp_m437.gif</picture>
+    </links>
+    <releasedDate>2007-03-08</releasedDate>
+    <resolutions>
+      <maxResolution width="2576" height="1920" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="6">
+    <name>HP Photosmart M537</name>
+    <description>6.1 million effective pixels; 25 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/hp_m537.gif</picture>
+    </links>
+    <releasedDate>2007-03-08</releasedDate>
+    <resolutions>
+      <maxResolution width="2848" height="2128" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+</cameras>
+

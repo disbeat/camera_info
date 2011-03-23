@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="epson">
+  <camera id="0">
+    <name>Epson R-D1x</name>
+    <description>6.0 million effective pixels; 1.6 MP/cm^2 pixel density;</description>
+    <summary>Latest version of the world's first (and until recently the only) digital rangefinder, originally launched in 2004 and amazingly still in production (albeit only for sale in Japan). The new R-D1x model maintains most of the features of the previous camera including a 6Mp APS-C sensor, but adds a larger 2.5" LCD screen, support for the higher-capacity SD-HC card format and a removable handgrip. Based around a Cosina rangefinder camera with Leica M mount, the RD-1 combines classic camera styling with digital capture - and it still costs a lot less than the Leica M8.</summary>
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/epson_rd1x.gif</picture>
+    </links>
+    <releasedDate>2009-02-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3008" height="2000" />
+      <lowResolutions>
+        <resolution width="2240" height="1488" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.7" height="15.6" />
+  </camera>
+</cameras>
+

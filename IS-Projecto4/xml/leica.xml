@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="leica">
+  <camera id="0">
+    <name>Leica M9</name>
+    <description>18.0 million effective pixels; 2.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>18.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/previews/leicam9/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/leica_m9.gif</picture>
+    </links>
+    <releasedDate>2009-09-09</releasedDate>
+    <resolutions>
+      <maxResolution width="5212" height="3472" />
+      <lowResolutions>
+        <resolution width="3840" height="2592" />
+        <resolution width="2592" height="1728" />
+        <resolution width="1728" height="1152" />
+        <resolution width="1280" height="846" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Pull 80</ISOrating>
+      <ISOrating>160</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>250</ISOrating>
+      <ISOrating>320</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>500</ISOrating>
+      <ISOrating>640</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating>2500</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="36.0" height="24.0" />
+  </camera>
+  <camera id="1">
+    <name>Leica X1</name>
+    <description>12.2 million effective pixels; 3.3 MP/cm^2 pixel density; 24 mm § lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/previews/LeicaX1/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/leica_x1.gif</picture>
+    </links>
+    <releasedDate>2009-09-09</releasedDate>
+    <resolutions>
+      <maxResolution width="4272" height="2586" />
+      <lowResolutions>
+        <resolution width="3564" height="2160" />
+        <resolution width="2144" height="1424" />
+        <resolution width="1632" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="2">
+    <name>Leica M8.2</name>
+    <description>10.3 million effective pixels; 2.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.3 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/leica_m8_2.gif</picture>
+    </links>
+    <releasedDate>2008-09-15</releasedDate>
+    <resolutions>
+      <maxResolution width="3936" height="2630" />
+      <lowResolutions>
+        <resolution width="2952" height="1972" />
+        <resolution width="1968" height="1315" />
+        <resolution width="1312" height="876" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>160</ISOrating>
+      <ISOrating>320</ISOrating>
+      <ISOrating>640</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>2500</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="27.0" height="18.0" />
+  </camera>
+  <camera id="3">
+    <name>Leica D-LUX 4</name>
+    <description>10.1 million effective pixels; 24 MP/cm^2 pixel density; 24 mm - 60 mm (2.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/leica_dlux4.gif</picture>
+    </links>
+    <releasedDate>2008-09-15</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3776" height="2520" />
+        <resolution width="3969" height="2232" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3168" height="2112" />
+        <resolution width="3328" height="1872" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2656" height="1768" />
+        <resolution width="2784" height="1568" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="2112" height="1048" />
+        <resolution width="2208" height="1248" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="1280.0" height="720.0" />
+  </camera>
+  <camera id="4">
+    <name>Leica C-LUX 3</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 25 mm - 125 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/leica_clux3.gif</picture>
+    </links>
+    <releasedDate>2008-09-15</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3776" height="2520" />
+        <resolution width="3969" height="2232" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3168" height="2112" />
+        <resolution width="3328" height="1872" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2656" height="1768" />
+        <resolution width="2784" height="1568" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="2112" height="1048" />
+        <resolution width="2208" height="1248" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="5">
+    <name>Leica C-LUX 2</name>
+    <description>7.2 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 100 mm (3.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/leica_clux2.gif</picture>
+    </links>
+    <releasedDate>2007-03-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="6">
+    <name>Leica Digilux 3</name>
+    <description>7.4 million effective pixels; 3 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>7.4 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/leica_digilux3.gif</picture>
+    </links>
+    <releasedDate>2006-09-14</releasedDate>
+    <resolutions>
+      <maxResolution width="3136" height="2352" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="7">
+    <name>Leica D-LUX 3</name>
+    <description>10.0 million effective pixels; 25 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/leica_dlux3.gif</picture>
+    </links>
+    <releasedDate>2006-09-14</releasedDate>
+    <resolutions>
+      <maxResolution width="4224" height="2376" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="8.5" height="4.78" />
+  </camera>
+  <camera id="8">
+    <name>Leica M8</name>
+    <description>10.3 million effective pixels; 2.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.3 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/leicam8/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/leica_m8.gif</picture>
+    </links>
+    <releasedDate>2006-09-14</releasedDate>
+    <resolutions>
+      <maxResolution width="3936" height="2630" />
+      <lowResolutions>
+        <resolution width="2952" height="1972" />
+        <resolution width="1968" height="1315" />
+        <resolution width="1312" height="876" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>160</ISOrating>
+      <ISOrating>320</ISOrating>
+      <ISOrating>640</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>2500</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="27.0" height="18.0" />
+  </camera>
+  <camera id="9">
+    <name>Leica V-LUX 1</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 420 mm (12x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/leica_vlux1.gif</picture>
+    </links>
+    <releasedDate>2006-09-14</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+</cameras>
+

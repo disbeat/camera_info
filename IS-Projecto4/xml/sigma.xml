@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="sigma">
+  <camera id="0">
+    <name>Sigma DP1s</name>
+    <description>4.8 million effective pixels; 1.6 MP/cm^2 pixel density; 28 mm § lens;</description>
+    <summary />
+    <effectivePixels>4.8 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sigma_dp1s.gif</picture>
+    </links>
+    <releasedDate>2009-10-02</releasedDate>
+    <resolutions>
+      <maxResolution width="2640" height="1760" />
+      <lowResolutions>
+        <resolution width="1776" height="1184" />
+        <resolution width="1296" height="864" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="20.7" height="13.8" />
+  </camera>
+  <camera id="1">
+    <name>Sigma SD15</name>
+    <description>4.6 million effective pixels; 1.6 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>4.6 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sigma_sd15.gif</picture>
+    </links>
+    <releasedDate>2008-09-23</releasedDate>
+    <resolutions>
+      <maxResolution width="2640" height="1760" />
+      <lowResolutions>
+        <resolution width="1776" height="1184" />
+        <resolution width="1296" height="864" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (extended mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="20.7" height="13.8" />
+  </camera>
+  <camera id="2">
+    <name>Sigma DP2</name>
+    <description>4.6 million effective pixels; 1.6 MP/cm^2 pixel density; 41 mm § lens;</description>
+    <summary>The DP2 is Sigma's second camera to feature a large, DSLR-sized, sensor in a compact body. It offers a 41mm equivalent fixed focal-length lens with a relatively fast maximum aperture of F2.8. It also features Sigma's Foveon sensor that records red, green and blue wavelengths of light at each of its photosites (as opposed to conventional, 'Bayer' designs that record either red,&amp;nbsp; or green, or blue at each point). The camera is aimed at keen enthusaist photographers and offers a great deal of manual control and no automated scene modes.</summary>
+    <effectivePixels>4.6 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sigmadp2/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sigma_dp2.gif</picture>
+    </links>
+    <releasedDate>2008-09-23</releasedDate>
+    <resolutions>
+      <maxResolution width="2640" height="1760" />
+      <lowResolutions>
+        <resolution width="2640" height="1485" />
+        <resolution width="1872" height="1248" />
+        <resolution width="1312" height="880" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800 (1600 and 3200 in RAW)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="20.7" height="13.8" />
+  </camera>
+  <camera id="3">
+    <name>Sigma DP1</name>
+    <description>4.8 million effective pixels; 1.6 MP/cm^2 pixel density; 28 mm § lens;</description>
+    <summary>The DP1 uses the same Foveon X3 sensor as Sigma's SD14 DSLR and that makes it the first compact camera ever to be made with an SLR-sized sensor (it's around the same size as the Four-Thirds format). But it's not only the sensor that differentiates the new Sigma from the scores of compact cameras on the market today. With its no-nonsense feature set and 28mm (35mm equiv.) prime lens the DP1 is a million miles away from the superzooms, smile modes and face detection functions that are nowadays standard on so many compact digital cameras. Image quality is amazing for a compact, and if you can live with the slow performance, limited feature set and idiosynchratic operation it's the nearest thing yet to a pocketable SLR alternative. (April 2009)</summary>
+    <effectivePixels>4.8 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sigmadp1/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sigma_dp1.gif</picture>
+    </links>
+    <releasedDate>2006-09-26</releasedDate>
+    <resolutions>
+      <maxResolution width="2640" height="1760" />
+      <lowResolutions>
+        <resolution width="1776" height="1184" />
+        <resolution width="1296" height="864" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="20.7" height="13.8" />
+  </camera>
+  <camera id="4">
+    <name>Sigma SD14</name>
+    <description>4.6 million effective pixels; 1.6 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>4.6 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sigma_sd14.gif</picture>
+    </links>
+    <releasedDate>2006-09-26</releasedDate>
+    <resolutions>
+      <maxResolution width="2640" height="1760" />
+      <lowResolutions>
+        <resolution width="1776" height="1184" />
+        <resolution width="1296" height="864" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (extended mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="20.7" height="13.8" />
+  </camera>
+</cameras>
+

@@ -1,0 +1,2265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="samsung">
+  <camera id="0">
+    <name>Samsung TL225 (ST550)</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 27 mm - 124.2 mm (4.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_st550.gif</picture>
+    </links>
+    <releasedDate>2009-08-13</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3840" height="2160" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="1">
+    <name>Samsung TL220 (ST500)</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 27 mm - 124.2 mm (4.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_st500.gif</picture>
+    </links>
+    <releasedDate>2009-08-13</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3840" height="2160" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="2">
+    <name>Samsung SL720 (PL70)</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_sl720.gif</picture>
+    </links>
+    <releasedDate>2009-07-14</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="3">
+    <name>Samsung TL320 (WB1000)</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 24 mm - 120 mm (5x) zoom lens;</description>
+    <summary>High end compact sports useful 24-120mm extra wide 5x zoom lens, unique 3.0" Organic LED screen and cute analgue style needle gauges for battery life and storage capacity. With lots of manual control and classy slimline styling the TL320 (WB100) certainly ticks a lot of enthusiast photographers' boxes but the lack of a raw mode - especially in light of Samsung's unimpressive JPEG image processing - is disappointing. (April 2009).</summary>
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="16 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_tl320.gif</picture>
+    </links>
+    <releasedDate>2009-02-23</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2654" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2592" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (Up to 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="4">
+    <name>Samsung HZ15W (WB550)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 24 mm - 240 mm (10x) zoom lens;</description>
+    <summary>Second 'compact super zoom' camera from Samsung is a slightly higher-spec version of the HZ10W (WB500). Like its sister model it offers an incredibly versatile 24-240mm zoom lens, whilst upping the screen size to 3.0 inches and the sensor resolution to 12.2 megapixels. Packed with features (including 720p HD video) and sporting an attractive design and excellent user interface the TL-HZ15W looks like a strong condender in this increasingly crowded sector of the market, though (as we saw when we reviewed the H510W) there are still question marks over Samsung's image quality for more demanding users. (April 2009).</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="16 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_hz15w.gif</picture>
+    </links>
+    <releasedDate>2009-02-23</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2654" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2592" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (Up to 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="5">
+    <name>Samsung CL5 (PL10)</name>
+    <description>9.0 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>Samsung has been pushing the idea of an all-in-one 'Personal Media Player' (PMP) / camera for several years now. The CL5's funky design and range of bold color options can't hide the fact that it's a budget 9MP camera with basic MP3 and MPEG movie playback functionality. Great for teens; the rest of us would be better paying for a proper camera and leaving the media playing to a dedicated device. (April 2009).</summary>
+    <effectivePixels>9.0 million</effectivePixels>
+    <shutterTime min="16 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_cl5.gif</picture>
+    </links>
+    <releasedDate>2009-02-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="3456" height="2304" />
+        <resolution width="3456" height="1944" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (Up to 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="6">
+    <name>Samsung SL30 (ES15)</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_sl30.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2052" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="7">
+    <name>Samsung SL202</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_sl202.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2052" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="8">
+    <name>Samsung SL820 (IT100)</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_sl820.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="9">
+    <name>Samsung SL620</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_sl620.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="10">
+    <name>Samsung TL100 (ST50)</name>
+    <description>12.2 million effective pixels;  MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_tl100.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (At 3M Size)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="800.0" height="592.0" />
+  </camera>
+  <camera id="11">
+    <name>Samsung ST10</name>
+    <description>9.1 million effective pixels; 37 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_st10.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="3456" height="2304" />
+        <resolution width="3456" height="1944" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (Up to 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="12">
+    <name>Samsung  SL102 (ES55)</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_sl102.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="3648" height="2052" />
+        <resolution width="3648" height="2432" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="13">
+    <name>Samsung HZ10W (WB500)</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 24 mm - 240 mm (10x) zoom lens;</description>
+    <summary>Well specified compact with a versatile 24-240mm (equiv.) 10x zoom range, HD movie capture and a wealth of features. The HZ10W(WB500 in Europe) is Samsung's first stab at the compact superzoom segment, and while the Korean manufacturer got many things right there is also some room for improvement. It's speedy, has an excellent user interface and reliable exposure, but is let down a little by image quality and low light performance issues.</summary>
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="16 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/q209grouplongzoom/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_hz10w.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2432" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (Up to 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="14">
+    <name>Samsung CL65 (ST1000)</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_st1000.gif</picture>
+    </links>
+    <releasedDate>2008-09-01</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3840" height="2160" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>4800 (Up to 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="15">
+    <name>Samsung HZ25W (WB5000)</name>
+    <description>12.5 million effective pixels; 44 MP/cm^2 pixel density; 26 mm - 624 mm (24x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.5 million</effectivePixels>
+    <shutterTime min="16 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_hz25w.gif</picture>
+    </links>
+    <releasedDate>2008-09-01</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3984" height="2656" />
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400 (Up to 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="16">
+    <name>Samsung SL310 (L310W)</name>
+    <description>13.6 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>13.6 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l310w.gif</picture>
+    </links>
+    <releasedDate>2008-07-16</releasedDate>
+    <resolutions>
+      <maxResolution width="4224" height="3168" />
+      <lowResolutions>
+        <resolution width="4224" height="2816" />
+        <resolution width="4224" height="2376" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="17">
+    <name>Samsung TL34HD (NV100HD)</name>
+    <description>14.7 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary>The TL34 HD (or NV100 HD as it is known in Europe) is the new flagship of Samsung's NV range, offering high resolution (14.7 MP), a wide zoom lens and a wealth of features. With its sleek design and touch-screen user interface it appears to be aimed at the gadget loving technophile, but looking at its spec sheet it's clearly got a lot to offer to more serious photographers as well. Unfortunately the image quality is poor (it may have almost 15 megapixels, but the output would be unimpressive for an 8MP camera) and it's frustratingly slow in use.</summary>
+    <effectivePixels>14.7 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408premiumgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv100hd.gif</picture>
+    </links>
+    <releasedDate>2008-07-16</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2736" />
+        <resolution width="3648" height="2432" />
+        <resolution width="3584" height="2016" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="18">
+    <name>Samsung TL9 (NV9)</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 190 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv9.gif</picture>
+    </links>
+    <releasedDate>2008-07-16</releasedDate>
+    <resolutions>
+      <maxResolution width="4384" height="2736" />
+      <lowResolutions>
+        <resolution width="4384" height="2920" />
+        <resolution width="4834" height="2464" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="19">
+    <name>Samsung S1070</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 105 mm (2.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s1070.gif</picture>
+    </links>
+    <releasedDate>2008-07-16</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="20">
+    <name>Samsung L201 (SL201)</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l201.gif</picture>
+    </links>
+    <releasedDate>2008-07-16</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="21">
+    <name>Samsung GX-20</name>
+    <description>14.6 million effective pixels; 4.0 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>14.6 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_gx20.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="4688" height="3120" />
+      <lowResolutions>
+        <resolution width="4672" height="3120" />
+        <resolution width="3872" height="2592" />
+        <resolution width="3008" height="2000" />
+        <resolution width="1824" height="1216" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100 -3200 in 1/3EV or 1/2EV stops</ISOrating>
+      <ISOrating>plus 6400 as option</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.4" height="15.6" />
+  </camera>
+  <camera id="22">
+    <name>Samsung ST45</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_st45.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (At 3M Size)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="23">
+    <name>Samsung NV4</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>Yet another Samsung compact camera with PMP (portable media player) functionality that allows it to double as an MP3 and movie player. Nice design, lots of gadgetry, pretty basic camera capabilities. Samsung i8 offers similar feature set in slightly less premium packaging. (April 2009).</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv4.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="24">
+    <name>Samsung NV24HD</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 24 mm - 86.5 mm (3.5x) zoom lens;</description>
+    <summary>The first Samsung compact to offer 720p HD movie recording is also one of the few models on the market with a 24mm (equivalent) wide lens (at the short end of its 24-86.5mm zoom). The comprehensive feature set, unique user interface and stylish design are all very appealing, but question marks over  image quality continue to dog Samsung's assault on the premium and enthusiast compact camera market. (April 2009).</summary>
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv24hd.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="25">
+    <name>Samsung NV30</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary>Cut-down version of the NV24HD drops the wide zoom, image stabilization and offers a lower pixel count but retains the cool styling and extensive feature set. Also check out the NV40, which is almost identical but offers 10 megapixels and lens stabilization. (April 2009).</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv30.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="26">
+    <name>Samsung NV40</name>
+    <description>10.5 million effective pixels; 37 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary>Samsung continues to pad out the NV range with slight specification variations. The NV40 offers a higher resolution (10MP) than identical twin the NV30, and - more usefully - throws optical image stabilization into the mix. Otherwise a basic camera with a lot of features but unimpressive photographic specification. (April 2009).</summary>
+    <effectivePixels>10.5 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv40.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="27">
+    <name>Samsung i8</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>Samsung has been pushing the idea of an all-in-one 'Personal Media Player' (PMP) / camera for several years now. The i80's smart design and large touch-screen LCD can't hide the fact that it's a budget camera with basic MP3 and MPEG movie playback functionality. If the thought of watching movies or listening to music on your camera appeals then the older i85 offers a slightly more impressive camera at a similar price. (April 2009).</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_i8.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1824" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (3200 upto 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="28">
+    <name>Samsung L210</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary>The Samsung L210 is one of the few truly compact models in this price bracket, and it packs an impressive list of features including optical image stabilization and a relatively high screen resolution. The polished user interface and quality finish belie the L210's entry-level pricing, and in broad daylight the results aren't bad at all. In low light the performance is far less impressive, with poor high ISO results, less than perfect flash exposures and focus failures. Add to this the long shutter lag (the delay between pressing the button and the picture being taken) and slow startup, and it's obvious that the L210 isn't quite as good as first impressions would suggest.</summary>
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408budgetgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l210.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="29">
+    <name>Samsung L110</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary>One of three almost identical entry-level budget cameras from the prolific Korean giant. Smaller and more stylish than most cameras at this level, the L110 is packed with gadgetry (though inevitably the photographic specification is pretty basic). We tested the L110's 10MP brother (the L210) and found much to like, though the low-light and flash performance was disappointing. The L110 and L100 appear to be functionally identical.</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l110.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="30">
+    <name>Samsung L100</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary>One of three almost identical entry-level budget cameras from the prolific Korean giant. Smaller and more stylish than most cameras at this level, the L100 is packed with gadgetry (though inevitably the photographic specification is pretty basic). We tested the L100's 10MP brother (the L210) and found much to like, though the low-light and flash performance was disappointing.</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l100.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="31">
+    <name>Samsung i100</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>Samsung has been pushing the idea of an all-in-one 'Personal Media Player' (PMP) / camera for several years now, and the i100 is the latest in a line of stylish cameras to offer music (MP3) and movie (MPEG) playback as well as stills and movie capture. The 200MB or so of internal memory is weedy compared to dedicated players and the camera - though packed with gadgetry - is very basic, and the media playback doesn't hide the fact this is a budget camera with a premium price tag. (April 2009).</summary>
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_i100.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (3200 upto 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="32">
+    <name>Samsung i80</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>Yet another Samsung all-in-one 'Personal Media Player' (PMP) / camera, the i80 offers a basic camera specification combined with a fairly basic MP3 and movie player wrapped up in a stylish sliding design that's packed with digital gadgets but has little to inspire the serious photographer. (April 2009).</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_i80.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1824" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (3200 upto 3M)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="33">
+    <name>Samsung S860</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s860.gif</picture>
+    </links>
+    <releasedDate>2007-12-04</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="34">
+    <name>Samsung S760</name>
+    <description>7.2 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s760.gif</picture>
+    </links>
+    <releasedDate>2007-12-04</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="35">
+    <name>Samsung NV8</name>
+    <description>8.1 million effective pixels; 20 MP/cm^2 pixel density; 34 mm - 102 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv8.gif</picture>
+    </links>
+    <releasedDate>2007-07-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.32" height="5.49" />
+  </camera>
+  <camera id="36">
+    <name>Samsung NV15</name>
+    <description>10.1 million effective pixels; 25 MP/cm^2 pixel density; 34 mm - 102 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv15.gif</picture>
+    </links>
+    <releasedDate>2007-07-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.32" height="5.49" />
+  </camera>
+  <camera id="37">
+    <name>Samsung NV20</name>
+    <description>12.1 million effective pixels; 29 MP/cm^2 pixel density; 34 mm - 102 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv20.gif</picture>
+    </links>
+    <releasedDate>2007-07-30</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="38">
+    <name>Samsung i85</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_i85.gif</picture>
+    </links>
+    <releasedDate>2007-07-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="39">
+    <name>Samsung S85</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 190 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s85.gif</picture>
+    </links>
+    <releasedDate>2007-07-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="40">
+    <name>Samsung L730</name>
+    <description>7.2 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l730.gif</picture>
+    </links>
+    <releasedDate>2007-07-11</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2176" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="41">
+    <name>Samsung L83T</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l83t.gif</picture>
+    </links>
+    <releasedDate>2007-07-11</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="42">
+    <name>Samsung L830</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l830.gif</picture>
+    </links>
+    <releasedDate>2007-07-11</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="43">
+    <name>Samsung L77</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 266 mm (7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1250 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l77.gif</picture>
+    </links>
+    <releasedDate>2007-02-09</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="44">
+    <name>Samsung S1030</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s1030.gif</picture>
+    </links>
+    <releasedDate>2007-02-09</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3476" height="2604" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2272" height="1704" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="45">
+    <name>Samsung S830</name>
+    <description>8.0 million effective pixels; 21 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s830.gif</picture>
+    </links>
+    <releasedDate>2007-02-09</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2272" height="1704" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="46">
+    <name>Samsung NV11</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 190 mm (5.4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv11.gif</picture>
+    </links>
+    <releasedDate>2007-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3136" height="2352" />
+        <resolution width="2688" height="2016" />
+        <resolution width="2240" height="1650" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="47">
+    <name>Samsung L74 Wide</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 101 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l74.gif</picture>
+    </links>
+    <releasedDate>2007-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="48">
+    <name>Samsung i7</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_i7.gif</picture>
+    </links>
+    <releasedDate>2007-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="49">
+    <name>Samsung S1050</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 38 mm - 190 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s1050.gif</picture>
+    </links>
+    <releasedDate>2007-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3476" height="2604" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2272" height="1704" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="50">
+    <name>Samsung S630</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s630.gif</picture>
+    </links>
+    <releasedDate>2007-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="51">
+    <name>Samsung L73</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l73.gif</picture>
+    </links>
+    <releasedDate>2007-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="52">
+    <name>Samsung i70</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_i70.gif</picture>
+    </links>
+    <releasedDate>2007-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="53">
+    <name>Samsung L700</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_l700.gif</picture>
+    </links>
+    <releasedDate>2007-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="54">
+    <name>Samsung S850</name>
+    <description>8.0 million effective pixels; 21 MP/cm^2 pixel density; 38 mm - 190 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s850.gif</picture>
+    </links>
+    <releasedDate>2007-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="55">
+    <name>Samsung S730</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_s730.gif</picture>
+    </links>
+    <releasedDate>2007-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2240" height="1680" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="56">
+    <name>Samsung GX-10</name>
+    <description>10.0 million effective pixels; 2.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_gx10.gif</picture>
+    </links>
+    <releasedDate>2006-09-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="3008" height="2000" />
+        <resolution width="1824" height="1216" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (custom)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.7" />
+  </camera>
+  <camera id="57">
+    <name>Samsung NV10</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/samsungnv10/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv10.gif</picture>
+    </links>
+    <releasedDate>2006-07-03</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3136" height="2352" />
+        <resolution width="2688" height="2016" />
+        <resolution width="2240" height="1650" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="58">
+    <name>Samsung NV3</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv3.gif</picture>
+    </links>
+    <releasedDate>2006-07-03</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2272" height="1704" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="59">
+    <name>Samsung NV7 OPS</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 270 mm (7.1x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/samsungnv7/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/samsung_nv7.gif</picture>
+    </links>
+    <releasedDate>2006-07-03</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2688" height="2016" />
+        <resolution width="1920" height="1440" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+</cameras>
+

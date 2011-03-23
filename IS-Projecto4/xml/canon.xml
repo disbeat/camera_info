@@ -1,0 +1,2395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="canon">
+  <camera id="0">
+    <name>Canon EOS-1D Mark IV</name>
+    <description>16.1 million effective pixels; 3.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>16.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos1dmkiv.gif</picture>
+    </links>
+    <releasedDate>2009-10-20</releasedDate>
+    <resolutions>
+      <maxResolution width="4896" height="3264" />
+      <lowResolutions>
+        <resolution width="4320" height="2880" />
+        <resolution width="3672" height="2448" />
+        <resolution width="3552" height="2368" />
+        <resolution width="2448" height="1632" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100 - 12800 in 1/3  or 1 stops</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>25600</ISOrating>
+      <ISOrating>51200 and 102400 with boost</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="27.9" height="18.6" />
+  </camera>
+  <camera id="1">
+    <name>Canon EOS 7D</name>
+    <description>18.0 million effective pixels; 5.4 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>18.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/previews/canoneos7d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos7d.gif</picture>
+    </links>
+    <releasedDate>2009-09-01</releasedDate>
+    <resolutions>
+      <maxResolution width="5184" height="3456" />
+      <lowResolutions>
+        <resolution width="5184" height="3456" />
+        <resolution width="3888" height="2592" />
+        <resolution width="3456" height="2304" />
+        <resolution width="2592" height="1728" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating>12800(H)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="22.3" height="14.9" />
+  </camera>
+  <camera id="2">
+    <name>Canon PowerShot SX20 IS</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 560 mm (20x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/3200 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sx20is.gif</picture>
+    </links>
+    <releasedDate>2009-08-19</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3840" height="2160" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="240" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="3">
+    <name>Canon PowerShot SD980 IS (Digital IXUS 200 IS)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 24 mm - 120 mm (5x) zoom lens;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/3000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd980is.gif</picture>
+    </links>
+    <releasedDate>2009-08-19</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="240" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="4">
+    <name>Canon PowerShot SX120 IS</name>
+    <description>10.0 million effective pixels; 40 MP/cm^2 pixel density; 36 mm - 360 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sx120is.gif</picture>
+    </links>
+    <releasedDate>2009-08-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2048" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="3456" height="1944" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="5">
+    <name>Canon PowerShot SD940 IS (Digital IXUS 120 IS)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd940is.gif</picture>
+    </links>
+    <releasedDate>2009-08-19</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="240" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="6">
+    <name>Canon PowerShot S90</name>
+    <description>10.0 million effective pixels; 23 MP/cm^2 pixel density; 28 mm - 105 mm (3.7x) zoom lens;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/gallery/canons90_preview/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_s90.gif</picture>
+    </links>
+    <releasedDate>2009-08-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2048" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="240" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>ISO 80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>ISO 125</ISOrating>
+      <ISOrating>160</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>250</ISOrating>
+      <ISOrating>320</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>500</ISOrating>
+      <ISOrating>640</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating>2500</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="7">
+    <name>Canon PowerShot G11</name>
+    <description>10.0 million effective pixels; 23 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_g11.gif</picture>
+    </links>
+    <releasedDate>2009-08-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2048" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="240" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="8">
+    <name>Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)</name>
+    <description>15.1 million effective pixels; 4.5 MP/cm^2 pixel density;</description>
+    <summary>Latest in Canon's hugely successful entry-level digital SLR range is a significant upgrade to the EOS 450D (Rebel XSi) and is obviously designed to take on Nikon's D90. Featuring a 15.1 MP CMOS sensor with 1080p HD video recording at 20fps, it also sports a 3.0 inch LCD with 920,000 dot resolution and an ISO sensitivity range expandable up to 12800 equivalent. It includes a faster Digic 4 processor offering better noise reduction at higher ISO's and continuous shooting speeds of up to 3.4 fps delivering 170 large JPEG images in a single burst.</summary>
+    <effectivePixels>15.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canoneos500d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos500d.gif</picture>
+    </links>
+    <releasedDate>2009-03-25</releasedDate>
+    <resolutions>
+      <maxResolution width="4752" height="3168" />
+      <lowResolutions>
+        <resolution width="3456" height="2304" />
+        <resolution width="2353" height="1568" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200  (6400-12800 expandable)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="22.3" height="14.9" />
+  </camera>
+  <camera id="9">
+    <name>Canon PowerShot D10</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>Canon's first waterproof digital compact is claimed to be waterproof up to 10 meters, freeze proof up to -10 degrees, shockproof when dropped from a height of 1.22 meters and dust proof. In addition, there are a range of optional protective accessories available. The camera has a 12.1MP sensor, 3x optical zoom and a 2.5" LCD, and includes Smart Auto Mode, Face Select &amp;amp; Track, Blink Detection and Face Self-timer.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/5000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q209waterproofgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_d10.gif</picture>
+    </links>
+    <releasedDate>2009-02-18</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="140" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="10">
+    <name>Canon PowerShot SX200 IS</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 336 mm (12x) zoom lens;</description>
+    <summary>Canon's young SX range gets a serious facelift in the SX200 IS, which goes head to head with Panasonic's TZ models in the increasingly crowded  'big zoom/small camera' sector. Much more of a premium model than previous SX cameras, , the 12.1 MP sensor and 12x zoom (with a 28mm equiv. wide-angle) are wrapped up in a quality metal body and, in the SX200 IS offers more photographic control than most competitors. Image quality in good light is impressive, but in lower light at higher ISO settings it's slightly below par, and the new user interface is a step backwards in our opinion, making the high price  hard to justify.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/3200 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/q209grouplongzoom/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sx200is.gif</picture>
+    </links>
+    <releasedDate>2009-02-18</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="140" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="11">
+    <name>Canon PowerShot SD970 IS (Digital IXUS 990 IS)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 37 mm - 185 mm (5x) zoom lens;</description>
+    <summary>Stylish ultra compact with  37-185mm (equiv.) zoom  (5x), image stabilization and all the new toys common to the 2009 Ixus/Elph range (including 720p movie capture and Smart Auto) and a 3.0" screen. 12 megapixels is probably overkill for most users of this kind of camera, but Canon's Ixus/Elph range has an excellent track record for decent image quality and responsive, easy operation. Canon's vast PowerShot range makes it hard to see the wood for the trees, but unless you really need the extra telephoto lens we'd suggest the SD960 IS (Ixus 110 IS) - this camera's near twin - is a better bet, thanks to its wideangle lens.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/gallery/canonsd970is_samples/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd970is.gif</picture>
+    </links>
+    <releasedDate>2009-02-18</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="140" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="12">
+    <name>Canon PowerShot SD960 IS (Digital IXUS 110 IS)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary>Stylish ultra compact with useful 28-112mm (equiv.) zoom range (4x), image stabilization and all the new toys common to the 2009 Ixus/Elph range (including 720p movie capture and Smart Auto) and a nice wide aspect ratio 2.8" screen. 12 megapixels is probably overkill for most users of this kind of camera, but Canon's Ixus/Elph range has an excellent track record for decent image quality and responsive, easy operation. The almost identical SD 970 IS (Ixus 990 IS) has a bigger (5x) zoom range but sacrifices the wide angle lens.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd960is.gif</picture>
+    </links>
+    <releasedDate>2009-02-18</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="140" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="13">
+    <name>Canon PowerShot A1100 IS</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary>One of two very similar  A series 'affordable' compacts (the other, the A2100 IS, has a larger zoom and  LCD) offering a stabilized 4x optical zoom and a 2.5" screen with brightness adjustment. The A1100 IS has none of the manual controls seen on older A series models but does feature Canon's new Smart Auto mode (an improved Easy mode), Motion Detection and Face Detection that can detect up to 35 faces. More stylish and more beginner-friendly than previous A series models (which have traditonally offered a solid feature set and decent output quality in slightly dowdy designs), the A1100 IS is part of a new point and shoot oriented direction for Canon's budget range.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a1100is.gif</picture>
+    </links>
+    <releasedDate>2009-02-18</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="140" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="14">
+    <name>Canon PowerShot SD780 IS (Digital IXUS 100 IS)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 33 mm - 100 mm (3x) zoom lens;</description>
+    <summary>The slimmest Digital Ixus (Elph) yet is certainly very pocket friendly (18.4mm thick) and has heaps of style, but as a camera it's fairly run of the mill; 3x optical zoom (33-100mm equiv.), point and shoot ease of use and a 2.5" screen are joined by HD (720p) movie capture and Canon's latest DIGIC 4-powered gadgets, but essentially this is a frill-free 12 megapixel camera wrapped in a luxurious, ultra compact steel body.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd780is.gif</picture>
+    </links>
+    <releasedDate>2009-02-18</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="140" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="15">
+    <name>Canon PowerShot SD1200 IS (Digital IXUS 95 IS)</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>Replacement for the SD1100 IS, the SD 1200 IS (Ixus 95) is yet another slimline, metal-bodied pocket camera with a 3x zoom and 2.5" LCD screen and a choice of colors. As with all Ixus/Elph models the emphasis is on style and ease of use, and specification is fairly high (Smart Auto mode, optical image stabilizer, DIGIC 4 processor), but this is a pretty, ultra compact point and shoot camera, nothing more, nothing less.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd1200is.gif</picture>
+    </links>
+    <releasedDate>2009-02-18</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2048" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="16">
+    <name>Canon PowerShot A2100 IS</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 36 mm - 216 mm (6x) zoom lens;</description>
+    <summary>One of two very similar  A series 'affordable' compacts (the other, the A1100 IS, has a smaller zoom and smaller LCD) offering a stabilized 6x optical zoom and a 3.0" screen with brightness adjustment - but no optical viewfinder. The A2100 IS has none of the manual controls seen on older A series models but does feature Canon's new Smart Auto mode (an improved Easy mode), Motion Detection and Face Detection that can detect up to 35 faces. More stylish and more beginner-friendly than previous A series models (which have traditonally offered a solid feature set and decent output quality in slightly dowdy designs), the A2100 IS signals a new, point and shoot oriented direction for Canon's budget range.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a2100is.gif</picture>
+    </links>
+    <releasedDate>2009-02-18</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="320" height="140" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="17">
+    <name>Canon PowerShot A480</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 37 mm - 122 mm (3.2x) zoom lens;</description>
+    <summary>Budget  mid-sized compact in the long-running and successful 'A' series of PowerShot cameras. The A480 replaces the PowerShot A470 with a more compact body and easier operation. Twenty five percent smaller than its predecessor, the A480 includes a new simplified button layout for ease of use. This entry-level compact houses a 10MP sensor, 2.5" LCD, Canon's DIGIC III processor and includes features such as Motion detection and Face Detection.(April 2009)</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a480.gif</picture>
+    </links>
+    <releasedDate>2009-01-15</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="3648" height="2048" />
+        <resolution width="320" height="240" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="18">
+    <name>Canon PowerShot SX1 IS</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 560 mm (20x) zoom lens;</description>
+    <summary>Fifth generation 'SLR-like' superzoom from Canon is the first in a new wave of CMOS-sensored 'serious' compact cameras, and boasts an impressive spec list that includes a huge 28-560mm (equiv.) 20x zoom, 1080p HD movie capture and high speed shooting, plus a wealth of photo enthusiast features (manual controls, raw mode). There's no doubt the SX1 IS offers a lot of camera in a compact package, but it's expensive (especially compared to sister model, the SX10 IS), the image quality is nothing special, and unless you really want HD movies it's hard to recommend.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/3200 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canonsx1is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sx1is.gif</picture>
+    </links>
+    <releasedDate>2008-09-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="3840" height="2160" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="19">
+    <name>Canon PowerShot SX10 IS</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 560 mm (20x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/3200 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q109superzoomgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sx10is.gif</picture>
+    </links>
+    <releasedDate>2008-09-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="3648" height="2048" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="20">
+    <name>Canon PowerShot SD880 IS (Digital IXUS 870 IS)</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary>Love them or hate them, Canon makes compact cameras that do exactly what they should; take good pictures in a range of conditions with the minimum of fuss. The SD880 IS (Ixus 870 IS) is an enjoyable camera to use, has a sensible range of features (including a nice 28-112mm wide zoom and a 3.0 inch screen) and - despite the relatively low pixel count - produces some of the best results in its class. It has more than a dash of style, is fast and responsive and small enough to carry with you anywhere you go.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408premiumgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd880is.gif</picture>
+    </links>
+    <releasedDate>2008-09-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="3648" height="2048" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="21">
+    <name>Canon PowerShot SD990 IS (Digital IXUS 980 IS)</name>
+    <description>14.7 million effective pixels; 34 MP/cm^2 pixel density; 36 mm - 133 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>14.7 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd990is.gif</picture>
+    </links>
+    <releasedDate>2008-09-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4416" height="3312" />
+      <lowResolutions>
+        <resolution width="3648" height="2736" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="4416" height="2480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="22">
+    <name>Canon EOS 5D Mark II</name>
+    <description>21.0 million effective pixels; 2.4 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>21.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canoneos5dmarkii/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos5dmkii.gif</picture>
+    </links>
+    <releasedDate>2008-09-17</releasedDate>
+    <resolutions>
+      <maxResolution width="5616" height="3744" />
+      <lowResolutions>
+        <resolution width="4080" height="2720" />
+        <resolution width="2784" height="1856" />
+        <resolution width="5616" height="3744" />
+        <resolution width="3861" height="2574" />
+        <resolution width="2784" height="1856" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100 - 6400 in 1/3 stops</ISOrating>
+      <ISOrating>plus 50</ISOrating>
+      <ISOrating>12800</ISOrating>
+      <ISOrating>25600 as option</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="36.0" height="24.0" />
+  </camera>
+  <camera id="23">
+    <name>Canon PowerShot G10</name>
+    <description>14.7 million effective pixels; 34 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary>The G10 is the third incarnation of Canon’s flagship ‘prosumer’ compact since the G series was reinvented with the G7 in 2006. The G10 builds on the successful formula of the G9 by adding handling and control refinements, improving the LCD resolution, and, most importantly, adding a wider lens starting at 28mm (equiv.). It also retains the rangefinder styling, solid build quality and extensive external controls (plus a new and a very useful AE compensation dial). A joy to use, the G10 is let down only by the image quality, which simply isn't any better than any other half-decent compact on the market today.</summary>
+    <effectivePixels>14.7 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canong10/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_g10.gif</picture>
+    </links>
+    <releasedDate>2008-09-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4416" height="3312" />
+      <lowResolutions>
+        <resolution width="3648" height="2736" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="4416" height="2480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="24">
+    <name>Canon EOS 50D</name>
+    <description>15.1 million effective pixels; 4.5 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>15.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canoneos50d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos50d.gif</picture>
+    </links>
+    <releasedDate>2008-08-26</releasedDate>
+    <resolutions>
+      <maxResolution width="4752" height="3168" />
+      <lowResolutions>
+        <resolution width="3456" height="2304" />
+        <resolution width="2353" height="1568" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (H)</ISOrating>
+      <ISOrating>6400(H1)</ISOrating>
+      <ISOrating>12800(H2)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="22.3" height="14.9" />
+  </camera>
+  <camera id="25">
+    <name>Canon PowerShot A1000 IS</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a1000is.gif</picture>
+    </links>
+    <releasedDate>2008-08-26</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2756" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="26">
+    <name>Canon PowerShot A2000 IS</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 36 mm - 216 mm (6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a2000is.gif</picture>
+    </links>
+    <releasedDate>2008-08-26</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2756" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="27">
+    <name>Canon PowerShot E1</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_e1.gif</picture>
+    </links>
+    <releasedDate>2008-08-26</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2756" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="28">
+    <name>Canon PowerShot SX110 IS</name>
+    <description>9.0 million effective pixels; 32 MP/cm^2 pixel density; 36 mm - 360 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408enthusiastgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sx110is.gif</picture>
+    </links>
+    <releasedDate>2008-08-26</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="3264" height="2248" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+        <resolution width="3456" height="1944" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="29">
+    <name>Canon EOS 1000D (EOS Digital Rebel XS)</name>
+    <description>10.1 million effective pixels; 3.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canoneos1000d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos1000d.gif</picture>
+    </links>
+    <releasedDate>2008-06-10</releasedDate>
+    <resolutions>
+      <maxResolution width="3888" height="2592" />
+      <lowResolutions>
+        <resolution width="2816" height="1880" />
+        <resolution width="1936" height="1288" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="22.2" height="14.8" />
+  </camera>
+  <camera id="30">
+    <name>Canon PowerShot SD790 IS (Digital IXUS 90 IS)</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>With its chiselled, slightly understated design, the SD790 IS / Ixus 90 is probably the best looking camera in Canon's current Elph lineup, and with its responsive operation and surprisingly good results it does exactly what a pocket camera should do; take great pictures with the minimum of fuss. It lacks any real standout features; from the 35-105mm zoom range to the boxy styling this is Canon playing it safe, resulting in a camera that sits firmly in the 'solid and reliable' camp. That's not a bad thing, and for those of us who place image quality far higher on our list of priorities the SD 790 IS doesn't disappoint.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408slimgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd790is.gif</picture>
+    </links>
+    <releasedDate>2008-03-13</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2648" height="2048" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="31">
+    <name>Canon PowerShot SD770 IS (Digital IXUS 85 IS)</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd770is.gif</picture>
+    </links>
+    <releasedDate>2008-03-13</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2648" height="2048" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="32">
+    <name>Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 37 mm - 185 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd890is.gif</picture>
+    </links>
+    <releasedDate>2008-03-13</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2648" height="2048" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="33">
+    <name>Canon PowerShot A590 IS</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary>Keenly priced mid-sized compact in the long-running and successful 'A' series of PowerShot cameras. The A590IS  is unusual in this class in that it offers a fairly comprehensive set of photographic controls (including Aperture and Shutter Priority modes) and its slightly bulkier, more traditional styling - complete with grip - shows it is clearly aimed at a more serious type of user wanting to take his or her photography beyond simple 'point and shoot' snapping. Image quality is pretty good too, so though perhaps not the first choice for the casual snapshooter, it is an excellent entry point for anyone on a tight budget wanting to take a more 'hands on' approach to picture taking. (April 2009)</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408budgetgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a590is.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="1832" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (incorporating Motion Detection Technology)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="34">
+    <name>Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)</name>
+    <description>12.2 million effective pixels; 3.7 MP/cm^2 pixel density;</description>
+    <summary>The fourth generation of Canon's hugely popular entry-level digital SLR.  In the face of increasing competiton at the budget end of the market the EOS 450D / Digital Rebel XSi aims a little higher and is a fairly significant update to its predecessor that inherits many features from the more expensive EOS 40D. It may no longer be the cheapest, but from an image quality point of view the EOS 450D sets the standard for cameras at this level, and has a comprehensive feature set that lift it above the typical 'entry level' fare.</summary>
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canoneos450d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos450d.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="4272" height="2848" />
+      <lowResolutions>
+        <resolution width="3088" height="2056" />
+        <resolution width="2256" height="1504" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="22.2" height="14.8" />
+  </camera>
+  <camera id="35">
+    <name>Canon PowerShot A470</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 132 mm (3.4x) zoom lens;</description>
+    <summary>The PowerShot A470 is the latest in a long line of entry-level A series cameras and is currently the least expensive model in Canon's extensive compact lineup. Being the bottom of the range means the A470 misses out on optical image stabilization (now found on virtually all Canon PowerShots), and the 3.4x zoom lens starts at a rather uninspiring 38mm equivalent, but you still get the benefit of the DIGIC III processor, giving you fast, effective face detection, AiAF multi point focus and motion detection (which is designed to avoid blur by increasing the ISO when it detects movement in the scene).</summary>
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408budgetgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a470.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="3072" height="1728" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (incorporating Motion Detection Technology)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="36">
+    <name>Canon PowerShot SD1100 IS (Digital IXUS 80 IS)</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>Replacement for the SD1000 (Ixus 70) offers solid, if slightly uninspiring feature set in a stylish and well made slimline casing. The SD1100IS is a 'typical' IXUS/SD in many respects. It is compact, well built and sports a reasonably attractive design. It offers good output quality in most situations - straight out of the box - only requiring minimal user intervention. It is also typical in so far as you won't find any groundbreaking innovations on the spec sheet. As usual Canon has chosen the safe route by sticking to what they know best. If it is the extraordinary you are after, go and look somewhere else. . (April 2009)</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canonsd1100is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd1100is.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="1832" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High ISO Auto (incorporating Motion Detection Technology)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="37">
+    <name>Canon PowerShot A580</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary>Budget  mid-sized compact in the long-running and successful 'A' series of PowerShot cameras. The A580 has a solid feature set for a camera at this level (including a useful 35-140mm equiv. 4x zoom) but we'd recommend paying a little more and moving up to the A5901IS, which throws image stabilization and comprehensive photographic controls into the mix.(April 2009)</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a580.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="1832" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (incorporating Motion Detection Technology)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="38">
+    <name>Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 28 mm - 105 mm (3.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canonsd870is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd870is.gif</picture>
+    </links>
+    <releasedDate>2007-08-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="39">
+    <name>Canon PowerShot G9</name>
+    <description>12.1 million effective pixels; 28 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canong9/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_g9.gif</picture>
+    </links>
+    <releasedDate>2007-08-20</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="40">
+    <name>Canon PowerShot SD950 IS (Digital IXUS 960 IS)</name>
+    <description>12.1 million effective pixels; 28 MP/cm^2 pixel density; 36 mm - 133 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd950is.gif</picture>
+    </links>
+    <releasedDate>2007-08-20</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="41">
+    <name>Canon EOS-1Ds Mark III</name>
+    <description>21.1 million effective pixels; 2.4 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>21.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canoneos1dsmarkiii/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos1dsmkiii.gif</picture>
+    </links>
+    <releasedDate>2007-08-20</releasedDate>
+    <resolutions>
+      <maxResolution width="5616" height="3744" />
+      <lowResolutions>
+        <resolution width="4992" height="3328" />
+        <resolution width="4080" height="2720" />
+        <resolution width="2784" height="1856" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100 - 1600 in 1/3 stops</ISOrating>
+      <ISOrating>plus 50</ISOrating>
+      <ISOrating>3200 as option</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="36.0" height="24.0" />
+  </camera>
+  <camera id="42">
+    <name>Canon PowerShot SX100 IS</name>
+    <description>8.3 million effective pixels; 34 MP/cm^2 pixel density; 36 mm - 360 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.3 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canonsx100is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sx100is.gif</picture>
+    </links>
+    <releasedDate>2007-08-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="43">
+    <name>Canon PowerShot A720 IS</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</description>
+    <summary>Minor update to the A710 IS offers a strong feature set (including stabilized 6x zoom) and good degree of user control at a competitive price. It isn't the smallest or most powerful camera in the World, (or even in the Canon range), but it's a great starting point for someone wanting to learn more about photography without breaking the bank. Image quality is suprisingly good and despite the rather cheap construction it's responsive and reliable.</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canona720is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a720is.gif</picture>
+    </links>
+    <releasedDate>2007-08-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="44">
+    <name>Canon EOS 40D</name>
+    <description>10.1 million effective pixels; 3.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canoneos40d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos40d.gif</picture>
+    </links>
+    <releasedDate>2007-08-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3888" height="2592" />
+      <lowResolutions>
+        <resolution width="2816" height="1880" />
+        <resolution width="1936" height="1288" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (H)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="22.2" height="14.8" />
+  </camera>
+  <camera id="45">
+    <name>Canon PowerShot A650 IS</name>
+    <description>12.1 million effective pixels; 28 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a650is.gif</picture>
+    </links>
+    <releasedDate>2007-08-20</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="46">
+    <name>Canon PowerShot S5 IS</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 36 mm - 432 mm (12x) zoom lens;</description>
+    <summary>Fairly low-key upgrade to the PowerShot S3 IS continues the successful formula of its predecessors, marrying a big 12x zoom lens (36-432mm equiv.) with a solid, 'mini SLR' style body that's packed with features and responsive in use. By no means perfect (the image quality doesn't bear close scrutiny), the S5IS was one of the best superzooms of its time, but has now been superceded by the better, more highly specified (and cheaper) PowerShot SX10 IS.</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/3200 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canons5is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_s5is.gif</picture>
+    </links>
+    <releasedDate>2007-05-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="1832" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="47">
+    <name>Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canonsd850is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd850is.gif</picture>
+    </links>
+    <releasedDate>2007-05-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="48">
+    <name>Canon PowerShot TX1</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 39 mm - 390 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canontx1/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_tx1.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="3072" height="1728" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="49">
+    <name>Canon EOS-1D Mark III</name>
+    <description>10.1 million effective pixels; 1.9 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos1dmkiii.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3888" height="2592" />
+      <lowResolutions>
+        <resolution width="3456" height="2304" />
+        <resolution width="2816" height="1880" />
+        <resolution width="1936" height="1288" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100 - 3200 in 1/3 stops</ISOrating>
+      <ISOrating>plus 50 and 6400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="28.7" height="18.7" />
+  </camera>
+  <camera id="50">
+    <name>Canon PowerShot SD750 (Digital IXUS 75)</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd750.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="51">
+    <name>Canon PowerShot A560</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a560.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="52">
+    <name>Canon PowerShot A570 IS</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canona570is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a570is.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="53">
+    <name>Canon PowerShot SD1000 (Digital IXUS 70)</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd1000.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="54">
+    <name>Canon PowerShot A460</name>
+    <description>5.0 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 152 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>5.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a460.gif</picture>
+    </links>
+    <releasedDate>2007-01-18</releasedDate>
+    <resolutions>
+      <maxResolution width="2592" height="1944" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="4.8" height="3.6" />
+  </camera>
+  <camera id="55">
+    <name>Canon PowerShot A550</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a550.gif</picture>
+    </links>
+    <releasedDate>2007-01-18</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="56">
+    <name>Canon PowerShot A450</name>
+    <description>5.0 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 122 mm (3.2x) zoom lens;</description>
+    <summary />
+    <effectivePixels>5.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a450.gif</picture>
+    </links>
+    <releasedDate>2007-01-18</releasedDate>
+    <resolutions>
+      <maxResolution width="2592" height="1944" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="4.8" height="3.6" />
+  </camera>
+  <camera id="57">
+    <name>Canon PowerShot SD900 (Digital IXUS 900 Ti)</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canonsd900/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd900.gif</picture>
+    </links>
+    <releasedDate>2006-09-14</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="58">
+    <name>Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 105 mm (3.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canonsd800is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd800is.gif</picture>
+    </links>
+    <releasedDate>2006-09-14</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="59">
+    <name>Canon PowerShot SD40 (Digital IXUS i7)</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 90 mm (2.3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_sd40.gif</picture>
+    </links>
+    <releasedDate>2006-09-14</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="60">
+    <name>Canon PowerShot G7</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canong7/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_g7.gif</picture>
+    </links>
+    <releasedDate>2006-09-14</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="61">
+    <name>Canon PowerShot A630</name>
+    <description>8.0 million effective pixels; 21 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a630.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="62">
+    <name>Canon PowerShot A640</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canona640/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a640.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="63">
+    <name>Canon PowerShot A710 IS</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</description>
+    <summary>Minor update to the A710 IS offers a strong feature set (including stabilized 6x zoom) and good degree of user control at a competitive price. It isn't the smallest or most powerful camera in the World, (or even in the Canon range), but it's a great starting point for someone wanting to learn more about photography without breaking the bank. Image quality is suprisingly good and despite the rather cheap construction it's responsive and reliable.</summary>
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canona710is/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_a710is.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="64">
+    <name>Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)</name>
+    <description>10.1 million effective pixels; 3.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canoneos400d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos400d.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3888" height="2592" />
+      <lowResolutions>
+        <resolution width="2816" height="1880" />
+        <resolution width="1936" height="1288" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="22.2" height="14.8" />
+  </camera>
+  <camera id="65">
+    <name>Canon EOS 5D</name>
+    <description>12.7 million effective pixels; 1.5 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.7 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/canoneos5d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/canon_eos5d.gif</picture>
+    </links>
+    <releasedDate>2005-08-22</releasedDate>
+    <resolutions>
+      <maxResolution width="4368" height="2912" />
+      <lowResolutions>
+        <resolution width="3168" height="2112" />
+        <resolution width="2496" height="1664" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100 - 1600 in 1/3 stops</ISOrating>
+      <ISOrating>plus 50</ISOrating>
+      <ISOrating>3200 as option</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="36.0" height="24.0" />
+  </camera>
+</cameras>
+

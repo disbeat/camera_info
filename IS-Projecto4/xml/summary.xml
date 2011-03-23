@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="summary.xsd">
+  <manufacturer name="Canon">
+    <totalCameras>65</totalCameras>
+    <mostRecentCameras>
+      <releasedDate>2005-08-22</releasedDate>
+      <modelsList>
+        <model>Canon EOS 5D</model>
+      </modelsList>
+    </mostRecentCameras>
+    <olderCameras>
+      <releasedDate>2009-09-01</releasedDate>
+      <modelsList>
+        <model>Canon EOS 7D</model>
+      </modelsList>
+    </olderCameras>
+    <resolutions>
+      <minResolutionCameras>
+        <resolution totalPixels="44800" />
+        <modelsList>
+          <model>Canon PowerShot SD970 IS (Digital IXUS 990 IS)</model>
+          <model>Canon PowerShot A2100 IS</model>
+          <model>Canon PowerShot D10</model>
+          <model>Canon PowerShot SD960 IS (Digital IXUS 110 IS)</model>
+          <model>Canon PowerShot SD780 IS (Digital IXUS 100 IS)</model>
+          <model>Canon PowerShot SX200 IS</model>
+          <model>Canon PowerShot A1100 IS</model>
+        </modelsList>
+      </minResolutionCameras>
+      <maxResolutionCameras>
+        <resolution totalPixels="21026304" />
+        <modelsList>
+          <model>Canon EOS 5D Mark II</model>
+          <model>Canon EOS-1Ds Mark III</model>
+        </modelsList>
+      </maxResolutionCameras>
+    </resolutions>
+    <modelsList>
+      <model>Canon EOS 7D</model>
+      <model>Canon PowerShot SX20 IS</model>
+      <model>Canon PowerShot SD980 IS (Digital IXUS 200 IS)</model>
+      <model>Canon PowerShot SD940 IS (Digital IXUS 120 IS)</model>
+      <model>Canon PowerShot SX120 IS</model>
+      <model>Canon PowerShot S90</model>
+      <model>Canon PowerShot G11</model>
+      <model>Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)</model>
+      <model>Canon PowerShot SD970 IS (Digital IXUS 990 IS)</model>
+      <model>Canon PowerShot A2100 IS</model>
+      <model>Canon PowerShot D10</model>
+      <model>Canon PowerShot SD960 IS (Digital IXUS 110 IS)</model>
+      <model>Canon PowerShot SD1200 IS (Digital IXUS 95 IS)</model>
+      <model>Canon PowerShot SD780 IS (Digital IXUS 100 IS)</model>
+      <model>Canon PowerShot SX200 IS</model>
+      <model>Canon PowerShot A1100 IS</model>
+      <model>Canon PowerShot A480</model>
+      <model>Canon EOS 5D Mark II</model>
+      <model>Canon PowerShot G10</model>
+      <model>Canon PowerShot SX1 IS</model>
+      <model>Canon PowerShot SX10 IS</model>
+      <model>Canon PowerShot SD880 IS (Digital IXUS 870 IS)</model>
+      <model>Canon PowerShot SD990 IS (Digital IXUS 980 IS)</model>
+      <model>Canon PowerShot E1</model>
+      <model>Canon PowerShot SX110 IS</model>
+      <model>Canon EOS 50D</model>
+      <model>Canon PowerShot A1000 IS</model>
+      <model>Canon PowerShot A2000 IS</model>
+      <model>Canon EOS 1000D (EOS Digital Rebel XS)</model>
+      <model>Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)</model>
+      <model>Canon PowerShot SD790 IS (Digital IXUS 90 IS)</model>
+      <model>Canon PowerShot SD770 IS (Digital IXUS 85 IS)</model>
+      <model>Canon PowerShot A580</model>
+      <model>Canon PowerShot A590 IS</model>
+      <model>Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)</model>
+      <model>Canon PowerShot A470</model>
+      <model>Canon PowerShot SD1100 IS (Digital IXUS 80 IS)</model>
+      <model>Canon EOS 40D</model>
+      <model>Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)</model>
+      <model>Canon PowerShot G9</model>
+      <model>Canon PowerShot SD950 IS (Digital IXUS 960 IS)</model>
+      <model>Canon EOS-1Ds Mark III</model>
+      <model>Canon PowerShot SX100 IS</model>
+      <model>Canon PowerShot A720 IS</model>
+      <model>Canon PowerShot A650 IS</model>
+      <model>Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)</model>
+      <model>Canon PowerShot S5 IS</model>
+      <model>Canon PowerShot SD1000 (Digital IXUS 70)</model>
+      <model>Canon PowerShot TX1</model>
+      <model>Canon EOS-1D Mark III</model>
+      <model>Canon PowerShot SD750 (Digital IXUS 75)</model>
+      <model>Canon PowerShot A560</model>
+      <model>Canon PowerShot A570 IS</model>
+      <model>Canon PowerShot A450</model>
+      <model>Canon PowerShot A460</model>
+      <model>Canon PowerShot A550</model>
+      <model>Canon PowerShot SD900 (Digital IXUS 900 Ti)</model>
+      <model>Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)</model>
+      <model>Canon PowerShot SD40 (Digital IXUS i7)</model>
+      <model>Canon PowerShot G7</model>
+      <model>Canon PowerShot A630</model>
+      <model>Canon PowerShot A640</model>
+      <model>Canon PowerShot A710 IS</model>
+      <model>Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)</model>
+      <model>Canon EOS 5D</model>
+    </modelsList>
+  </manufacturer>
+  <manufacturer name="Casio">
+    <totalCameras>33</totalCameras>
+    <mostRecentCameras>
+      <releasedDate>2006-06-22</releasedDate>
+      <modelsList>
+        <model>Casio Exilim EX-Z70</model>
+      </modelsList>
+    </mostRecentCameras>
+    <olderCameras>
+      <releasedDate>2009-08-31</releasedDate>
+      <modelsList>
+        <model>Casio Exilim EX-Z33</model>
+        <model>Casio Exilim EX-Z280</model>
+      </modelsList>
+    </olderCameras>
+    <resolutions>
+      <minResolutionCameras>
+        <resolution totalPixels="307200" />
+        <modelsList>
+          <model>Casio Exilim EX-Z33</model>
+          <model>Casio Exilim EX-Z280</model>
+          <model>Casio Exilim EX-Z90</model>
+          <model>Casio Exilim EX-H10</model>
+          <model>Casio Exilim EX-Z29</model>
+          <model>Casio Exilim EX-Z270</model>
+          <model>Casio Exilim EX-S12</model>
+          <model>Casio Exilim EX-S5</model>
+          <model>Casio Exilim EX-FS10</model>
+          <model>Casio Exilim EX-FC100</model>
+          <model>Casio Exilim EX-Z400</model>
+          <model>Casio Exilim EX-FH20</model>
+          <model>Casio Exilim EX-Z300</model>
+          <model>Casio Exilim EX-Z85</model>
+          <model>Casio Exilim EX-Z250</model>
+          <model>Casio Exilim EX-Z9</model>
+          <model>Casio Exilim EX-Z80</model>
+          <model>Casio Exilim EX-Z100</model>
+          <model>Casio Exilim EX-S10</model>
+          <model>Casio Exilim EX-Z200</model>
+          <model>Casio Exilim Pro EX-F1</model>
+          <model>Casio Exilim EX-Z1080</model>
+          <model>Casio Exilim EX-V8</model>
+          <model>Casio Exilim EX-Z77</model>
+          <model>Casio Exilim EX-S880</model>
+          <model>Casio Exilim EX-Z1200 SR</model>
+          <model>Casio Exilim EX-Z75</model>
+          <model>Casio Exilim EX-Z1050</model>
+          <model>Casio Exilim EX-V7</model>
+          <model>Casio Exilim EX-S770</model>
+          <model>Casio Exilim EX-Z700</model>
+          <model>Casio Exilim EX-S600d</model>
+          <model>Casio Exilim EX-Z70</model>
+        </modelsList>
+      </minResolutionCameras>
+      <maxResolutionCameras>
+        <resolution totalPixels="12000000" />
+        <modelsList>
+          <model>Casio Exilim EX-Z280</model>
+          <model>Casio Exilim EX-Z90</model>
+          <model>Casio Exilim EX-H10</model>
+          <model>Casio Exilim EX-S12</model>
+          <model>Casio Exilim EX-Z400</model>
+          <model>Casio Exilim EX-Z1200 SR</model>
+        </modelsList>
+      </maxResolutionCameras>
+    </resolutions>
+    <modelsList>
+      <model>Casio Exilim EX-Z33</model>
+      <model>Casio Exilim EX-Z280</model>
+      <model>Casio Exilim EX-Z90</model>
+      <model>Casio Exilim EX-H10</model>
+      <model>Casio Exilim EX-Z29</model>
+      <model>Casio Exilim EX-Z270</model>
+      <model>Casio Exilim EX-S12</model>
+      <model>Casio Exilim EX-S5</model>
+      <model>Casio Exilim EX-FS10</model>
+      <model>Casio Exilim EX-FC100</model>
+      <model>Casio Exilim EX-Z400</model>
+      <model>Casio Exilim EX-FH20</model>
+      <model>Casio Exilim EX-Z300</model>
+      <model>Casio Exilim EX-Z85</model>
+      <model>Casio Exilim EX-Z250</model>
+      <model>Casio Exilim EX-Z9</model>
+      <model>Casio Exilim EX-Z80</model>
+      <model>Casio Exilim EX-Z100</model>
+      <model>Casio Exilim EX-S10</model>
+      <model>Casio Exilim EX-Z200</model>
+      <model>Casio Exilim Pro EX-F1</model>
+      <model>Casio Exilim EX-Z1080</model>
+      <model>Casio Exilim EX-V8</model>
+      <model>Casio Exilim EX-Z77</model>
+      <model>Casio Exilim EX-S880</model>
+      <model>Casio Exilim EX-Z1200 SR</model>
+      <model>Casio Exilim EX-Z75</model>
+      <model>Casio Exilim EX-Z1050</model>
+      <model>Casio Exilim EX-V7</model>
+      <model>Casio Exilim EX-S770</model>
+      <model>Casio Exilim EX-Z700</model>
+      <model>Casio Exilim EX-S600d</model>
+      <model>Casio Exilim EX-Z70</model>
+    </modelsList>
+  </manufacturer>
+</summary>
+

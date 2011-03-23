@@ -1,0 +1,3327 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="style.css" rel="stylesheet" type="text/css">
+<script src="jquery.js" type="text/javascript"></script><script type="text/javascript">
+					$(document).ready(function(){
+						var active="none";
+						$("tr.to_hide").hide();
+						
+						$("td.name").click(function(){
+							var tmp_id= $(this).attr("id");
+							$("tr.to_hide").hide();
+							if(active!=tmp_id){
+								active = tmp_id;
+								$(this).parent().parent().children().show();
+							}else{
+								active = "none";
+							}
+						});
+					});
+				</script>
+</head>
+<body>
+<h2>canon</h2>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS-1D Mark IV">
+						Name
+				</td><td class="name" id="Canon EOS-1D Mark IV">Canon EOS-1D Mark IV</td>
+</tr>
+<tr class="Canon EOS-1D Mark IV_all">
+<td class="left">Description</td><td>16.1 million effective pixels; 3.1 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Release Date</td><td>2009-10-20</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Maximum Resolution</td><td>4896x3264<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Lower Resolutions</td><td>4320x2880<br>3672x2448<br>3552x2368<br>2448x1632<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Effective pixels</td><td>16.1 million</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Sensor size</td><td>27.9x18.6<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Iso Rating</td><td>100 - 12800 in 1/3  or 1 stops<br>50<br>25600<br>51200 and 102400 with boost<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark IV_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos1dmkiv.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS 7D">
+						Name
+				</td><td class="name" id="Canon EOS 7D">Canon EOS 7D</td>
+</tr>
+<tr class="Canon EOS 7D_all">
+<td class="left">Description</td><td>18.0 million effective pixels; 5.4 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Release Date</td><td>2009-09-01</td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Maximum Resolution</td><td>5184x3456<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Lower Resolutions</td><td>5184x3456<br>3888x2592<br>3456x2304<br>2592x1728<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Effective pixels</td><td>18.0 million</td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Sensor size</td><td>22.3x14.9<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>3200<br>6400<br>12800(H)<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 7D_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos7d/">http://www.dpreview.com/reviews/canoneos7d/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos7d.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SX120 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot SX120 IS">Canon PowerShot SX120 IS</td>
+</tr>
+<tr class="Canon PowerShot SX120 IS_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 40 MP/cm^2 pixel density; 36 mm - 360 mm (10x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Release Date</td><td>2009-08-19</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Lower Resolutions</td><td>3648x2048<br>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>3456x1944<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX120 IS_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sx120is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SX20 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot SX20 IS">Canon PowerShot SX20 IS</td>
+</tr>
+<tr class="Canon PowerShot SX20 IS_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 560 mm (20x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Release Date</td><td>2009-08-19</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Lower Resolutions</td><td>3840x2160<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x240<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/3200 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX20 IS_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sx20is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD980 IS (Digital IXUS 200 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD980 IS (Digital IXUS 200 IS)">Canon PowerShot SD980 IS (Digital IXUS 200 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 24 mm - 120 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Release Date</td><td>2009-08-19</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Lower Resolutions</td><td>4000x2248<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x240<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/3000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD980 IS (Digital IXUS 200 IS)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd980is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD940 IS (Digital IXUS 120 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD940 IS (Digital IXUS 120 IS)">Canon PowerShot SD940 IS (Digital IXUS 120 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Release Date</td><td>2009-08-19</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Lower Resolutions</td><td>4000x2248<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x240<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD940 IS (Digital IXUS 120 IS)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd940is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot S90">
+						Name
+				</td><td class="name" id="Canon PowerShot S90">Canon PowerShot S90</td>
+</tr>
+<tr class="Canon PowerShot S90_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 23 MP/cm^2 pixel density; 28 mm - 105 mm (3.7x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Release Date</td><td>2009-08-19</td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Lower Resolutions</td><td>3648x2048<br>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>320x240<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Sensor size</td><td>7.6x5.7<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Iso Rating</td><td>Auto<br>ISO 80<br>100<br>ISO 125<br>160<br>200<br>250<br>320<br>400<br>500<br>640<br>800<br>1000<br>1250<br>1600<br>2000<br>2500<br>3200<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S90_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/gallery/canons90_preview/">http://www.dpreview.com/gallery/canons90_preview/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_s90.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot G11">
+						Name
+				</td><td class="name" id="Canon PowerShot G11">Canon PowerShot G11</td>
+</tr>
+<tr class="Canon PowerShot G11_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 23 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Release Date</td><td>2009-08-19</td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Lower Resolutions</td><td>3648x2048<br>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>320x240<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Sensor size</td><td>7.6x5.7<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>3200<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G11_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canong11/">http://www.dpreview.com/reviews/canong11/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_g11.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)">
+						Name
+				</td><td class="name" id="Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)">Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)</td>
+</tr>
+<tr class="Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Description</td><td>15.1 million effective pixels; 4.5 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Release Date</td><td>2009-03-25</td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Maximum Resolution</td><td>4752x3168<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Lower Resolutions</td><td>3456x2304<br>2353x1568<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Effective pixels</td><td>15.1 million</td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Sensor size</td><td>22.3x14.9<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>3200  (6400-12800 expandable)<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 500D (EOS Rebel T1i, EOS Kiss Digital X3)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos500d/">http://www.dpreview.com/reviews/canoneos500d/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos500d.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD1200 IS (Digital IXUS 95 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD1200 IS (Digital IXUS 95 IS)">Canon PowerShot SD1200 IS (Digital IXUS 95 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Release Date</td><td>2009-02-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Lower Resolutions</td><td>3648x2048<br>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1200 IS (Digital IXUS 95 IS)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd1200is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot D10">
+						Name
+				</td><td class="name" id="Canon PowerShot D10">Canon PowerShot D10</td>
+</tr>
+<tr class="Canon PowerShot D10_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Release Date</td><td>2009-02-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Lower Resolutions</td><td>4000x2248<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x140<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>3200<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/5000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot D10_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q209waterproofgroup/">http://www.dpreview.com/reviews/Q209waterproofgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_d10.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD970 IS (Digital IXUS 990 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD970 IS (Digital IXUS 990 IS)">Canon PowerShot SD970 IS (Digital IXUS 990 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 37 mm - 185 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Release Date</td><td>2009-02-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Lower Resolutions</td><td>4000x2248<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x140<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD970 IS (Digital IXUS 990 IS)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/gallery/canonsd970is_samples/">http://www.dpreview.com/gallery/canonsd970is_samples/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd970is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A2100 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot A2100 IS">Canon PowerShot A2100 IS</td>
+</tr>
+<tr class="Canon PowerShot A2100 IS_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 36 mm - 216 mm (6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Release Date</td><td>2009-02-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Lower Resolutions</td><td>4000x2248<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x140<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2100 IS_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a2100is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD960 IS (Digital IXUS 110 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD960 IS (Digital IXUS 110 IS)">Canon PowerShot SD960 IS (Digital IXUS 110 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Release Date</td><td>2009-02-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Lower Resolutions</td><td>4000x2248<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x140<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD960 IS (Digital IXUS 110 IS)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd960is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SX200 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot SX200 IS">Canon PowerShot SX200 IS</td>
+</tr>
+<tr class="Canon PowerShot SX200 IS_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 336 mm (12x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Release Date</td><td>2009-02-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Lower Resolutions</td><td>4000x2248<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x140<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/3200 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX200 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/q209grouplongzoom/">http://www.dpreview.com/reviews/q209grouplongzoom/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sx200is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD780 IS (Digital IXUS 100 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD780 IS (Digital IXUS 100 IS)">Canon PowerShot SD780 IS (Digital IXUS 100 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 33 mm - 100 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Release Date</td><td>2009-02-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Lower Resolutions</td><td>4000x2248<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x140<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD780 IS (Digital IXUS 100 IS)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd780is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A1100 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot A1100 IS">Canon PowerShot A1100 IS</td>
+</tr>
+<tr class="Canon PowerShot A1100 IS_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Release Date</td><td>2009-02-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Lower Resolutions</td><td>4000x2248<br>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>320x140<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1100 IS_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a1100is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A480">
+						Name
+				</td><td class="name" id="Canon PowerShot A480">Canon PowerShot A480</td>
+</tr>
+<tr class="Canon PowerShot A480_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 37 mm - 122 mm (3.2x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Release Date</td><td>2009-01-15</td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>3648x2048<br>320x240<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A480_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a480.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot G10">
+						Name
+				</td><td class="name" id="Canon PowerShot G10">Canon PowerShot G10</td>
+</tr>
+<tr class="Canon PowerShot G10_all">
+<td class="left">Description</td><td>14.7 million effective pixels; 34 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Release Date</td><td>2008-09-17</td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Maximum Resolution</td><td>4416x3312<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Lower Resolutions</td><td>3648x2736<br>3072x2304<br>2560x1920<br>2048x1536<br>1600x1200<br>640x480<br>4416x2480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Effective pixels</td><td>14.7 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Sensor size</td><td>7.6x5.7<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G10_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canong10/">http://www.dpreview.com/reviews/canong10/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_g10.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS 5D Mark II">
+						Name
+				</td><td class="name" id="Canon EOS 5D Mark II">Canon EOS 5D Mark II</td>
+</tr>
+<tr class="Canon EOS 5D Mark II_all">
+<td class="left">Description</td><td>21.0 million effective pixels; 2.4 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Release Date</td><td>2008-09-17</td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Maximum Resolution</td><td>5616x3744<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Lower Resolutions</td><td>4080x2720<br>2784x1856<br>5616x3744<br>3861x2574<br>2784x1856<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Effective pixels</td><td>21.0 million</td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Sensor size</td><td>36.0x24.0<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Iso Rating</td><td>100 - 6400 in 1/3 stops<br>plus 50<br>12800<br>25600 as option<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D Mark II_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos5dmarkii/">http://www.dpreview.com/reviews/canoneos5dmarkii/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos5dmkii.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SX1 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot SX1 IS">Canon PowerShot SX1 IS</td>
+</tr>
+<tr class="Canon PowerShot SX1 IS_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 560 mm (20x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Release Date</td><td>2008-09-17</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>3840x2160<br>1920x1080<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/3200 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX1 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canonsx1is/">http://www.dpreview.com/reviews/canonsx1is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sx1is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SX10 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot SX10 IS">Canon PowerShot SX10 IS</td>
+</tr>
+<tr class="Canon PowerShot SX10 IS_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 560 mm (20x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Release Date</td><td>2008-09-17</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>3648x2048<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/3200 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX10 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q109superzoomgroup/">http://www.dpreview.com/reviews/Q109superzoomgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sx10is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD880 IS (Digital IXUS 870 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD880 IS (Digital IXUS 870 IS)">Canon PowerShot SD880 IS (Digital IXUS 870 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Release Date</td><td>2008-09-17</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>3648x2048<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD880 IS (Digital IXUS 870 IS)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408premiumgroup/">http://www.dpreview.com/reviews/Q408premiumgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd880is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD990 IS (Digital IXUS 980 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD990 IS (Digital IXUS 980 IS)">Canon PowerShot SD990 IS (Digital IXUS 980 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Description</td><td>14.7 million effective pixels; 34 MP/cm^2 pixel density; 36 mm - 133 mm (3.6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Release Date</td><td>2008-09-17</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Maximum Resolution</td><td>4416x3312<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Lower Resolutions</td><td>3648x2736<br>3072x2304<br>2560x1920<br>2048x1536<br>1600x1200<br>640x480<br>4416x2480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Effective pixels</td><td>14.7 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Sensor size</td><td>7.6x5.7<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD990 IS (Digital IXUS 980 IS)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd990is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SX110 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot SX110 IS">Canon PowerShot SX110 IS</td>
+</tr>
+<tr class="Canon PowerShot SX110 IS_all">
+<td class="left">Description</td><td>9.0 million effective pixels; 32 MP/cm^2 pixel density; 36 mm - 360 mm (10x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Release Date</td><td>2008-08-26</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Maximum Resolution</td><td>3456x2592<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Lower Resolutions</td><td>3264x2248<br>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>3456x1944<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Effective pixels</td><td>9.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX110 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408enthusiastgroup/">http://www.dpreview.com/reviews/Q408enthusiastgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sx110is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS 50D">
+						Name
+				</td><td class="name" id="Canon EOS 50D">Canon EOS 50D</td>
+</tr>
+<tr class="Canon EOS 50D_all">
+<td class="left">Description</td><td>15.1 million effective pixels; 4.5 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Release Date</td><td>2008-08-26</td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Maximum Resolution</td><td>4752x3168<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Lower Resolutions</td><td>3456x2304<br>2353x1568<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Effective pixels</td><td>15.1 million</td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Sensor size</td><td>22.3x14.9<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>3200 (H)<br>6400(H1)<br>12800(H2)<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 50D_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos50d/">http://www.dpreview.com/reviews/canoneos50d/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos50d.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot E1">
+						Name
+				</td><td class="name" id="Canon PowerShot E1">Canon PowerShot E1</td>
+</tr>
+<tr class="Canon PowerShot E1_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Release Date</td><td>2008-08-26</td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Maximum Resolution</td><td>3648x2756<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot E1_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_e1.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A1000 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot A1000 IS">Canon PowerShot A1000 IS</td>
+</tr>
+<tr class="Canon PowerShot A1000 IS_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Release Date</td><td>2008-08-26</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Maximum Resolution</td><td>3648x2756<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A1000 IS_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a1000is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A2000 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot A2000 IS">Canon PowerShot A2000 IS</td>
+</tr>
+<tr class="Canon PowerShot A2000 IS_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 36 mm - 216 mm (6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Release Date</td><td>2008-08-26</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Maximum Resolution</td><td>3648x2756<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A2000 IS_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a2000is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS 1000D (EOS Digital Rebel XS)">
+						Name
+				</td><td class="name" id="Canon EOS 1000D (EOS Digital Rebel XS)">Canon EOS 1000D (EOS Digital Rebel XS)</td>
+</tr>
+<tr class="Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Description</td><td>10.1 million effective pixels; 3.1 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Release Date</td><td>2008-06-10</td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Maximum Resolution</td><td>3888x2592<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Lower Resolutions</td><td>2816x1880<br>1936x1288<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Effective pixels</td><td>10.1 million</td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Sensor size</td><td>22.2x14.8<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 1000D (EOS Digital Rebel XS)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos1000d/">http://www.dpreview.com/reviews/canoneos1000d/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos1000d.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)">Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 37 mm - 185 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Release Date</td><td>2008-03-13</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Lower Resolutions</td><td>2648x2048<br>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>High Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD890 IS (Digital IXUS 970 IS, IXY Digital 820 IS)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd890is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD790 IS (Digital IXUS 90 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD790 IS (Digital IXUS 90 IS)">Canon PowerShot SD790 IS (Digital IXUS 90 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Release Date</td><td>2008-03-13</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Lower Resolutions</td><td>2648x2048<br>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>High Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD790 IS (Digital IXUS 90 IS)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408slimgroup/">http://www.dpreview.com/reviews/Q408slimgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd790is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD770 IS (Digital IXUS 85 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD770 IS (Digital IXUS 85 IS)">Canon PowerShot SD770 IS (Digital IXUS 85 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Release Date</td><td>2008-03-13</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Lower Resolutions</td><td>2648x2048<br>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>High Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD770 IS (Digital IXUS 85 IS)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd770is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A580">
+						Name
+				</td><td class="name" id="Canon PowerShot A580">Canon PowerShot A580</td>
+</tr>
+<tr class="Canon PowerShot A580_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Release Date</td><td>2008-01-24</td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Lower Resolutions</td><td>3264x1832<br>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Iso Rating</td><td>Auto<br>Hi Auto (incorporating Motion Detection Technology)<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A580_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a580.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A590 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot A590 IS">Canon PowerShot A590 IS</td>
+</tr>
+<tr class="Canon PowerShot A590 IS_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Release Date</td><td>2008-01-24</td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Lower Resolutions</td><td>3264x1832<br>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>Hi Auto (incorporating Motion Detection Technology)<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A590 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408budgetgroup/">http://www.dpreview.com/reviews/Q408budgetgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a590is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)">
+						Name
+				</td><td class="name" id="Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)">Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)</td>
+</tr>
+<tr class="Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Description</td><td>12.2 million effective pixels; 3.7 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Release Date</td><td>2008-01-24</td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Maximum Resolution</td><td>4272x2848<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Lower Resolutions</td><td>3088x2056<br>2256x1504<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Effective pixels</td><td>12.2 million</td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Sensor size</td><td>22.2x14.8<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 450D (EOS Digital Rebel XSi, EOS Kiss X2)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos450d/">http://www.dpreview.com/reviews/canoneos450d/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos450d.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD1100 IS (Digital IXUS 80 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD1100 IS (Digital IXUS 80 IS)">Canon PowerShot SD1100 IS (Digital IXUS 80 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Release Date</td><td>2008-01-24</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Lower Resolutions</td><td>3264x1832<br>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>High ISO Auto (incorporating Motion Detection Technology)<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1100 IS (Digital IXUS 80 IS)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canonsd1100is/">http://www.dpreview.com/reviews/canonsd1100is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd1100is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A470">
+						Name
+				</td><td class="name" id="Canon PowerShot A470">Canon PowerShot A470</td>
+</tr>
+<tr class="Canon PowerShot A470_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 132 mm (3.4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Release Date</td><td>2008-01-24</td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Lower Resolutions</td><td>3072x1728<br>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Iso Rating</td><td>Auto<br>Hi Auto (incorporating Motion Detection Technology)<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A470_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408budgetgroup/">http://www.dpreview.com/reviews/Q408budgetgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a470.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A720 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot A720 IS">Canon PowerShot A720 IS</td>
+</tr>
+<tr class="Canon PowerShot A720 IS_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Release Date</td><td>2007-08-20</td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A720 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canona720is/">http://www.dpreview.com/reviews/canona720is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a720is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SX100 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot SX100 IS">Canon PowerShot SX100 IS</td>
+</tr>
+<tr class="Canon PowerShot SX100 IS_all">
+<td class="left">Description</td><td>8.3 million effective pixels; 34 MP/cm^2 pixel density; 36 mm - 360 mm (10x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Release Date</td><td>2007-08-20</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Effective pixels</td><td>8.3 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SX100 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canonsx100is/">http://www.dpreview.com/reviews/canonsx100is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sx100is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS-1Ds Mark III">
+						Name
+				</td><td class="name" id="Canon EOS-1Ds Mark III">Canon EOS-1Ds Mark III</td>
+</tr>
+<tr class="Canon EOS-1Ds Mark III_all">
+<td class="left">Description</td><td>21.1 million effective pixels; 2.4 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Release Date</td><td>2007-08-20</td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Maximum Resolution</td><td>5616x3744<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Lower Resolutions</td><td>4992x3328<br>4080x2720<br>2784x1856<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Effective pixels</td><td>21.1 million</td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Sensor size</td><td>36.0x24.0<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Iso Rating</td><td>100 - 1600 in 1/3 stops<br>plus 50<br>3200 as option<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1Ds Mark III_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos1dsmarkiii/">http://www.dpreview.com/reviews/canoneos1dsmarkiii/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos1dsmkiii.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD950 IS (Digital IXUS 960 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD950 IS (Digital IXUS 960 IS)">Canon PowerShot SD950 IS (Digital IXUS 960 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 28 MP/cm^2 pixel density; 36 mm - 133 mm (3.6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Release Date</td><td>2007-08-20</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Lower Resolutions</td><td>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Sensor size</td><td>7.6x5.7<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD950 IS (Digital IXUS 960 IS)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd950is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot G9">
+						Name
+				</td><td class="name" id="Canon PowerShot G9">Canon PowerShot G9</td>
+</tr>
+<tr class="Canon PowerShot G9_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 28 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Release Date</td><td>2007-08-20</td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Lower Resolutions</td><td>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Sensor size</td><td>7.6x5.7<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G9_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canong9/">http://www.dpreview.com/reviews/canong9/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_g9.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)">Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 28 mm - 105 mm (3.7x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Release Date</td><td>2007-08-20</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD870 IS (Digital IXUS 860 IS, IXY Digital 910 IS)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canonsd870is/">http://www.dpreview.com/reviews/canonsd870is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd870is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A650 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot A650 IS">Canon PowerShot A650 IS</td>
+</tr>
+<tr class="Canon PowerShot A650 IS_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 28 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Release Date</td><td>2007-08-20</td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Lower Resolutions</td><td>3264x2448<br>2592x1944<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Sensor size</td><td>7.6x5.7<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A650 IS_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a650is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS 40D">
+						Name
+				</td><td class="name" id="Canon EOS 40D">Canon EOS 40D</td>
+</tr>
+<tr class="Canon EOS 40D_all">
+<td class="left">Description</td><td>10.1 million effective pixels; 3.1 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Release Date</td><td>2007-08-20</td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Maximum Resolution</td><td>3888x2592<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Lower Resolutions</td><td>2816x1880<br>1936x1288<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Effective pixels</td><td>10.1 million</td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Sensor size</td><td>22.2x14.8<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>3200 (H)<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 40D_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos40d/">http://www.dpreview.com/reviews/canoneos40d/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos40d.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)">Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Release Date</td><td>2007-05-07</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Lower Resolutions</td><td>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD850 IS (Digital IXUS 950 IS, IXY Digital 810 IS)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canonsd850is/">http://www.dpreview.com/reviews/canonsd850is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd850is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot S5 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot S5 IS">Canon PowerShot S5 IS</td>
+</tr>
+<tr class="Canon PowerShot S5 IS_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 36 mm - 432 mm (12x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Release Date</td><td>2007-05-07</td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Lower Resolutions</td><td>3264x1832<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/3200 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot S5 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canons5is/">http://www.dpreview.com/reviews/canons5is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_s5is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD750 (Digital IXUS 75)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD750 (Digital IXUS 75)">Canon PowerShot SD750 (Digital IXUS 75)</td>
+</tr>
+<tr class="Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Release Date</td><td>2007-02-22</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD750 (Digital IXUS 75)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd750.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A560">
+						Name
+				</td><td class="name" id="Canon PowerShot A560">Canon PowerShot A560</td>
+</tr>
+<tr class="Canon PowerShot A560_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Release Date</td><td>2007-02-22</td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A560_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a560.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A570 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot A570 IS">Canon PowerShot A570 IS</td>
+</tr>
+<tr class="Canon PowerShot A570 IS_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Release Date</td><td>2007-02-22</td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A570 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canona570is/">http://www.dpreview.com/reviews/canona570is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a570is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD1000 (Digital IXUS 70)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD1000 (Digital IXUS 70)">Canon PowerShot SD1000 (Digital IXUS 70)</td>
+</tr>
+<tr class="Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Release Date</td><td>2007-02-22</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD1000 (Digital IXUS 70)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd1000.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot TX1">
+						Name
+				</td><td class="name" id="Canon PowerShot TX1">Canon PowerShot TX1</td>
+</tr>
+<tr class="Canon PowerShot TX1_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 39 mm - 390 mm (10x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Release Date</td><td>2007-02-22</td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Lower Resolutions</td><td>3072x1728<br>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Image Ratio</td><td>16x9<br>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot TX1_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canontx1/">http://www.dpreview.com/reviews/canontx1/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_tx1.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS-1D Mark III">
+						Name
+				</td><td class="name" id="Canon EOS-1D Mark III">Canon EOS-1D Mark III</td>
+</tr>
+<tr class="Canon EOS-1D Mark III_all">
+<td class="left">Description</td><td>10.1 million effective pixels; 1.9 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Release Date</td><td>2007-02-22</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Maximum Resolution</td><td>3888x2592<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Lower Resolutions</td><td>3456x2304<br>2816x1880<br>1936x1288<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Effective pixels</td><td>10.1 million</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Sensor size</td><td>28.7x18.7<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Iso Rating</td><td>100 - 3200 in 1/3 stops<br>plus 50 and 6400<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS-1D Mark III_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos1dmkiii.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A550">
+						Name
+				</td><td class="name" id="Canon PowerShot A550">Canon PowerShot A550</td>
+</tr>
+<tr class="Canon PowerShot A550_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Release Date</td><td>2007-01-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A550_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a550.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A460">
+						Name
+				</td><td class="name" id="Canon PowerShot A460">Canon PowerShot A460</td>
+</tr>
+<tr class="Canon PowerShot A460_all">
+<td class="left">Description</td><td>5.0 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 152 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Release Date</td><td>2007-01-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Maximum Resolution</td><td>2592x1944<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Lower Resolutions</td><td>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Effective pixels</td><td>5.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Sensor size</td><td>4.8x3.6<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A460_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a460.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A450">
+						Name
+				</td><td class="name" id="Canon PowerShot A450">Canon PowerShot A450</td>
+</tr>
+<tr class="Canon PowerShot A450_all">
+<td class="left">Description</td><td>5.0 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 122 mm (3.2x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Release Date</td><td>2007-01-18</td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Maximum Resolution</td><td>2592x1944<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Lower Resolutions</td><td>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Effective pixels</td><td>5.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Sensor size</td><td>4.8x3.6<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A450_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a450.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)">Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)</td>
+</tr>
+<tr class="Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 105 mm (3.7x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Release Date</td><td>2006-09-14</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD800 IS (Digital IXUS 850 IS, IXY Digital 900 IS)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canonsd800is/">http://www.dpreview.com/reviews/canonsd800is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd800is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)">Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)</td>
+</tr>
+<tr class="Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 90 mm (2.3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Release Date</td><td>2006-09-14</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/1600 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD40 (Digital IXUS i7, IXY Digital L4)_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd40.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot G7">
+						Name
+				</td><td class="name" id="Canon PowerShot G7">Canon PowerShot G7</td>
+</tr>
+<tr class="Canon PowerShot G7_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Release Date</td><td>2006-09-14</td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Sensor size</td><td>7.18x5.32<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot G7_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canong7/">http://www.dpreview.com/reviews/canong7/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_g7.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot SD900 (Digital IXUS 900 Ti)">
+						Name
+				</td><td class="name" id="Canon PowerShot SD900 (Digital IXUS 900 Ti)">Canon PowerShot SD900 (Digital IXUS 900 Ti)</td>
+</tr>
+<tr class="Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 26 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Release Date</td><td>2006-09-14</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Sensor size</td><td>7.18x5.32<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot SD900 (Digital IXUS 900 Ti)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canonsd900/">http://www.dpreview.com/reviews/canonsd900/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_sd900.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A710 IS">
+						Name
+				</td><td class="name" id="Canon PowerShot A710 IS">Canon PowerShot A710 IS</td>
+</tr>
+<tr class="Canon PowerShot A710 IS_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 210 mm (6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Release Date</td><td>2006-08-24</td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A710 IS_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canona710is/">http://www.dpreview.com/reviews/canona710is/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a710is.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)">
+						Name
+				</td><td class="name" id="Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)">Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)</td>
+</tr>
+<tr class="Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Description</td><td>10.1 million effective pixels; 3.1 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Release Date</td><td>2006-08-24</td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Maximum Resolution</td><td>3888x2592<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Lower Resolutions</td><td>2816x1880<br>1936x1288<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Effective pixels</td><td>10.1 million</td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Sensor size</td><td>22.2x14.8<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Iso Rating</td><td>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 400D (EOS Digital Rebel XTi, EOS Kiss Digital X)_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos400d/">http://www.dpreview.com/reviews/canoneos400d/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos400d.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A640">
+						Name
+				</td><td class="name" id="Canon PowerShot A640">Canon PowerShot A640</td>
+</tr>
+<tr class="Canon PowerShot A640_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Release Date</td><td>2006-08-24</td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2272x1704<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Sensor size</td><td>7.18x5.32<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A640_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canona640/">http://www.dpreview.com/reviews/canona640/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a640.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon PowerShot A630">
+						Name
+				</td><td class="name" id="Canon PowerShot A630">Canon PowerShot A630</td>
+</tr>
+<tr class="Canon PowerShot A630_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 21 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Release Date</td><td>2006-08-24</td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Sensor size</td><td>7.18x5.32<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Shutter speed</td><td>
+						Min:15 sec<br>
+						Max:1/2500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon PowerShot A630_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_a630.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Canon EOS 5D">
+						Name
+				</td><td class="name" id="Canon EOS 5D">Canon EOS 5D</td>
+</tr>
+<tr class="Canon EOS 5D_all">
+<td class="left">Description</td><td>12.7 million effective pixels; 1.5 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Release Date</td><td>2005-08-22</td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Maximum Resolution</td><td>4368x2912<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Lower Resolutions</td><td>3168x2112<br>2496x1664<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Effective pixels</td><td>12.7 million</td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Sensor size</td><td>36.0x24.0<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Iso Rating</td><td>100 - 1600 in 1/3 stops<br>plus 50<br>3200 as option<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Canon EOS 5D_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/canoneos5d/">http://www.dpreview.com/reviews/canoneos5d/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/canon_eos5d.gif"></td>
+</tr>
+</table>
+<br>
+</body>
+</html>

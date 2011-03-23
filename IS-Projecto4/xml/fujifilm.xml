@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="fujifilm">
+  <camera id="0">
+    <name>Fujifilm FinePix Z37</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="3 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fujifilm_z37.gif</picture>
+    </links>
+    <releasedDate>2009-07-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="1">
+    <name>Fujifilm FinePix Z35</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="3 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fujifilm_z35.gif</picture>
+    </links>
+    <releasedDate>2009-07-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="2">
+    <name>Fujifilm FinePix S200EXR</name>
+    <description>12.0 million effective pixels; 25 MP/cm^2 pixel density; 30.5 mm - 436 mm (14.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="30/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fujifilm_s200exr.gif</picture>
+    </links>
+    <releasedDate>2009-07-22</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2664" />
+        <resolution width="4000" height="2248" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2816" height="1864" />
+        <resolution width="2816" height="1584" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (3200)</ISOrating>
+      <ISOrating>Auto (1600)</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>Auto (400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (6400 and 12800 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="3">
+    <name>Fujifilm FinePix J30</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 32 mm - 96 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fujifilm_j30.gif</picture>
+    </links>
+    <releasedDate>2009-07-22</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2666" />
+        <resolution width="2816" height="2122" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (at 3 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="4">
+    <name>Fujifilm FinePix F70EXR</name>
+    <description>10.0 million effective pixels; 33 MP/cm^2 pixel density; 27 mm - 270 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/gallery/fujif70exr_samples1/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fujifilm_f70exr.gif</picture>
+    </links>
+    <releasedDate>2009-07-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3616" height="2712" />
+      <lowResolutions>
+        <resolution width="3616" height="2712" />
+        <resolution width="3616" height="2400" />
+        <resolution width="3616" height="2048" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1728" />
+        <resolution width="2592" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating>12800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.4" height="4.8" />
+  </camera>
+  <camera id="5">
+    <name>Fujifilm FinePix A170</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 32 mm - 96 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fujifilm_a170.gif</picture>
+    </links>
+    <releasedDate>2009-07-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3664" height="2748" />
+      <lowResolutions>
+        <resolution width="3664" height="2442" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="6">
+    <name>Fujifilm FinePix Z300</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixz300.gif</picture>
+    </links>
+    <releasedDate>2009-06-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="7">
+    <name>Fujifilm FinePix Z33WP</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>Fujifilm's first waterproof digital camera has a slim, curvy 20mm-thick body and not unpleasant styling. Spec-wise it's pretty standard fare, with a 10MP sensor, 3x optical zoom and a 2.7" LCD and all the latest easy-to-use features and is available in a range of striking colors. Waterproof to 3 meters for up to 2 hours the FinePix Z33WP also sports large rubberized buttons and a small grip to avoid losing it in the surf.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q209waterproofgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixz33wp.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="8">
+    <name>Fujifilm FinePix Z30</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>Fujifilm's first waterproof digital camera has a slim, curvy 20mm-thick body and not unpleasant styling. Spec-wise it's pretty standard fare, with a 10MP sensor, 3x optical zoom and a 2.7" LCD and all the latest easy-to-use features and is available in a range of striking colors. Waterproof to 3 meters for up to 2 hours the FinePix Z33WP also sports large rubberized buttons and a small grip to avoid losing it in the surf.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="3 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixz30.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="9">
+    <name>Fujifilm FinePix S1500</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 33 mm - 396 mm (12x) zoom lens;</description>
+    <summary>Successor to the S1000FD (at the time  the world's smallest 12x zoom camera), the FinePix S1500 is the latest in a long line of very compact SLR-styled big zoom cameras designed to appeal to those wanting a lot of lens on a tight budget. The big change is the inclusion of optical (CCD shift) image stabilization, making the long zoom a lot more usable in less than perfect light, and  for the money you're getting a lot of features - including full photographic controls and a 7.5fps burst mode (at reduced resolution) - in a lightweight package.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixs1500.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>Auto (400)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (3200 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="10">
+    <name>Fujifilm FinePix A100</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35.5 mm - 106.5 mm (2.9x) zoom lens;</description>
+    <summary>Fujifilm's budget 'A' series cameras have got a lot more stylish - and a lot slimmer - in recent years, but the basic feature set remains just that; basic. The 10 megapixel A100 (along with slightly higher spec sibling the A150) offers a fairly stylish and easy to use entry point to digital photography from a well-respected brand at an undeniably low price, even if the modest 3x zoom and  point-and-shoot functionality are slightly underwhelming.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fujifilm_a100.gif</picture>
+    </links>
+    <releasedDate>2009-02-04</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (at 3 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="11">
+    <name>Fujifilm FinePix F200EXR</name>
+    <description>12.0 million effective pixels; 25 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary>With the F200 EXR, Fujifilm is out to regain its low-light crown, based its unique new 'switcheable' EXR sensor technology, which allow you to tune the sensor for different shooting conditions. Even without the EXR modes, the F200 is a nice and well-specified camera. It's built around a very useful lens (28-140mm is not a range you'll find matched by many cameras this small), and offers image quality at least up to the standards of its contemporaries. And the EXR modes are worth having - the high-ISO 'SN' mode may not be world-beating, but the dynamic range mode is astonishingly capable if you're happy with the 6MP output (which is plenty for most applications).</summary>
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/fujifilmf200exr/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fujifilm_f200exr.gif</picture>
+    </links>
+    <releasedDate>2009-02-04</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2664" />
+        <resolution width="4000" height="2248" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2816" height="1864" />
+        <resolution width="2816" height="1584" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (3200)</ISOrating>
+      <ISOrating>Auto (1600)</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>Auto (400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (6400 and 12800 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="12">
+    <name>Fujifilm FinePix A150</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35.5 mm - 106.5 mm (2.9x) zoom lens;</description>
+    <summary>Fujifilm's budget 'A' series cameras have got a lot more stylish - and a lot slimmer - in recent years, but the basic feature set remains just that; basic. The 10 megapixel A150 (and slightly lower spec sibling the A100) offers a simple entry point to digital photography at a suitably low price, but the modest 3x zoom and  point-and-shoot functionality struggle to stand out from the crowd, despite the slender (for a budget camera) dimensions. If you want a small, relatively stylish camera and are on a very tight budget the A100 is probably a better bet.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fujifilm_a150.gif</picture>
+    </links>
+    <releasedDate>2009-02-04</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (at 3 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="13">
+    <name>Fujifilm FinePix J20</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35.5 mm - 106.5 mm (2.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixj20.gif</picture>
+    </links>
+    <releasedDate>2008-08-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="14">
+    <name>Fujifilm FinePix J250</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixj250.gif</picture>
+    </links>
+    <releasedDate>2008-08-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (at 3 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="15">
+    <name>Fujifilm FinePix J150W</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixj150w.gif</picture>
+    </links>
+    <releasedDate>2008-08-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (at 3 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="16">
+    <name>Fujifilm FinePix S2000HD</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 27.6 mm - 414 mm (14.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q109superzoomgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixs2000hd.gif</picture>
+    </links>
+    <releasedDate>2008-08-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (1600)</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>Auto (400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (3200 and 6400 at 5MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="17">
+    <name>Fujifilm FinePix J100</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixj100.gif</picture>
+    </links>
+    <releasedDate>2008-08-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (at 3 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="18">
+    <name>Fujifilm FinePix F60fd</name>
+    <description>12.0 million effective pixels; 25 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixf60fd.gif</picture>
+    </links>
+    <releasedDate>2008-08-12</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4224" height="2816" />
+        <resolution width="2848" height="2136" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (1600)</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>Auto (400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 @ 6MP</ISOrating>
+      <ISOrating>6400 @ 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="19">
+    <name>Fujifilm FinePix J120</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixj120.gif</picture>
+    </links>
+    <releasedDate>2008-08-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (at 3 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="20">
+    <name>Fujifilm FinePix J110W</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixj110w.gif</picture>
+    </links>
+    <releasedDate>2008-08-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (at 3 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="21">
+    <name>Fujifilm FinePix Z200FD</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 33 mm - 165 mm (5x) zoom lens;</description>
+    <summary>Stylish and fairly sophisticated ultra compact sporting a 5x (33-165mm equiv.) zoom lens behind a nifty sliding lens cover. Pity then, that the Z200fd falls short in some key areas. It's got the looks, it's got a great screen and it's got a good range of features, but there are some serious question marks over its image quality and its inability to consistently deliver acceptable results with point and shoot ease. The user interface is awful enough to put most users off ever exploring the wealth of features, the flash exposures disappointing and the color rendition less than perfect.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408slimgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixz200fd.gif</picture>
+    </links>
+    <releasedDate>2008-05-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="22">
+    <name>Fujifilm FinePix Z20fd</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>The FinePix Z20fd is an upgrade to the popular Z10fd that ups the resolution to a rather pointless 10 megapixels and throws in MPEG4 movie capture (still a rarity on compact digital cameras). Judging by the rather eye-watering range of colors and blogging modes the Z20fd is obviously aimed at the young, casual snapshot user rather than the serious photographer, and this is reflected in both the funky styling and the feature set, which eschews manual controls in favor of a wide selection of scene/subject modes. Although Fujifilm is gradually introducing sensor-shift stabilization to its FinePix range, the Z20fd doesn't have it, nor does it have Fujifilm's proprietary Super CCD sensor (which has been acclaimed for its superior low light results). It's easy to use and feels responsive but is let down slightly by poor flash performance and occasional metering and white balance problems.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408budgetgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixz20fd.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="23">
+    <name>Fujifilm FinePix S8100fd</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 27 mm - 486 mm (18x) zoom lens;</description>
+    <summary>The S8100fd (a minor update to the S8000fd) is the latest in Fujifilm's second-tier of SLR-like cameras, sitting below the fully-featured S100FS, but above the S1000fd and S2000HD. The S8100fd has fewer direct control buttons than its more expensive sibling, but offers a more expansive (and more useful) lens range than the less expensive S2000HD (although it doesn't offer that model's HD video capability). Like all FujiFilm's recent long-zoom cameras, the S1800fd offers what the company describes as 'Dual Image Stabilization,' which is a combination of CCD-shift image stabilization and the use of high sensitivity (ISO) settings to keep the shutter speed up to further reduce image blur. Image quality is decent enough in good light, though in truth there's little to choose between this camera and it's various very similar competitors and ultimately the S8100fd is a camera that is defined more by what it doesn't do wrong than by what it does particularly well.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q109superzoomgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixs8100fd.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (1600)</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>Auto (400)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (3200 and 6400 at 5MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="24">
+    <name>Fujifilm FinePix J50</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 37 mm - 185 mm (5x) zoom lens;</description>
+    <summary>Another fairly anonymous budget compact from Fujifilm's expanding 'J' range. Fairly well specified for its price (the 5x zoom doesn't have much of a wide angle, but has a decent telephoto reach) and it has a higher resolution screen than many cameras at this price point.</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixj50.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="25">
+    <name>Fujifilm FinePix J10</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 113 mm (2.9x) zoom lens;</description>
+    <summary>Slim and attractively priced budget compact with basic feature set and little worth remarking on beyond its relatively stylish all-metal design. Lots of scene modes but no full resolution video capture.</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixj10.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="26">
+    <name>Fujifilm FinePix S1000fd</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 33 mm - 396 mm (12x) zoom lens;</description>
+    <summary>Launched as the world's smallest 12x zoom camera, the FinePix S1000fd is one of a long line of very compact SLR-styled big zoom cameras designed to appeal to those wanting a lot of lens on a tight budget. The lack of optical image stabilization limits the usefulness of the longer end of the zoom in anything but bright daylight, but for the money you're getting a lot of features - including full photographic controls and a 2cm macro mode - in a lightweight package.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixs1000fd.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1944" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>Auto (400)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (3200 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="27">
+    <name>Fujifilm FinePix F100fd</name>
+    <description>12.0 million effective pixels; 25 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary>Successor - in spirit at least - to the classic FinePix F30/F31fd, the F100fd offers class-leading low light image quality (though the margin is closing) and overall produces some of the best results of any compact camera - whatever the shooting conditions. This, plus the useful 28-140mm equiv. (5x) zoom range and responsive operation, add up to such an appealing  package that we're prepared to overlook the dated design, horrible user interface and lack of manual controls. The F100fd has since been joined at the top of the FinePix range by the F200EXR, which uses Fujifilm's next generation EXR sensor technology. (April 2009)</summary>
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408premiumgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixf100fd.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4224" height="2816" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (3200)</ISOrating>
+      <ISOrating>Auto (1600)</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (6400 and 12800 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="28">
+    <name>Fujifilm FinePix S100fs</name>
+    <description>11.1 million effective pixels; 19 MP/cm^2 pixel density; 28 mm - 400 mm (14.2x) zoom lens;</description>
+    <summary>High end 'bridge' camera that aims to offer the quality and versatility of a digital SLR in a fixed lens camera. The S100FS is an interesting package: one of the largest sensors we've seen in a non-DSLR for many years, a lens covering a 14.3x zoom range (that, importantly, starts at a usefully wide-angle 28mm equivalent), and the eighth generation of Fujifilm's Super CCD sensor technology. There's some photography-related features that have been added too, such as presets designed to mimic the behavior of specific Fuji films and a dynamic range expansion mode. Image quality, though excellent for a camera of this type, isn't perfect, but for many users - and uses - it's not far at all from what you'd get from an entry-level DSLR.</summary>
+    <effectivePixels>11.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/fujifilms100fs/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixs100fs.gif</picture>
+    </links>
+    <releasedDate>2008-01-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3840" height="2880" />
+      <lowResolutions>
+        <resolution width="4032" height="2688" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (1600)</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>Auto (400)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (6400 at 6MP</ISOrating>
+      <ISOrating>10000 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="8.8" height="6.6" />
+  </camera>
+  <camera id="29">
+    <name>Fujifilm FinePix Z100fd</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixz100fd.gif</picture>
+    </links>
+    <releasedDate>2007-07-26</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="30">
+    <name>Fujifilm FinePix Z10fd</name>
+    <description>7.0 million effective pixels; 28 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.0 million</effectivePixels>
+    <shutterTime min="3 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixz10fd.gif</picture>
+    </links>
+    <releasedDate>2007-07-26</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="31">
+    <name>Fujifilm FinePix F480 Zoom</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixf480.gif</picture>
+    </links>
+    <releasedDate>2007-07-26</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="32">
+    <name>Fujifilm FinePix S8000fd</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 27 mm - 486 mm (18x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/fujifilms8000fd/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixs8000fd.gif</picture>
+    </links>
+    <releasedDate>2007-07-26</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200</ISOrating>
+      <ISOrating>6400 lower res)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="33">
+    <name>Fujifilm FinePix A920</name>
+    <description>9.1 million effective pixels; 19 MP/cm^2 pixel density; 39 mm - 156 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1200 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixa920.gif</picture>
+    </links>
+    <releasedDate>2007-07-26</releasedDate>
+    <resolutions>
+      <maxResolution width="3488" height="2616" />
+      <lowResolutions>
+        <resolution width="2592" height="2484" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="34">
+    <name>Fujifilm FinePix F50fd</name>
+    <description>12.0 million effective pixels; 25 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>The replacement for the near-legendary FinePix F31fd had some big boots to fill, and the FinePix F50fd suffers by comparison to its illustrious predecessor. That said it's a better designed camera offers superb image quality that puts it near the top of the compact camera tree,  and it's fast and has a solid feature set. It's got a lot more competition than its predecessors, but the F50fd is still a camera worth consideration if image quality in all light conditions is a priority. Since replaced by the F60fd.</summary>
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/fujifilmf50fd/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixf50fd.gif</picture>
+    </links>
+    <releasedDate>2007-07-26</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4224" height="2816" />
+        <resolution width="2848" height="2136" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto (1600)</ISOrating>
+      <ISOrating>Auto (800)</ISOrating>
+      <ISOrating>Auto (400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 @ 6MP</ISOrating>
+      <ISOrating>6400 @ 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="35">
+    <name>Fujifilm FinePix IS Pro</name>
+    <description>6.1 million effective pixels; 1.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_ispro.gif</picture>
+    </links>
+    <releasedDate>2007-07-13</releasedDate>
+    <resolutions>
+      <maxResolution width="4256" height="2848" />
+      <lowResolutions>
+        <resolution width="3024" height="2016" />
+        <resolution width="2304" height="1536" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100 - 3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.0" height="15.5" />
+  </camera>
+  <camera id="36">
+    <name>Fujifilm FinePix A820</name>
+    <description>8.1 million effective pixels; 17 MP/cm^2 pixel density; 39 mm - 156 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1200 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixa820.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3296" height="2472" />
+      <lowResolutions>
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="37">
+    <name>Fujifilm FinePix A900</name>
+    <description>9.1 million effective pixels; 19 MP/cm^2 pixel density; 39 mm - 156 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1200 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixa900.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3488" height="2616" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="38">
+    <name>Fujifilm FinePix S5700 Zoom (Fujifilm Finepix S700)</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 380 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixs5700.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="39">
+    <name>Fujifilm FinePix F40fd</name>
+    <description>8.1 million effective pixels; 17 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="3 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixf40fd.gif</picture>
+    </links>
+    <releasedDate>2007-01-04</releasedDate>
+    <resolutions>
+      <maxResolution width="3296" height="2472" />
+      <lowResolutions>
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000 (Anti-Blur / Natural Light mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="40">
+    <name>Fujifilm FinePix A800</name>
+    <description>8.1 million effective pixels; 17 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixa800.gif</picture>
+    </links>
+    <releasedDate>2007-01-04</releasedDate>
+    <resolutions>
+      <maxResolution width="3296" height="2472" />
+      <lowResolutions>
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="41">
+    <name>Fujifilm FinePix A610</name>
+    <description>6.1 million effective pixels; 25 MP/cm^2 pixel density; 39 mm - 117 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixa610.gif</picture>
+    </links>
+    <releasedDate>2007-01-04</releasedDate>
+    <resolutions>
+      <maxResolution width="2848" height="2136" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="42">
+    <name>Fujifilm FinePix IS-1</name>
+    <description>9.1 million effective pixels; 19 MP/cm^2 pixel density; 28 mm - 300 mm (10.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixis1.gif</picture>
+    </links>
+    <releasedDate>2007-01-04</releasedDate>
+    <resolutions>
+      <maxResolution width="3488" height="2616" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="43">
+    <name>Fujifilm FinePix F31fd</name>
+    <description>6.1 million effective pixels; 14 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/fujifilmf31fd/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixf31fd.gif</picture>
+    </links>
+    <releasedDate>2006-09-25</releasedDate>
+    <resolutions>
+      <maxResolution width="2848" height="2136" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="44">
+    <name>Fujifilm FinePix S5 Pro</name>
+    <description>6.1 million effective pixels; 1.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/fujifilms5pro/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_s5.gif</picture>
+    </links>
+    <releasedDate>2006-09-25</releasedDate>
+    <resolutions>
+      <maxResolution width="4256" height="2848" />
+      <lowResolutions>
+        <resolution width="3024" height="2016" />
+        <resolution width="2304" height="1536" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100 - 3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.0" height="15.5" />
+  </camera>
+  <camera id="45">
+    <name>Fujifilm FinePix S9100 (Fujifilm FinePix S9600)</name>
+    <description>9.1 million effective pixels; 19 MP/cm^2 pixel density; 28 mm - 300 mm (10.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixs9100.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3488" height="2616" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.78" height="5.83" />
+  </camera>
+  <camera id="46">
+    <name>Fujifilm FinePix S6000fd (Fujifilm FinePix S6500fd)</name>
+    <description>6.1 million effective pixels; 14 MP/cm^2 pixel density; 28 mm - 300 mm (10.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/fujifilms6000fd/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixs6000.gif</picture>
+    </links>
+    <releasedDate>2006-07-13</releasedDate>
+    <resolutions>
+      <maxResolution width="2848" height="2136" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="47">
+    <name>Fujifilm FinePix F20 Zoom</name>
+    <description>6.1 million effective pixels; 14 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixf20.gif</picture>
+    </links>
+    <releasedDate>2006-07-13</releasedDate>
+    <resolutions>
+      <maxResolution width="2848" height="2136" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000 (Anti-Blur / Natural Light mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="48">
+    <name>Fujifilm FinePix Z3</name>
+    <description>5.1 million effective pixels; 21 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>5.1 million</effectivePixels>
+    <shutterTime min="1/4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/fuji_finepixz3.gif</picture>
+    </links>
+    <releasedDate>2006-05-30</releasedDate>
+    <resolutions>
+      <maxResolution width="2592" height="1944" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+</cameras>
+

@@ -1,0 +1,2342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="panasonic">
+  <camera id="0">
+    <name>Panasonic Lumix DMC-GF1</name>
+    <description>12.1 million effective pixels; 5 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/PanasonicGF1/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcgf1.gif</picture>
+    </links>
+    <releasedDate>2009-09-02</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="3000" />
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="2992" height="2992" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2816" height="1880" />
+        <resolution width="2816" height="1584" />
+        <resolution width="2112" height="2112" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1504" height="1504" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="1">
+    <name>Panasonic Lumix DMC-FZ35 (Lumix DMC-FZ38)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 27 mm - 486 mm (18x) zoom lens;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfz35.gif</picture>
+    </links>
+    <releasedDate>2009-07-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="2">
+    <name>Panasonic Lumix DMC-FX65 (Lumix DMC-FX60)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 25 mm - 125 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx65.gif</picture>
+    </links>
+    <releasedDate>2009-07-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="3">
+    <name>Panasonic Lumix DMC-FP8</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 128 mm (4.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/1300 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfp8.gif</picture>
+    </links>
+    <releasedDate>2009-07-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="4">
+    <name>Panasonic Lumix DMC-ZR1 (Lumix DMC-ZX1)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 25 mm - 200 mm (8x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmczr1.gif</picture>
+    </links>
+    <releasedDate>2009-07-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="5">
+    <name>Panasonic Lumix DMC-FS12</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 31 mm - 124 mm (4x) zoom lens;</description>
+    <summary>The DMC-FS12 is a 12MP variant of the DMC-FS7, features the same 2.7" LCD and 5.5-22mm Mega O.I.S image stabilized lens (giving a 31-124mm equivalent range in this instance). It has the same metal-skinned body as the FS7 and the associated FS42 and FS62. The more expensive DMC-FS15, meanwhile has a lens offering a 5X zoom that starts at a slightly wider 29mm equivalent, making it more flexible.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs12.gif</picture>
+    </links>
+    <releasedDate>2009-04-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="6">
+    <name>Panasonic Lumix DMC-FS62</name>
+    <description>10.1 million effective pixels; 41 MP/cm^2 pixel density; 33 mm - 132 mm (4x) zoom lens;</description>
+    <summary>The DMC-FS62 is one of Panasonic's least expensive budget models. It features the same optically-stabilized 33-132mm equivalent lens and 10 megapixel sensor as the FS7 but has a smaller, 2.5" LCD. It also features the same slim all-metal body.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs62.gif</picture>
+    </links>
+    <releasedDate>2009-04-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="7">
+    <name>Panasonic Lumix DMC-FS42</name>
+    <description>10.1 million effective pixels; 41 MP/cm^2 pixel density; 33 mm - 132 mm (4x) zoom lens;</description>
+    <summary>The DMC-FS42 is essentially the same camera as the FS62 but without the useful optical image stabilization feature. It still offers a 10 megapixel sensor and 2.5" LCD screen and a lens with 33-132mm equivalent coverage. It features the same metal-skinned body as several other cameras at the 'cost sensitive' end of Panasonic's range. We think image stabilization is a useful enough feature to make it worth seeking out the FS62 instead.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs42.gif</picture>
+    </links>
+    <releasedDate>2009-04-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="8">
+    <name>Panasonic Lumix DMC-GH1</name>
+    <description>12.1 million effective pixels; 5 MP/cm^2 pixel density;</description>
+    <summary>HD video capable version of the innovative DMC-G1 mirrorless interchangeable lens system camera. The GH1’s 12.1 megapixel Live MOS sensor can record up to 1080/24p or 720/60p high definition videos, with continuous AF and a built-in Dolby Digital Stereo Creator for quality sound recording. This is further supported by Panasonic’s designed-for-video Lumix G Vario HD 14-140mm kit lens. The camera includes a new Face Recognition feature that remembers individual faces, and offers four different aspect ratios with the same angle of view using a system similar to that in the company's DMC-LX3 compact. Pricey but unique alternative to a digital SLR.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasonicdmcgh1/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcgh1.gif</picture>
+    </links>
+    <releasedDate>2009-03-03</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="3000" />
+        <resolution width="4128" height="2752" />
+        <resolution width="4352" height="2448" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2992" height="2992" />
+        <resolution width="2928" height="1952" />
+        <resolution width="2816" height="2112" />
+        <resolution width="2112" height="2112" />
+        <resolution width="2064" height="1376" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1504" height="1504" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 boost</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="9">
+    <name>Panasonic Lumix DMC-TS1 (Lumix DMC-FT1)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 128 mm (4.5x) zoom lens;</description>
+    <summary>Panasonic's first rugged digital compact and the world's first to feature AVCHD lite HD video recording. The TS1 (FT1 in Europe) is designed to be dustproof, waterproof up to 3 meters and shockproof up to 1.3 meters. It incorporates AVCHD Lite video compression in 3 quality levels to allow longer HD video recording. Sporting a 12.1MP sensor, 28-129mm equivalent lens and 2.7" LCD, the camera also includes features such as Intelligent Auto Mode, Optical Image Stabilizer and Face recognition. April 2009</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/3000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcts1.gif</picture>
+    </links>
+    <releasedDate>2009-01-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="10">
+    <name>Panasonic Lumix DMC-FS25</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 29 mm - 145 mm (5x) zoom lens;</description>
+    <summary>Sitting at the top of Panasonic's 'budget' FS range the FS25 is an attractively designed compact with a decent feature set that includes a wider-than-average 29-145mm zoom range, 3.0" LCD and a wealth of intelligent auto features designed to ensure point and shoot ease of use. April 2009</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs25.gif</picture>
+    </links>
+    <releasedDate>2009-01-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="11">
+    <name>Panasonic Lumix DMC-FX580 (Lumix DMC-FX550)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 25 mm - 125 mm (5x) zoom lens;</description>
+    <summary>Premium slimline compact with ultrawide (25-125mm) Leica-branded 5x zoom, optical image stabilization, 12MP sensor, manual exposure mode and a high resolution 3.0" touch-screen interface. New features for '09 include Face Recognition technology (used to prioritize certain people in face detection mode and to sort images by subject) and a new faster and more powerful version of the Venus processing engine. Aside from the touch screen interface the FX580 is very similar to the more compact FX48/FX40. April 2009</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx580.gif</picture>
+    </links>
+    <releasedDate>2009-01-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="12">
+    <name>Panasonic Lumix DMC-ZS1 (Lumix DMC-TZ6)</name>
+    <description>10.1 million effective pixels; 41 MP/cm^2 pixel density; 25 mm - 300 mm (12x) zoom lens;</description>
+    <summary>The latest generation of Panasonic's  popular 'travel zoom' compact camera range gets a longer 12x zoom with a true (25mm) wide angle, a resolution boost to 10MP and a wealth of new 'intelligent auto' features. Fitting a 25-300mm lens into such a small body is quite an achievement, and whilst the ZS1 (TZ6 in Europe) isn't the most highly specified long zoom compact it offers best-in-class image quality at an attractive price point. If you can live without HD video it should very high up your shortlist - otherwise take a look at its near identical HD-enabled twin the ZS3 (TZ7). (April 2009)</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/q209grouplongzoom/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmczs1.gif</picture>
+    </links>
+    <releasedDate>2009-01-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="13">
+    <name>Panasonic Lumix DMC-FX48 (Lumix DMC-FX40)</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 25 mm - 125 mm (5x) zoom lens;</description>
+    <summary>Premium slimline compact with ultrawide (25-125mm) Leica-branded 5x zoom, optical image stabilization and a 12MP sensor. New features for '09 include Face Recognition technology (used to prioritize certain people in face detection mode and to sort images by subject) and a new faster and more powerful version of the Venus processing engine. April 2009</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/3000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx48.gif</picture>
+    </links>
+    <releasedDate>2009-01-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="14">
+    <name>Panasonic Lumix DMC-ZS3 (Lumix DMC-TZ7)</name>
+    <description>10.1 million effective pixels; 45 MP/cm^2 pixel density; 25 mm - 300 mm (12x) zoom lens;</description>
+    <summary>The latest generation of Panasonic's  popular 'travel zoom' compact camera range gets a longer 12x zoom with a true (25mm) wide angle, a resolution boost to 10MP and a wealth of new 'intelligent auto' features. Fitting a 25-300mm lens into such a small body is quite an achievement, throw in the ability to capture 720p60 video (using AVCHD Lite format) and you've got a formidable hybrid camera that is still, just, pocketable. Like its less expensive sibling the ZS1 (which drops the HD video mode and high-res screen), the DMC-ZS3 offers class-leading image quality in a well-built and easy to use package. (April 2009)</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/q209grouplongzoom/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmczs3.gif</picture>
+    </links>
+    <releasedDate>2009-01-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3776" height="2520" />
+        <resolution width="3968" height="2232" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3168" height="2112" />
+        <resolution width="3328" height="1872" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2656" height="1768" />
+        <resolution width="2784" height="1568" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2112" height="1408" />
+        <resolution width="2208" height="1248" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="15">
+    <name>Panasonic Lumix DMC-LS85</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 32 mm - 132 mm (4.1x) zoom lens;</description>
+    <summary>Successor to DMC-LS80, the LS85 is a budget compact that runs on AA batteries and features an 8.1 MP sensor and 2.5 inch LCD with 230,000 dot resolution. The optical zoom has been increased to 4x (33-132mm equiv) and the image processor has been upgraded to Panasonic Venus Engine IV. The camera also includes features such as MEGA O.I.S, Intelligent ISO Control, Face Detection and Intelligent Scene Selector. April 2009</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcls85.gif</picture>
+    </links>
+    <releasedDate>2009-01-16</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1360" />
+        <resolution width="3264" height="2176" />
+        <resolution width="2048" height="1360" />
+        <resolution width="3264" height="1840" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="16">
+    <name>Panasonic Lumix DMC-FS7</name>
+    <description>10.1 million effective pixels; 41 MP/cm^2 pixel density; 33 mm - 132 mm (4x) zoom lens;</description>
+    <summary>One of a pair of budget-level digital compact cameras (the other being the 8.1 MP FS6). Both feature 4x zoom lenses, starting at the slightly wide-angle 33mm equivalent. The 10.1 megapixel FS7 features Panasonic's Mega O.I.S image stabilization system, a decent 2.5" screen and the latest, fourth generation of the company's Venus Engine image processor in a slim stylish all-metal body. April 2009</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs7.gif</picture>
+    </links>
+    <releasedDate>2009-01-16</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2736" />
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="17">
+    <name>Panasonic Lumix DMC-FS6</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 33 mm - 132 mm (4x) zoom lens;</description>
+    <summary>One of a pair of budget-level digital compact cameras (the other being the 10.1 MP FS7). Both feature 4x zoom lenses, starting at the slightly wide-angle 33mm equivalent. The 8.1 megapixel FS6 features Panasonic's Mega O.I.S image stabilization system, a decent 2.5" screen and the latest, fourth generation of the company's Venus Engine image processor in a slim stylish all-metal body. April 2009</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs6.gif</picture>
+    </links>
+    <releasedDate>2009-01-16</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="18">
+    <name>Panasonic Lumix DMC-FS15</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 29 mm - 145 mm (5x) zoom lens;</description>
+    <summary>Ultra compact digital camera that sits near the top of Panasonic's ever-growing mid-range FS series. The 12.1 megapixel FS15 features a 2.7 inch LCD and a Leica DC Vario-Elmar lens with 5x zoom starting at a wider-than normal 29mm equiv. It includes features such as AF tracking, Intelligent Exposure, Face Detection, Intelligent Scene Selector, Mega O.I.S. (optical image stabilizer) and Intelligent ISO Control.. April 2009</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs15.gif</picture>
+    </links>
+    <releasedDate>2009-01-16</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600 (1600-6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="19">
+    <name>Panasonic Lumix DMC-G1</name>
+    <description>12.1 million effective pixels; 5 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasonicdmcg1/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcg1.gif</picture>
+    </links>
+    <releasedDate>2008-09-12</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2048" height="1536" />
+        <resolution width="4000" height="2672" />
+        <resolution width="2816" height="1880" />
+        <resolution width="2048" height="1360" />
+        <resolution width="4000" height="2248" />
+        <resolution width="2816" height="1584" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 boost</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="20">
+    <name>Panasonic Lumix DMC-FX37</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 25 mm - 125 mm (5x) zoom lens;</description>
+    <summary>The Panasonic FX37 manages to combine cute styling, usability and an incredibly versatile 25-125mm zoom lens into a compact, well built body that, whilst a bit fatter than some of its competitors, doesn't feel any bigger in the hand. Panasonic has also added the ability to record 720p HD video, promising a remarkably flexible creative tool that - whilst not offering anything particularly special image quality terms - has much to commend it to the more serious photographer wanting something truly pocketable.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408slimgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx37.gif</picture>
+    </links>
+    <releasedDate>2008-07-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="21">
+    <name>Panasonic Lumix DMC-FX150</name>
+    <description>14.7 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 100 mm (3.5x) zoom lens;</description>
+    <summary>The FX range is home to Panasonic's high-quality compacts, with the 14.7MP FX150 at the top of the tree. It has a larger sensor than baby brother, the FX35, and offers a less extensive zoom range despite its bigger body. That said, it also offers greater photographic control, including a manual mode and control over the type of metering the camera uses. Perhaps most significantly for keen photographers, it also has the ability to save the unprocessed sensor data as a RAW file. It's also one of the only cameras in its clas to be able to shoot HD video. Performance is pretty good too, with decent overall image quality and reliable automatic systems, but with little advantage to show for all those extra pixels.</summary>
+    <effectivePixels>14.7 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408premiumgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx150.gif</picture>
+    </links>
+    <releasedDate>2008-07-21</releasedDate>
+    <resolutions>
+      <maxResolution width="4416" height="3312" />
+      <lowResolutions>
+        <resolution width="4416" height="2944" />
+        <resolution width="4416" height="2480" />
+        <resolution width="3648" height="2736" />
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="22">
+    <name>Panasonic Lumix DMC-FZ28</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 27 mm - 486 mm (18x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q109superzoomgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfz28.gif</picture>
+    </links>
+    <releasedDate>2008-07-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="23">
+    <name>Panasonic Lumix DMC-LX3</name>
+    <description>10.1 million effective pixels; 24 MP/cm^2 pixel density; 24 mm - 60 mm (2.5x) zoom lens;</description>
+    <summary>Third generation of Panasonic's compact enthusiast model is a true thoroughbred offering a fast zoom with a real wideangle, a superb screen and excellent image quality, including high ISO performance puts most competitors to shame. The LX3 is positively understated compared to some of its competitors, which loudly proclaim the 'bigger is better' rather than 'less is more', and it's a far, far better camera for it. It's small enough to carry anywhere, fast and subtle enough for street photography and good enough to produce a decent 8x10 without the need to use raw. Of course it's not perfect; the controls are pretty fiddly (as it's so small) and there's no telephoto to speak of, but if the feature set matches your needs there's little to match it.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasonicdmclx3/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmclx3.gif</picture>
+    </links>
+    <releasedDate>2008-07-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3968" height="2232" />
+        <resolution width="3776" height="2520" />
+        <resolution width="3328" height="1872" />
+        <resolution width="3168" height="2112" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2784" height="1568" />
+        <resolution width="2656" height="1768" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2208" height="1248" />
+        <resolution width="2112" height="1408" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="1280.0" height="720.0" />
+  </camera>
+  <camera id="24">
+    <name>Panasonic Lumix DMC-TZ50</name>
+    <description>9.1 million effective pixels; 32 MP/cm^2 pixel density; 28 mm - 280 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmctz50.gif</picture>
+    </links>
+    <releasedDate>2008-04-16</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="3552" height="2368" />
+        <resolution width="3712" height="2088" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="25">
+    <name>Panasonic Lumix DMC-FX500</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 25 mm - 125 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx500.gif</picture>
+    </links>
+    <releasedDate>2008-03-18</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="3432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="26">
+    <name>Panasonic Lumix DMC-TZ4</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 280 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmctz4.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="27">
+    <name>Panasonic Lumix DMC-FX35</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 25 mm - 100 mm (4x) zoom lens;</description>
+    <summary>Panasonic's first 10 megapixel compact sits near the middle of its premium 'FX' range and offers a much wider than normal 25-100mm (equiv.) 4x zoom lens that's ideal for shooting landscapes and cramped interiors and includes optical image stabilization. The tiny FX35's impressive feature set includes 720p movies and a much improved version of Panasonic's Venus processing engine. April 2009</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx35.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="28">
+    <name>Panasonic Lumix DMC-TZ5</name>
+    <description>9.1 million effective pixels; 32 MP/cm^2 pixel density; 28 mm - 280 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasonictz5/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmctz5.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="3552" height="2368" />
+        <resolution width="3712" height="2088" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="29">
+    <name>Panasonic Lumix DMC-LZ10</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 30 mm - 150 mm (5x) zoom lens;</description>
+    <summary>Ten megapixel sister model to the LZ8, which took the top spot in our December 2008 budget camera group test. Offers a pretty comprehensive feature set (including a decent set of manual controls, 5x zoom and a 30mm wide angle) in a relatively compact body at a bargain price.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmclz10.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="30">
+    <name>Panasonic Lumix DMC-FS5</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 30 mm - 120 mm (4x) zoom lens;</description>
+    <summary>Budget slimline 10 megapixel point and shoot compact with wider than average 30-120mm (equiv.) zoom range and Pansonic's well respected MEGA OIS optical image stabilization system. Good feature mix and point and shoot simplicity thanks to an 'Intelligent Auto' mode. DMC-FS20 is virtually identical (but has a slightly larger screen). April 2009</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs5.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="31">
+    <name>Panasonic Lumix DMC-FS3</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 33 mm - 100 mm (3x) zoom lens;</description>
+    <summary>Budget slimline 8.1 megapixel point and shoot compact with slightly wider than average 33-100mm (equiv.) zoom  and Pansonic's well respected MEGA OIS optical image stabilization system. Decent feature mix for the price and point, and shoot simplicity thanks to an 'Intelligent Auto' mode. April 2009</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs3.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="32">
+    <name>Panasonic Lumix DMC-LZ8</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 32 mm - 160 mm (5x) zoom lens;</description>
+    <summary>In recent years Panasonic has been attacking the budget end of the market far more aggressively, allowing features from its high-end models to trickle down into cameras such as this one, which offers a remarkably comprehensive feature set for very little money. It's not the prettiest camera in the world, but   it offers considerably more 'bang for your buck' than most cameras at this level.</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408budgetgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmclz8.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="33">
+    <name>Panasonic Lumix DMC-FS20</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 30 mm - 120 mm (4x) zoom lens;</description>
+    <summary>Budget slimline 10 megapixel point and shoot compact with wider than average 30-120mm (equiv.) zoom range and Pansonic's well respected MEGA OIS optical image stabilization system. Good feature mix and point and shoot simplicity thanks to an 'Intelligent Auto' mode. DMC-FS5 is virtually identical (but has a slightly smaller screen). April 2009</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfs20.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="3072" height="2304" />
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="34">
+    <name>Panasonic Lumix DMC-LS80</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 33 mm - 100 mm (3x) zoom lens;</description>
+    <summary>Budget compact with a useful (and relatively fast) 33-100mm zoom range and Panasonic's well respected MEGA OIS image stabilization system. Decent feature set and solid construction helps make up for the slightly uninspiring design (which looks slight better in black than silver). Now replaced by the LS85.</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcls80.gif</picture>
+    </links>
+    <releasedDate>2008-01-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2560" height="1712" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2560" height="1440" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Hi Auto (1600-6400)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="35">
+    <name>Panasonic Lumix DMC-L10</name>
+    <description>10.0 million effective pixels; 4 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasonicdmcl10/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcl10.gif</picture>
+    </links>
+    <releasedDate>2007-08-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2816" height="2112" />
+        <resolution width="2048" height="1536" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="36">
+    <name>Panasonic Lumix DMC-FZ18</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 28 mm - 504 mm (18x) zoom lens;</description>
+    <summary>Upgrade to the popular FZ8 increases the zoom  to a staggering 18x, covering a hugely versatile 28-504mm (equiv.) range, adds a few new features (including Intelligent Auto) and ups the pixel count to 8.3 MP. The result is a hugely rewarding camera with an awful lot to recommend it despite a handful of question marks over the pixel-level image quality. Certainly one of the best cameras in its class.</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasonicfz18/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfz18.gif</picture>
+    </links>
+    <releasedDate>2007-07-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="2536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(6400 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="37">
+    <name>Panasonic Lumix DMC-FX33</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 100 mm (3.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx33.gif</picture>
+    </links>
+    <releasedDate>2007-07-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>1600  (6400 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="38">
+    <name>Panasonic Lumix DMC-FX55</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 100 mm (3.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx55.gif</picture>
+    </links>
+    <releasedDate>2007-07-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>1600  (6400 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="39">
+    <name>Panasonic Lumix DMC-FX100</name>
+    <description>12.0 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 100 mm (3.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx100.gif</picture>
+    </links>
+    <releasedDate>2007-05-21</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>1600  (6400 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="40">
+    <name>Panasonic Lumix DMC-LS60</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcls60.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="41">
+    <name>Panasonic Lumix DMC-LZ6</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 37 mm - 222 mm (6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmclz6.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="42">
+    <name>Panasonic Lumix DMC-FZ8</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 36 mm - 432 mm (12x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasonicfz8/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfz8.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="43">
+    <name>Panasonic Lumix DMC-TZ2</name>
+    <description>6.0 million effective pixels; 25 MP/cm^2 pixel density; 28 mm - 280 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmctz2.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="44">
+    <name>Panasonic Lumix DMC-TZ3</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 280 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasonictz3/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmctz3.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="45">
+    <name>Panasonic Lumix DMC-LZ7</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 37 mm - 222 mm (6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmclz7.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="46">
+    <name>Panasonic Lumix DMC-FX30</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 100 mm (3.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx30.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="47">
+    <name>Panasonic Lumix DMC-FX12</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx12.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="48">
+    <name>Panasonic Lumix DMC-FX10</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx10.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="49">
+    <name>Panasonic Lumix DMC-LS75</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcls75.gif</picture>
+    </links>
+    <releasedDate>2007-01-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="50">
+    <name>Panasonic Lumix DMC-FZ50</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 420 mm (12x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasonicfz50/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfz50.gif</picture>
+    </links>
+    <releasedDate>2006-07-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="51">
+    <name>Panasonic Lumix DMC-FX50</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx50.gif</picture>
+    </links>
+    <releasedDate>2006-07-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="52">
+    <name>Panasonic Lumix DMC-FX3</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx3.gif</picture>
+    </links>
+    <releasedDate>2006-07-19</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>(800/1600 boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="53">
+    <name>Panasonic Lumix DMC-LX2</name>
+    <description>10.0 million effective pixels; 25 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/panasoniclx2/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmclx2.gif</picture>
+    </links>
+    <releasedDate>2006-07-19</releasedDate>
+    <resolutions>
+      <maxResolution width="4224" height="2376" />
+      <lowResolutions>
+        <resolution width="3840" height="2160" />
+        <resolution width="3072" height="1728" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="8.5" height="4.78" />
+  </camera>
+  <camera id="54">
+    <name>Panasonic Lumix DMC-FX07</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/panasonic_dmcfx07.gif</picture>
+    </links>
+    <releasedDate>2006-07-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>(3200 high mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+</cameras>
+

@@ -1,0 +1,2409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="olympus">
+  <camera id="0">
+    <name>Olympus Stylus 7010 (mju 7010)</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 196 mm (7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus7010.gif</picture>
+    </links>
+    <releasedDate>2009-07-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3968" height="2976" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="1">
+    <name>Olympus FE-5020</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe5020.gif</picture>
+    </links>
+    <releasedDate>2009-07-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3968" height="2976" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="2">
+    <name>Olympus Stylus Tough 6010 (mju Tough 6010)</name>
+    <description>12.0 million effective pixels; 42 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="1/4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylustough6010.gif</picture>
+    </links>
+    <releasedDate>2009-07-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3968" height="2976" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="3">
+    <name>Olympus PEN E-P1</name>
+    <description>12.3 million effective pixels; 5.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.3 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympusep1/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_ep1.gif</picture>
+    </links>
+    <releasedDate>2009-06-16</releasedDate>
+    <resolutions>
+      <maxResolution width="4032" height="3024" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="6" height="6" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto ISO (200 - 3200)</ISOrating>
+      <ISOrating>Manual ISO (100 - 6400)</ISOrating>
+      <ISOrating>1/3 or 1 EV steps</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="4">
+    <name>Olympus E-450</name>
+    <description>10.0 million effective pixels; 4.1 MP/cm^2 pixel density;</description>
+    <summary>Upgraded version of the E-420 compact DSLR. The new E-450 is essentially identical to the E-420 apart from the addition of 3 Art Filters, a new processor and an improved LCD display. It's perhaps a testament to how well specified the E-420 is that Olympus has clearly struggled for ways to improve it. For fear of treading on the toes of the recently announced E-620 (which itself stands uncomfortably close to the more expensive E-30), Olympus has engineered a model with the fewest changes over the existing version we've ever seen. And, despite the company's insistence that it will continue to offer four entry-level cameras, we do not believe the E-450 is distinct enough from the E-420 that they two can sensibly co-exist.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_e450.gif</picture>
+    </links>
+    <releasedDate>2009-03-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="5">
+    <name>Olympus E-620</name>
+    <description>12.3 million effective pixels; 5.1 MP/cm^2 pixel density;</description>
+    <summary>New model from Olympus offers high end features in an incredibly compact body that addresses many of the shortcomings of the E-520, with a bigger, better viewfinder and a new 7-point autofocus system. Even by Olympus's standards of entry-level generosity, it's not short on toys - including an articulated screen to make full use of its live view system, which itself is one of the better implementations of this feature. It's also got 'Art' modes and the ability to shoot in four different aspect ratios - adapted from the features of the high end E-30. There's also in-body Image Stabilization and a level of configurability that is unparalleled in this class. In fact it's astonishing how much Olympus has crammed into its small dimensions - it's nearer to the size of the E-420 than the E-520 series.</summary>
+    <effectivePixels>12.3 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympuse620/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_e620.gif</picture>
+    </links>
+    <releasedDate>2009-02-24</releasedDate>
+    <resolutions>
+      <maxResolution width="4032" height="3024" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>125</ISOrating>
+      <ISOrating>160</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>250</ISOrating>
+      <ISOrating>320</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>500</ISOrating>
+      <ISOrating>640</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating>2500</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="6">
+    <name>Olympus FE-5000</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe5000.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="7">
+    <name>Olympus FE-5010</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe5010.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3968" height="2976" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="8">
+    <name>Olympus FE-3010</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe3010.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3968" height="2976" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="9">
+    <name>Olympus Stylus 9000 (mju 9000)</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 280 mm (10x) zoom lens;</description>
+    <summary>Launched as the the world's smallest 10x zoom camera, the 12MP Stylus 9000 (mju 9000 in Europe) boasts an impressive feature set, including a useful 28-280mm (equiv.) lens, panorama mode and in-camera image retouching. The big selling point is undoubtedly the size and styling, and the 9000 feels responsive in use, but if image quality is your bumber one priority there are better alternatives.</summary>
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/q209grouplongzoom/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus9000.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3968" height="2976" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="10">
+    <name>Olympus Stylus Tough 6000 (mju Tough 6000)</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="1/4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q209waterproofgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylustough6000.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="11">
+    <name>Olympus SP-590 UZ</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 26 mm - 676 mm (26x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_sp590uz.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3968" height="2976" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="2536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200*</ISOrating>
+      <ISOrating>6400** in reduced pixel mode</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="12">
+    <name>Olympus FE-3000</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe3000.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="13">
+    <name>Olympus FE-45</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe45.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="14">
+    <name>Olympus Stylus Tough 8000 (mju Tough 8000)</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="1/4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q209waterproofgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylustough8000.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3968" height="2976" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="15">
+    <name>Olympus Stylus 550WP (mju  550WP)</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus550wp.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="16">
+    <name>Olympus Stylus 7000 (mju 7000)</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 37 mm - 260 mm (7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus7000.gif</picture>
+    </links>
+    <releasedDate>2009-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3968" height="2976" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>High Auto</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="17">
+    <name>Olympus E-30</name>
+    <description>12.3 million effective pixels; 5.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.3 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympuse30/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_e30.gif</picture>
+    </links>
+    <releasedDate>2008-11-05</releasedDate>
+    <resolutions>
+      <maxResolution width="4032" height="3024" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+      <imageRatio width="6" height="6" />
+      <imageRatio width="5" height="4" />
+      <imageRatio width="7" height="6" />
+      <imageRatio width="6" height="5" />
+      <imageRatio width="7" height="5" />
+      <imageRatio width="3" height="4" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="18">
+    <name>Olympus Stylus 1050 SW (mju 1050 SW)</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus1050.gif</picture>
+    </links>
+    <releasedDate>2008-08-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 1600)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="19">
+    <name>Olympus FE-20 (C-25, X-15)</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe20.gif</picture>
+    </links>
+    <releasedDate>2008-08-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 1000)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="20">
+    <name>Olympus SP-565UZ</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 26 mm - 520 mm (20x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q109superzoomgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_sp565uz.gif</picture>
+    </links>
+    <releasedDate>2008-08-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200*</ISOrating>
+      <ISOrating>6400** in reduced pixel mode</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="21">
+    <name>Olympus Stylus 1040 (mju 1040)</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>Stylish but unremarkable ultra compact that - like most cameras like this - is a lot nicer to look at than it is to use. That said, the image quality isn't terrible, the camera is pretty responsive and git enerally offers reliable point and shoot functionality. Our biggest gripe is the poor low light focus, which means  evening flash shots taken at anything other than the widest zoom setting are a bit hit 'n' miss.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408slimgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_mju1040.gif</picture>
+    </links>
+    <releasedDate>2008-08-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 1600)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="22">
+    <name>Olympus FE-370</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe370.gif</picture>
+    </links>
+    <releasedDate>2008-08-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 1000)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="23">
+    <name>Olympus FE-360 (C-570, X-875)</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary>Surprisingly well specified metal-bodied budget camera looks like a real bargain. Scratch the surface, however, and you discover Olympus has managed to produce the perfect product for someone who wants a cool looking camera but isn't actually that bothered about taking pictures, with performance and picture quality that struggles to be anything more than merely adequate.</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408budgetgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe360.gif</picture>
+    </links>
+    <releasedDate>2008-08-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto 80 - 1600 (3200 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="24">
+    <name>Olympus E-520</name>
+    <description>10.0 million effective pixels; 4.1 MP/cm^2 pixel density;</description>
+    <summary>Refresh to the E-510 improves autofocus in live view mode and throws in a handful of minor enhancements. With a superb feature set (including in-body image stabilization) and customization options that set it apart from most of its competitors the E-520 looks very competitive on paper, but the viewfinder and image quality (particularly in challenging shooting conditions) are far from class-leading and taken as a whole the camera struggles to stand out from the crowd. Recent price cuts have made the E-520 seem a lot more attractive, and the results in good light are impressive at normal print sizes, with pleasing color and very well optimised JPEGs - and an excellent kit lens.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympuse520/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_e520.gif</picture>
+    </links>
+    <releasedDate>2008-05-13</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="25">
+    <name>Olympus E-420</name>
+    <description>10.0 million effective pixels; 4.1 MP/cm^2 pixel density;</description>
+    <summary>Like its predecessor (the E-410), the Olympus E-420 offers a lot of camera in an incredibly compact format (it's currently the lightest and smallest DSLR on the market) - especially when paired with the Zuiko 25mm pancake lens launched at the same time. It's a fairly conservative upgrade, bringing improvements to the live view autofocus system, a slightly larger screen and an improved hand grip (plus a handful of other minor feature enhancements), but that's because there was little that needed changing. The slightly underwhelming image quality and tiny viewfinder - and lack of image stabilization - are the price you pay to have such a small camera, but it's an acceptable compromise for such an appealing - and suprisingly feature-packed - package.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympuse420/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_e420.gif</picture>
+    </links>
+    <releasedDate>2008-03-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="26">
+    <name>Olympus Stylus 1020</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 37 mm - 260 mm (7x) zoom lens;</description>
+    <summary>Slim, metal-bodied compact with big 7x zoom lens (37-260mm) and dual image stabilization. Lack of wide angle and question marks over the image quality in Olympus Stylus (mju) cameras - plus the use of the less common xD card format - limit the appeal.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus1020.gif</picture>
+    </links>
+    <releasedDate>2008-01-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 1600)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="27">
+    <name>Olympus SP-570 UZ</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 26 mm - 520 mm (20x) zoom lens;</description>
+    <summary>At launch the SP-570 (replacement for the SP-560 UZ) sported the longest built-in zoom on the market, covering an incredibly versatile 26-520mm (equiv.) range. In most respects it's very similar to all the other 'SLR-like' super zoom cameras on the market, with electronic viewfinder, full photographic control and a wealth of features and controls. We reviewed close relation the SP-565 UZ and found it to offer decent image quality that only really gives cause for complaint at high ISO settings. CCD-shift image stabilization struggles at the long end of a zoom this big.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_sp570uz.gif</picture>
+    </links>
+    <releasedDate>2008-01-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400** in reduced pixel mode</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="28">
+    <name>Olympus Stylus 1010</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 37 mm - 260 mm (7x) zoom lens;</description>
+    <summary>Slim, metal-bodied compact with big 7x zoom lens (37-260mm) and dual image stabilization. Lack of wide angle and question marks over the image quality in Olympus Stylus (mju) cameras - plus the use of the less common xD card format - limit the appeal.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus1010.gif</picture>
+    </links>
+    <releasedDate>2008-01-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 1600)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="29">
+    <name>Olympus Stylus 850 SW</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>Attractive 8 MP shock-proof, water-proof and freeze-proof compact with 38-114mm 3x zoom and unusual LED illuminator for macro shots. Part of the popular 'Tough' range of cameras. Now superceded by the 10 megapixel Sylus 1050SW. April 2009</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus850sw.gif</picture>
+    </links>
+    <releasedDate>2008-01-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3248" height="2436" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 1600)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="30">
+    <name>Olympus Stylus 840</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary>Slimline  compact with a larger than usual 5x zoom range (36-180mm equiv.) and attractive all-metal body. April 2009</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus840.gif</picture>
+    </links>
+    <releasedDate>2008-01-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3248" height="2436" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 1600)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="31">
+    <name>Olympus FE-350</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary>Keenly priced 8 megapixel compact with stylish design and wide angle (28-112mm equiv) 4x zoom lens. Large 3.0" screen rounds off an appealing ultra compact for anyone on a tight budget. April 2009</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe350wide.gif</picture>
+    </links>
+    <releasedDate>2008-01-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 640)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>640</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="32">
+    <name>Olympus FE-340 (C-560)</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary>Budget  compact with a larger than usual 5x zoom range (36-180mm equiv.) and a slimline all-metal body. Nice design and better feature set than most cameras at this price. Superceded by the FE-370. April 2009</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe340.gif</picture>
+    </links>
+    <releasedDate>2008-01-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 1600)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200** in reuced pixel mode</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="33">
+    <name>Olympus FE-310</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 37 mm - 185 mm (5x) zoom lens;</description>
+    <summary>Budget compact with a larger than usual 5x zoom range (37-185mm equiv.) and a part-metal construction. Lack of true wide angle and very basic specification / feature set limit its appeal to serious users but, like most cameras of this type, it makes an affordable first camera for a teenager or anyone on a very tight budget.</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe310.gif</picture>
+    </links>
+    <releasedDate>2008-01-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 640)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200** in reduced pixel mode</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="34">
+    <name>Olympus Stylus 1030 SW</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary>Attractive 10 MP shock-proof, water-proof and freeze-proof compact with useful 28-102mm wide angle 3x zoom. Part of the popular 'Tough' range of cameras. Now replaced by the Sylus Tough 6000 (Mju 6000). April 2009</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus1030sw.gif</picture>
+    </links>
+    <releasedDate>2008-01-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 1600)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="35">
+    <name>Olympus E-3</name>
+    <description>10.1 million effective pixels; 4.2 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympuse3/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_e3.gif</picture>
+    </links>
+    <releasedDate>2007-10-16</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>125</ISOrating>
+      <ISOrating>160</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>250</ISOrating>
+      <ISOrating>320</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>500</ISOrating>
+      <ISOrating>640</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating>2500</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="36">
+    <name>Olympus FE-270</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe270.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 640)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="37">
+    <name>Olympus FE-280</name>
+    <description>8.0 million effective pixels; 28 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe280.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50 - 800)</ISOrating>
+      <ISOrating>50 - 1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="38">
+    <name>Olympus FE-290</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe290.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 640)</ISOrating>
+      <ISOrating>64 - 640</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="39">
+    <name>Olympus FE-300</name>
+    <description>12.0 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe300.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 3200)</ISOrating>
+      <ISOrating>up to ISO 6400 in reduced pixel mode</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="40">
+    <name>Olympus Stylus 830 (mju 830 Digital)</name>
+    <description>8.0 million effective pixels; 28 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus830.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3248" height="2436" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 400)</ISOrating>
+      <ISOrating>80 � 1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="41">
+    <name>Olympus SP-560 UZ</name>
+    <description>8.0 million effective pixels; 28 MP/cm^2 pixel density; 27 mm - 486 mm (18x) zoom lens;</description>
+    <summary>Second generation 18x zoom camera from Olympus offers a compelling specification mix (including 27-486mm lens range, full photographic control and raw mode) and a list of features as long as your arm. Obviously squeezing so much lens into a small package means compromises in image quality, and in low light (at high ISO settings) the results leave much to be desired. The SP-570UZ's biggest problem, however, is that there are better - and cheaper - competitors out there.</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympussp560uz/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_sp560uz.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2560" height="1920" />
+        <resolution width="1920" height="1080" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50 - 3200</ISOrating>
+      <ISOrating>6400 in reduced pixel mode</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="42">
+    <name>Olympus Stylus 820 (mju 820 Digital)</name>
+    <description>8.0 million effective pixels; 28 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus820.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2488" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50 - 400)</ISOrating>
+      <ISOrating>80 - 1600</ISOrating>
+      <ISOrating>3200 @ 3MP</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="43">
+    <name>Olympus Stylus 790 SW (mju 790 SW Digital)</name>
+    <description>7.1 million effective pixels; 25 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus790sw.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 400)</ISOrating>
+      <ISOrating>80 - 1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="44">
+    <name>Olympus Stylus 1200 (mju 1200 Digital)</name>
+    <description>12.0 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus1200.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50 - 400)</ISOrating>
+      <ISOrating>80 - 1600</ISOrating>
+      <ISOrating>3200 &amp; 6400 @ 3MP</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="45">
+    <name>Olympus E-410 (EVOLT E-410)</name>
+    <description>10.0 million effective pixels; 4.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympuse410/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_e410.gif</picture>
+    </links>
+    <releasedDate>2007-03-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="46">
+    <name>Olympus E-510 (EVOLT E-510)</name>
+    <description>10.0 million effective pixels; 4.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympuse510/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_e510.gif</picture>
+    </links>
+    <releasedDate>2007-03-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="47">
+    <name>Olympus Stylus 780 (mju 780 Digital)</name>
+    <description>7.1 million effective pixels; 25 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus780.gif</picture>
+    </links>
+    <releasedDate>2007-03-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>(1600 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="48">
+    <name>Olympus Stylus 760 (mju 760 Digital)</name>
+    <description>7.1 million effective pixels; 25 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus760.gif</picture>
+    </links>
+    <releasedDate>2007-01-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>(1600 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="49">
+    <name>Olympus Stylus 770 SW (mju 770 SW Digital)</name>
+    <description>7.1 million effective pixels; 25 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus770sw.gif</picture>
+    </links>
+    <releasedDate>2007-01-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>(1600 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="50">
+    <name>Olympus SP-550 UZ</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 504 mm (18x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/olympussp550uz/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/oly_sp550uz.gif</picture>
+    </links>
+    <releasedDate>2007-01-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>(5000 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="51">
+    <name>Olympus FE-250</name>
+    <description>8.0 million effective pixels; 21 MP/cm^2 pixel density; 38 mm - 105 mm (2.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe250.gif</picture>
+    </links>
+    <releasedDate>2007-01-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 3200)</ISOrating>
+      <ISOrating>up to ISO 10000 at 3 MP</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="52">
+    <name>Olympus FE-240</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 190 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe240.gif</picture>
+    </links>
+    <releasedDate>2007-01-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50 - 400)</ISOrating>
+      <ISOrating>50 - 1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="53">
+    <name>Olympus FE-230</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe230.gif</picture>
+    </links>
+    <releasedDate>2007-01-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50 - 1250)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="54">
+    <name>Olympus FE-210</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe210.gif</picture>
+    </links>
+    <releasedDate>2007-01-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 640)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="55">
+    <name>Olympus E-400</name>
+    <description>10.0 million effective pixels; 4.1 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="60 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_e400.gif</picture>
+    </links>
+    <releasedDate>2006-09-14</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3200" height="2400" />
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="18.0" height="13.5" />
+  </camera>
+  <camera id="56">
+    <name>Olympus Stylus 725 SW (mju 725 SW Digital)</name>
+    <description>7.1 million effective pixels; 25 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus725sw.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>(800</ISOrating>
+      <ISOrating>1600 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="57">
+    <name>Olympus FE-200</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe200.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 320)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="58">
+    <name>Olympus FE-190</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe190.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 1000)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="59">
+    <name>Olympus FE-180</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe180.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 1000)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="60">
+    <name>Olympus FE-170</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_fe170.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="61">
+    <name>Olympus Stylus 1000 (mju 1000 Digital)</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus1000.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2272" height="1704" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>250</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>500</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>(6400 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="62">
+    <name>Olympus Stylus 730 (mju 730 Digital)</name>
+    <description>7.1 million effective pixels; 25 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus730.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>(1600 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="63">
+    <name>Olympus Stylus 740 (mju 740 Digital)</name>
+    <description>7.1 million effective pixels; 25 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus740.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>(1600 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="64">
+    <name>Olympus Stylus 750 (mju 750 Digital)</name>
+    <description>7.1 million effective pixels; 25 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_stylus750.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>(1600 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="65">
+    <name>Olympus SP-510 UZ</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 380 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="15 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/oly_sp510uz.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(2500 / 4000 with limitations)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+</cameras>
+

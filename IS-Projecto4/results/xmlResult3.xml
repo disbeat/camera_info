@@ -1,0 +1,77 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="style.css" rel="stylesheet" type="text/css">
+<script src="jquery.js" type="text/javascript"></script><script type="text/javascript">
+					$(document).ready(function(){
+						var active="none";
+						$("tr.to_hide").hide();
+						
+						$("td.name").click(function(){
+							var tmp_id= $(this).attr("id");
+							$("tr.to_hide").hide();
+							if(active!=tmp_id){
+								active = tmp_id;
+								$(this).parent().parent().children().show();
+							}else{
+								active = "none";
+							}
+						});
+					});
+				</script>
+</head>
+<body>
+<h2>agfa</h2>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="AgfaPhoto DC-600uw">
+						Name
+				</td><td class="name" id="AgfaPhoto DC-600uw">AgfaPhoto DC-600uw</td>
+</tr>
+<tr class="AgfaPhoto DC-600uw_all">
+<td class="left">Description</td><td>6.0 million effective pixels;  MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Release Date</td><td>2009-06-29</td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Maximum Resolution</td><td>3680x2760<br>
+</td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Lower Resolutions</td><td>2816x2112<br>2048x1536<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Effective pixels</td><td>6.0 million</td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Sensor size</td><td>640.0x480.0<br>
+</td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Shutter speed</td><td>
+						Min:8 sec<br>
+						Max:1/1000 sec<br>
+</td>
+</tr>
+<tr class="to_hide AgfaPhoto DC-600uw_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/agfa_dc600uw.gif"></td>
+</tr>
+</table>
+<br>
+</body>
+</html>

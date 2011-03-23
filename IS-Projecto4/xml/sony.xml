@@ -1,0 +1,2234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="sony">
+  <camera id="0">
+    <name>Sony Alpha DSLR-A500</name>
+    <description>12.3 million effective pixels; 3.4 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.3 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra500.gif</picture>
+    </links>
+    <releasedDate>2009-08-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4272" height="2848" />
+      <lowResolutions>
+        <resolution width="4272" height="2400" />
+        <resolution width="3104" height="2072" />
+        <resolution width="3104" height="1744" />
+        <resolution width="2128" height="1416" />
+        <resolution width="2188" height="1192" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating>12800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.6" />
+  </camera>
+  <camera id="1">
+    <name>Sony Alpha DSLR-A850</name>
+    <description>24.6 million effective pixels; 2.9 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>24.6 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra850.gif</picture>
+    </links>
+    <releasedDate>2009-08-27</releasedDate>
+    <resolutions>
+      <maxResolution width="6048" height="4032" />
+      <lowResolutions>
+        <resolution width="4400" height="2936" />
+        <resolution width="4400" height="2936" />
+        <resolution width="3024" height="2016" />
+        <resolution width="6048" height="3408" />
+        <resolution width="4400" height="2472" />
+        <resolution width="3024" height="1704" />
+        <resolution width="3924" height="2656" />
+        <resolution width="2896" height="1928" />
+        <resolution width="1984" height="1320" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (up to 6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="35.9" height="24.0" />
+  </camera>
+  <camera id="2">
+    <name>Sony Alpha DSLR-A550</name>
+    <description>14.2 million effective pixels; 3.9 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>14.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/previews/sonydslra550/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra550.gif</picture>
+    </links>
+    <releasedDate>2009-08-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4592" height="3056" />
+      <lowResolutions>
+        <resolution width="4592" height="2576" />
+        <resolution width="3344" height="2224" />
+        <resolution width="3344" height="1872" />
+        <resolution width="2288" height="1520" />
+        <resolution width="2288" height="1280" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating>12800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.4" height="15.6" />
+  </camera>
+  <camera id="3">
+    <name>Sony Cyber-shot DSC-WX1</name>
+    <description>10.2 million effective pixels; 37 MP/cm^2 pixel density; 24 mm - 120 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscwx1.gif</picture>
+    </links>
+    <releasedDate>2009-08-06</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>160</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="1280.0" height="720.0" />
+  </camera>
+  <camera id="4">
+    <name>Sony Cyber-shot DSC-TX1</name>
+    <description>10.2 million effective pixels; 37 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1250 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsctx1.gif</picture>
+    </links>
+    <releasedDate>2009-08-06</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>125</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="1280.0" height="720.0" />
+  </camera>
+  <camera id="5">
+    <name>Sony Alpha DSLR-A230</name>
+    <description>10.2 million effective pixels; 2.8 MP/cm^2 pixel density;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra230.gif</picture>
+    </links>
+    <releasedDate>2009-05-18</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="3872" height="2176" />
+        <resolution width="2896" height="1936" />
+        <resolution width="2896" height="1632" />
+        <resolution width="1920" height="1280" />
+        <resolution width="1920" height="1088" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.7" />
+  </camera>
+  <camera id="6">
+    <name>Sony Alpha DSLR-A380</name>
+    <description>14.2 million effective pixels; 3.8 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>14.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonydslra380/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra380.gif</picture>
+    </links>
+    <releasedDate>2009-05-18</releasedDate>
+    <resolutions>
+      <maxResolution width="4592" height="3056" />
+      <lowResolutions>
+        <resolution width="4592" height="2576" />
+        <resolution width="3408" height="2272" />
+        <resolution width="3408" height="1920" />
+        <resolution width="2288" height="1520" />
+        <resolution width="2288" height="1280" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="7">
+    <name>Sony Alpha DSLR-A330</name>
+    <description>10.2 million effective pixels; 2.8 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra330.gif</picture>
+    </links>
+    <releasedDate>2009-05-18</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="3872" height="2176" />
+        <resolution width="2896" height="1936" />
+        <resolution width="2896" height="1632" />
+        <resolution width="1920" height="1280" />
+        <resolution width="1920" height="1088" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.7" />
+  </camera>
+  <camera id="8">
+    <name>Sony Cyber-shot DSC-HX1</name>
+    <description>9.1 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 560 mm (20x) zoom lens;</description>
+    <summary>Latest in a long line of big-zoom, SLR-styled compacts is the first of a new generation of non-SLR models to feature the company's newly-developed high-speed 9 Mp Exmor CMOS sensor. Sporting a 28-560mm (35mm-equivalent) 20x zoom lens, the DSC-HX1 is capable of up to 10 frames per second in burst mode using a high-speed mechanical shutter. The new sensor also enables high definition movie capture up to 1080/30p and some novel features such as 'sweep panoramas' and multi-shot stacking low light modes. The image quality is decent enough in good light, but there are better, and given the price you have to really want those cool features to choose the HX1 over some of its considerably cheaper competitors.</summary>
+    <effectivePixels>9.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonydschx1/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dschx1.gif</picture>
+    </links>
+    <releasedDate>2009-03-02</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="3456" height="2304" />
+        <resolution width="3456" height="1944" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>125</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="1440.0" height="1080.0" />
+  </camera>
+  <camera id="9">
+    <name>Sony Cyber-shot DSC-S950</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 33 mm - 132 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscs950.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="10">
+    <name>Sony Cyber-shot DSC-W230</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 30 mm - 120 mm (4x) zoom lens;</description>
+    <summary>One of a pair of near identical twins (the other being the DSC-W290), the DSC-W230 is part of the new ('09) generation of unassuming 'W' series compacts and features Sony's latest intelligent auto features, a slightly wider than normal 30-120mm (4x) zoom, 3.0" LCD, optical stabilization and a 12MP sensor. The slightly less run of the mill DSC-W290 adds a more useful zoom range and HD movie capture.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw230.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="11">
+    <name>Sony Cyber-shot DSC-H20</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 38 mm - 380 mm (10x) zoom lens;</description>
+    <summary>The  DSC-H20 is the third generation of Sony's unusually styled 10x zoom compact cameras and is, at least from the outside, very similar to its predecessors. Compared to the H10 the megapixel count has been  increased (from 8 to 10 MP) and the camera now also features 720p HD video capture and a slightly larger screen. However, the 10x zoom lens remains unchanged. Compared to most recent cameras in this class the H20's lens is biased far more towards the tele end, which is either a good thing or a bad thing depending on the type of thing you want to shoot. Image quality is pretty good but the lack of wideangle is disappointing.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/q209grouplongzoom/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsch20.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="12">
+    <name>Sony Cyber-shot DSC-W290</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary>One of a pair of near identical twins (the other being the DSC-W230), the DSC-W290 sits near the top of the new ('09) generation of conventionally-styled 'W' series compacts and features Sony's latest intelligent auto features, a useful stabilized 28-140mm (5x) zoom, 3.0" LCD and 12MP sensor that's also capable of capturing 720p HD movie clips in MPEG4 format. The slightly more run of the mill - and cheaper - DSC-W230 drops the zoom range and HD movie capture.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw290.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="13">
+    <name>Sony Cyber-shot DSC-T900</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary>One of a pair of near identical twins (the other being the DSC-T90), the DSC-T900 has the usual T series attributes; ultra slim styling, sliding lens cover and simple point-and-shoot operation. The 12 megapixel sensor can also deliver 720p HD movies (MPEG4 format) and Sony's latest intelligent automatic systems. The whole thing is finished off with a large, high resolution (921k pixel) 3.5" screen and useful 35-140mm (equiv.) 5x zoom with optical image stabilization. The less expensive T-90 has a smaller, lower resolution screen but is otherwise pretty much the same camera. April 2009</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct900.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="14">
+    <name>Sony Cyber-shot DSC-T90</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary>One of a pair of near identical twins (the other being the DSC-T900), the DSC-T90 has the usual T series attributes; ultra slim styling, sliding lens cover and simple point-and-shoot operation. The 12 megapixel sensor can also deliver 720p HD movies (MPEG4 format) and Sony's latest intelligent automatic systems. The whole thing is finished off with a large 3.0" screen and useful 35-140mm (equiv.) 5x zoom with optical image stabilization. The T-900 adds a larger, much higher resolution screen. April 2009</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct90.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="15">
+    <name>Sony Cyber-shot DSC-S980</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 33 mm - 132 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscs980.gif</picture>
+    </links>
+    <releasedDate>2009-02-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2248" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="16">
+    <name>Sony Cyber-shot DSC-W220</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 30 mm - 120 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw220.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2656" />
+        <resolution width="4000" height="2240" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2560" height="1920" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="17">
+    <name>Sony Cyber-shot DSC-S930</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 38 mm - 108 mm (2.8x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1/8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscs930.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="18">
+    <name>Sony Cyber-shot DSC-G3</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscg3.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="19">
+    <name>Sony Alpha DSLR-A900</name>
+    <description>24.6 million effective pixels; 2.9 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>24.6 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonydslra900/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra900.gif</picture>
+    </links>
+    <releasedDate>2008-09-09</releasedDate>
+    <resolutions>
+      <maxResolution width="6048" height="4032" />
+      <lowResolutions>
+        <resolution width="4400" height="2936" />
+        <resolution width="4400" height="2936" />
+        <resolution width="3024" height="2016" />
+        <resolution width="6048" height="3408" />
+        <resolution width="4400" height="2472" />
+        <resolution width="3024" height="1704" />
+        <resolution width="3924" height="2656" />
+        <resolution width="2896" height="1928" />
+        <resolution width="1984" height="1320" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(up to 6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="35.9" height="24.0" />
+  </camera>
+  <camera id="20">
+    <name>Sony Cyber-shot DSC-T500</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 33 mm - 165 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct500.gif</picture>
+    </links>
+    <releasedDate>2008-08-28</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="21">
+    <name>Sony Cyber-shot DSC-T77</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct77.gif</picture>
+    </links>
+    <releasedDate>2008-08-06</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="22">
+    <name>Sony Cyber-shot DSC-T700</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 140 mm (4x) zoom lens;</description>
+    <summary>Ultra slim Cyber-shot with ultra high resolution 3.5" touch screen LCD, 4GB internal memory and 4x (35-140mm equiv.) zoom lens and all the latest easy auto features (including blink detection) that's capable of surprisingly good results but is let down a little by its user interface and handling issues - and a price tag that's hard to justify. (April 2009)</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408slimgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct700.gif</picture>
+    </links>
+    <releasedDate>2008-08-06</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="23">
+    <name>Sony Cyber-shot DSC-W300</name>
+    <description>13.6 million effective pixels; 31 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>High end Cyber-shot with plenty of features but little to appeal to the more serious photographer. For many months after its launch in February '08 this was the highest pixel-count compact on the market, and there are still only a handful of cameras to fight for that particular title. A titanium-coated body sets this model apart from the five other less expensive W-series cameras Sony currently builds, and like most of its competitors, it's got lots of user-friendly options including an automatic scene selection mode. What it doesn't have, unlike most high end compacts, is a proper wideangle zoom - the W300 sports a rather pedestrian 35-105mm (equiv.) lens, which - given the price - puts it at something of an immediate disadvantage, titanium body or not. Performance is perfectly good but it's far from class-leading, and there are better cameras around for less money. (April 2009)</summary>
+    <effectivePixels>13.6 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408premiumgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw300.gif</picture>
+    </links>
+    <releasedDate>2008-02-25</releasedDate>
+    <resolutions>
+      <maxResolution width="4224" height="3168" />
+      <lowResolutions>
+        <resolution width="4224" height="2816" />
+        <resolution width="4224" height="2376" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="24">
+    <name>Sony Cyber-shot DSC-H50</name>
+    <description>9.1 million effective pixels; 32 MP/cm^2 pixel density; 31 mm - 465 mm (15x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q109superzoomgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsch50.gif</picture>
+    </links>
+    <releasedDate>2008-02-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="3456" height="2304" />
+        <resolution width="3456" height="1944" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="25">
+    <name>Sony Alpha DSLR-A300</name>
+    <description>10.2 million effective pixels; 2.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra300.gif</picture>
+    </links>
+    <releasedDate>2008-01-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="3872" height="2176" />
+        <resolution width="2896" height="1936" />
+        <resolution width="2896" height="1632" />
+        <resolution width="1920" height="1280" />
+        <resolution width="1920" height="1088" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="26">
+    <name>Sony Alpha DSLR-A350</name>
+    <description>14.2 million effective pixels; 3.8 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>14.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonydslra350/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra350.gif</picture>
+    </links>
+    <releasedDate>2008-01-30</releasedDate>
+    <resolutions>
+      <maxResolution width="4592" height="3056" />
+      <lowResolutions>
+        <resolution width="4592" height="2576" />
+        <resolution width="3408" height="2272" />
+        <resolution width="3408" height="1920" />
+        <resolution width="2288" height="1520" />
+        <resolution width="2288" height="1280" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="27">
+    <name>Sony Cyber-shot DSC-W150</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 30 mm - 150 mm (5x) zoom lens;</description>
+    <summary>One of a range of very similar W series cameras announced in early 2008, the DSC-W150 is a   is a  competitively-priced but nicely put together  8.1 megapixel budget metal-bodied compact with a very versatile 30-150mm (equiv.) 5x zoom and 2.7" screen - plus a fairly comprehensive feature set. The closely-related DSC-W120 did very well in our December 2008 budget camera group test. (April 2009)</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw150.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="28">
+    <name>Sony Cyber-shot DSC-H10</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 380 mm (10x) zoom lens;</description>
+    <summary>Minor update to the DSC-H3 (adding a larger screen), the H10 is Sony's answer to Panasonic's popular TZ ('travel zoom') series and offers the same appealing combination of a long (10x) stabilized zoom and a surprisingly compact body. The design is a little 'love it or hate it' but image quality isn't bad at all and it's fun, easy and copes well with a wide range of shooting scenarios - though the lack of wideangle means there are more versatile competitors out there.</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonydsch10/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsch10.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="29">
+    <name>Sony Cyber-shot DSC-W130</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 32 mm - 128 mm (4x) zoom lens;</description>
+    <summary>One of a range of very similar W series compacts announced in early 2008, the DSC-W130 is a basic but nicely put together 8.1 megapixel metal-bodied job with a useful 32-128mm (equiv.) 4x zoom and 2.5" screen. The almost identical DSC-W120 (which has a 7.2 megapixel sensor) did very well in our December 2008 budget camera group test. (April 2009)</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw130.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="30">
+    <name>Sony Cyber-shot DSC-W170</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary>One of a range of very similar W series cameras announced in early 2008, the DSC-W170 is a  competitively-priced but nicely put together 10 megapixel  metal-bodied compact with a very versatile 30-150mm (equiv.) 5x zoom and 2.7" screen - plus a fairly comprehensive feature set. The closely-related DSC-W120 did very well in our December 2008 budget camera group test. (April 2009)</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw170.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="31">
+    <name>Sony Cyber-shot DSC-W110</name>
+    <description>7.2 million effective pixels; 29 MP/cm^2 pixel density; 32 mm - 128 mm (4x) zoom lens;</description>
+    <summary>One of a range of very similar W series compacts announced in early 2008, the DSC-W110 is a basic but nicely put together 7.2 megapixel metal-bodied job with a useful 32-128mm (equiv.) 4x zoom and 2.5" screen. The almost identical DSC-W120 (which adds image stabilization) did very well in our December 2008 budget camera group test. (April 2009)</summary>
+    <effectivePixels>7.2 million</effectivePixels>
+    <shutterTime min="1/8 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw110.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+        <resolution width="3072" height="2048" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="32">
+    <name>Sony Cyber-shot DSC-W120</name>
+    <description>7.2 million effective pixels; 29 MP/cm^2 pixel density; 32 mm - 128 mm (4x) zoom lens;</description>
+    <summary>In our December 2008 budget camera group test the W120 came out near the top of all our image quality tests and produced consistently well exposed shots with good color, focus and sharpness. Equally importantly it is fast and responsive, even in low light. Throw in the slightly wider angle 4x zoom and image stabilization and stylish metal body and you've got the perfect pocket camera. It's not the cheapest camera you can buy, but we think it's well worth paying that little bit more.</summary>
+    <effectivePixels>7.2 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408budgetgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw120.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="33">
+    <name>Sony Cyber-shot DSC-S780</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>Unremarkable entry-level 8.1 megapixel compact with a 3x (35-105mm) zoom and the usual smattering of scene modes and face detection features. Sister model the S750 is  identical except for 7.2 megpixel sensor and slightly slower burst mode. April 2009</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscs780.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="34">
+    <name>Sony Cyber-shot DSC-S750</name>
+    <description>7.2 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>Unremarkable entry-level 7.2 megapixel compact with a 3x (35-105mm) zoom and the usual smattering of scene modes and face detection features. Sister model the S780 is  identical apart from an extra megapixel. April 2009</summary>
+    <effectivePixels>7.2 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscs750.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="35">
+    <name>Sony Cyber-shot DSC-T300</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 33 mm - 165 mm (5x) zoom lens;</description>
+    <summary>The Cybershot DSC-T300 is the second generation of touch-screen ultra compacts from electronics giant Sony. Thanks to some clever folded optics Sony has managed to cram a non-protruding 5x (33-165mm equiv) zoom into the slimline body, which is also packed full of the latest special modes and functions, including 'smile shutter,' that only takes a photo once your subject is smiling. The real stand-out feature of this camera is the huge, 16:9 aspect ratio touch screen that covers the entire reverse of the body.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonyt300/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct300.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2056" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="36">
+    <name>Sony Alpha DSLR-A200</name>
+    <description>10.2 million effective pixels; 2.7 MP/cm^2 pixel density;</description>
+    <summary>Part of the second generation of consumer Alpha digital SLRs, the DSLR-A200 is a relatively modest upgrade to the Alpha 100 it replaced. It may be the 'budget' Sony SLR but it's quite a bargain, packing an impressive set of features into its compact body. These include 9-point autofocus and 'Super SteadyShot', which means every lens you use gets the benefit of image stabilization. Image	quality from its 10 megapixel CCD is good in bright light, but lags behind most competing SLRs in low light at higher ISO settings.</summary>
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonydslra200/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra200.gif</picture>
+    </links>
+    <releasedDate>2008-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="3872" height="2176" />
+        <resolution width="2896" height="1936" />
+        <resolution width="2896" height="1632" />
+        <resolution width="1920" height="1280" />
+        <resolution width="1920" height="1088" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="37">
+    <name>Sony Cyber-shot DSC-S730</name>
+    <description>7.2 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.2 million</effectivePixels>
+    <shutterTime min="1/8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscs730.gif</picture>
+    </links>
+    <releasedDate>2007-12-28</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="38">
+    <name>Sony Cyber-shot DSC-T2</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct2.gif</picture>
+    </links>
+    <releasedDate>2007-10-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="1920" height="1080" />
+        <resolution width="2592" height="1944" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="39">
+    <name>Sony Alpha DSLR-A700</name>
+    <description>12.2 million effective pixels; 3.3 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonydslra700/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra700.gif</picture>
+    </links>
+    <releasedDate>2007-09-06</releasedDate>
+    <resolutions>
+      <maxResolution width="4272" height="2848" />
+      <lowResolutions>
+        <resolution width="3104" height="2064" />
+        <resolution width="2128" height="1424" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(up to 6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.6" />
+  </camera>
+  <camera id="40">
+    <name>Sony Cyber-shot DSC-T200</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct200.gif</picture>
+    </links>
+    <releasedDate>2007-08-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="41">
+    <name>Sony Cyber-shot DSC-H3</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 380 mm (10x) zoom lens;</description>
+    <summary>First generation of Sony's unusually styled 10x zoom compact cameras is equipped with an 8MP sensor and a 38-380mm equiv. zoom, and features such as Face Detection, Optical Image Stabilization and HDTV output (albeit using an optional composite video cable or Cyber-shot Station dock). Compared to most recent cameras in this class the H20's lens is biased far more towards the tele end, which is either a good thing or a bad thing depending on the type of thing you want to shoot. Image quality is pretty good but the lack of wideangle is disappointing. Since replaced by the H10 and H20. (April 2009)</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonydsch3/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsch3.gif</picture>
+    </links>
+    <releasedDate>2007-08-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2592" height="1944" />
+        <resolution width="1920" height="1080" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="42">
+    <name>Sony Cyber-shot DSC-G1</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="1/4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscg1.gif</picture>
+    </links>
+    <releasedDate>2007-05-08</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1632" height="1224" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="43">
+    <name>Sony Cyber-shot DSC-S800</name>
+    <description>8.1 million effective pixels; 21 MP/cm^2 pixel density; 37 mm - 222 mm (6x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="1/8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscs800.gif</picture>
+    </links>
+    <releasedDate>2007-05-01</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1632" height="1224" />
+        <resolution width="64" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="44">
+    <name>Sony Cyber-shot DSC-T100</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct100.gif</picture>
+    </links>
+    <releasedDate>2007-02-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="45">
+    <name>Sony Cyber-shot DSC-H9</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 31 mm - 465 mm (15x) zoom lens;</description>
+    <summary>Second generation (along with the slightly lower spec H7) of Sony's foray into the popular 'SLR-like' superzoom market upgrades the DSC-H5 with a new 8MP sensor, 15x zoom (now covering 31-465mm equiv. range) and a wealth of new features (including a tilting 3.0 inch screen). Although the H9 is fast, is capable of pleasing results in good conditions and is packed with useful features, we were unimpressed by the redesigned user interface. The long list of small complaints about the image quality add up to a camera that's hard to wholeheartedly recommend, especially when it has so many strong competitors. Recently superceded by the CMOS-sensored DSC-HX1. (April 2009)</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonyh9/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsch9.gif</picture>
+    </links>
+    <releasedDate>2007-02-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="46">
+    <name>Sony Cyber-shot DSC-W80</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>Announced in February 2007, the Cyber-shot W80 is one of three almost identical models that differ only in their pixel count. The W series has been gradually refined over the last few generations and now offers a more affordable alternative to the ultra-slim 'T' series whilst still offering a compact body, optical image stabilization and - new for these models - HDTV (1080i) output. Also new to the W series is a new multi-point AF system and - of course - face detection AF/AE. Otherwise the spec is pretty standard ultra compact fare; 3x zoom, 2.5-inch screen and a claimed 340 shot battery capability. Unfortunately, whilst it produces great results in good light, it's let down by poor low-light focus and flash performance. (April 2009)</summary>
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonyw80/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw80.gif</picture>
+    </links>
+    <releasedDate>2007-02-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="47">
+    <name>Sony Cyber-shot DSC-H7</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 31 mm - 465 mm (15x) zoom lens;</description>
+    <summary>Second generation (along with the slightly higher spec H9) of Sony's foray into the popular 'SLR-like' superzoom market upgrades the DSC-H2 with a new 8MP sensor, 15x zoom (now covering 31-465mm equiv. range) and a wealth of new features (including larger screen). Although the H7 is fast, is capable of pleasing results in good conditions and is packed with useful features, we were unimpressed by the redesigned user interface. The long list of small complaints about the image quality add up to a camera that's hard to wholeheartedly recommend, especially when it has so many strong competitors. Recently superceded by the CMOS-sensored DSC-HX1. (April 2009)</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonyh7/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsch7.gif</picture>
+    </links>
+    <releasedDate>2007-02-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="48">
+    <name>Sony Cyber-shot DSC-W200</name>
+    <description>12.0 million effective pixels; 28 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw200.gif</picture>
+    </links>
+    <releasedDate>2007-02-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="49">
+    <name>Sony Cyber-shot DSC-T20</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct20.gif</picture>
+    </links>
+    <releasedDate>2007-02-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="50">
+    <name>Sony Cyber-shot DSC-W90</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1600 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw90.gif</picture>
+    </links>
+    <releasedDate>2007-02-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3254" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="51">
+    <name>Sony Cyber-shot DSC-S700</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscs700.gif</picture>
+    </links>
+    <releasedDate>2007-01-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1632" height="1224" />
+        <resolution width="64" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="52">
+    <name>Sony Cyber-shot DSC-W35</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw35.gif</picture>
+    </links>
+    <releasedDate>2007-01-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1632" height="1224" />
+        <resolution width="64" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="53">
+    <name>Sony Cyber-shot DSC-S650</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscs650.gif</picture>
+    </links>
+    <releasedDate>2007-01-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1632" height="1224" />
+        <resolution width="64" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="54">
+    <name>Sony Cyber-shot DSC-W55</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscw55.gif</picture>
+    </links>
+    <releasedDate>2007-01-17</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1632" height="1224" />
+        <resolution width="64" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="55">
+    <name>Sony Cyber-shot DSC-N2</name>
+    <description>10.0 million effective pixels; 23 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dscn2.gif</picture>
+    </links>
+    <releasedDate>2006-09-11</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="56">
+    <name>Sony Cyber-shot DSC-T50</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct50.gif</picture>
+    </links>
+    <releasedDate>2006-09-11</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1632" height="1224" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="57">
+    <name>Sony Cyber-shot DSC-T10</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dsct10.gif</picture>
+    </links>
+    <releasedDate>2006-08-02</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1632" height="1224" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="58">
+    <name>Sony Alpha DSLR-A100</name>
+    <description>10.0 million effective pixels; 2.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/sonydslra100/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/sony_dslra100.gif</picture>
+    </links>
+    <releasedDate>2006-06-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="3896" height="1936" />
+        <resolution width="1920" height="1280" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+</cameras>
+

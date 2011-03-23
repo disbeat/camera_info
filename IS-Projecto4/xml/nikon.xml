@@ -1,0 +1,2171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="nikon">
+  <camera id="0">
+    <name>Nikon D3S</name>
+    <description>12.1 million effective pixels; 1.4 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d3s.gif</picture>
+    </links>
+    <releasedDate>2009-10-14</releasedDate>
+    <resolutions>
+      <maxResolution width="4256" height="2832" />
+      <lowResolutions>
+        <resolution width="3552" height="2832" />
+        <resolution width="3552" height="2368" />
+        <resolution width="3184" height="2128" />
+        <resolution width="2784" height="1848" />
+        <resolution width="2656" height="1776" />
+        <resolution width="2128" height="1416" />
+        <resolution width="2080" height="1384" />
+        <resolution width="1776" height="1416" />
+        <resolution width="1776" height="1184" />
+        <resolution width="1392" height="920" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="5" height="4" />
+      <imageRatio width="1" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>200 - 12800 in 1</ISOrating>
+      <ISOrating>1/2 or 1/3 EV steps (100 - 102400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="36.0" height="23.9" />
+  </camera>
+  <camera id="1">
+    <name>Nikon Coolpix S1000pj</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps1000pj.gif</picture>
+    </links>
+    <releasedDate>2009-08-04</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200</ISOrating>
+      <ISOrating>6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="2">
+    <name>Nikon Coolpix S640</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps640.gif</picture>
+    </links>
+    <releasedDate>2009-08-04</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="3">
+    <name>Nikon Coolpix S570</name>
+    <description>12.0 million effective pixels; 42 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps570.gif</picture>
+    </links>
+    <releasedDate>2009-08-04</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="4">
+    <name>Nikon Coolpix S70</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps70.gif</picture>
+    </links>
+    <releasedDate>2009-08-04</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000 (3200</ISOrating>
+      <ISOrating>6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="5">
+    <name>Nikon D300S</name>
+    <description>12.3 million effective pixels; 3.3 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.3 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d300s.gif</picture>
+    </links>
+    <releasedDate>2009-07-30</releasedDate>
+    <resolutions>
+      <maxResolution width="4288" height="2848" />
+      <lowResolutions>
+        <resolution width="3216" height="2136" />
+        <resolution width="2144" height="1424" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>200 - 3200 in 1</ISOrating>
+      <ISOrating>1/2 or 1/3 EV steps (100 - 6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="6">
+    <name>Nikon D3000</name>
+    <description>10.2 million effective pixels; 2.7 MP/cm^2 pixel density;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d3000.gif</picture>
+    </links>
+    <releasedDate>2009-07-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="2896" height="1944" />
+        <resolution width="1936" height="1296" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(plus 3200 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="7">
+    <name>Nikon D5000</name>
+    <description>12.3 million effective pixels; 3.3 MP/cm^2 pixel density;</description>
+    <summary>New model fills the gap in Nikon's range between the D60 and the D90, though the feature set is far closer to the more expensive D90 than the entry level models. With 12.9 megapixels, 720p movie capture, tilting LCD screen and faster burst mode (plus a wealth of upgrades and enhancements) the D5000 is a significant step up from the D40X/D60 but the lack of an in-body focus motor and entry-level viewfinder stops it treading too hard on the D90's toes.</summary>
+    <effectivePixels>12.3 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond5000/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d5000.gif</picture>
+    </links>
+    <releasedDate>2009-04-14</releasedDate>
+    <resolutions>
+      <maxResolution width="4288" height="2848" />
+      <lowResolutions>
+        <resolution width="3216" height="2136" />
+        <resolution width="2144" height="1424" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200 - 3200 (plus 6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="8">
+    <name>Nikon Coolpix S620</name>
+    <description>12.2 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.2 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps620.gif</picture>
+    </links>
+    <releasedDate>2009-02-03</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="9">
+    <name>Nikon Coolpix P90</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 26 mm - 624 mm (24x) zoom lens;</description>
+    <summary>Nikon's second generation 'SLR like' super zoom compact ups the sensor to 12 MP and the zoom range to 24x (covering an astonishing 26-624mm range) and adds a 3.0" tilting screen to produce a camera that - on paper at least - offers a compelling 'all in one' option for anyone wanting the versatility, but not the bulk, weight or expense, of an SLR. We only hope the issues with the P80 (focus errors and poor high ISO perfomance) have been ironed out of the new model. (April 2009)</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpp90.gif</picture>
+    </links>
+    <releasedDate>2009-02-03</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="3984" height="2656" />
+        <resolution width="3968" height="2232" />
+        <resolution width="2992" height="2992" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="10">
+    <name>Nikon Coolpix S220</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps220.gif</picture>
+    </links>
+    <releasedDate>2009-02-03</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3584" height="2016" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 2000)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="11">
+    <name>Nikon Coolpix L100</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 420 mm (15x) zoom lens;</description>
+    <summary>Nikon's first foray into the compact/long zoom arena is a slightly odd beast that sits roughly halfway between  compact travel zooms (such as the Panasonic TZ series) and the SLR-style super zooms such as its own P90 (though despite appearances, it doesn't have an eye level viewfinder of any kind). It's certainly very small for a camera with a 15x optical zoom (covering a useful 28-420mm equiv. range), but its mini-SLR styling means it's far from pocketable. Lens aside the L100 is - like all Nikon's L series cameras - a true 'point and shoot' model, with little manual control, but the 3.0" screen, image stabilization and ease of use features (not to mention keen pricing) will undoubtedly appeal to many. (April 2009)</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl100.gif</picture>
+    </links>
+    <releasedDate>2009-02-03</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3584" height="2016" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 3200)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="12">
+    <name>Nikon Coolpix L20</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 136 mm (3.5x) zoom lens;</description>
+    <summary>Like sister model the L19, the Coolpix L20 is a basic budget camera with bare bones point-and-shoot functionality in an understated body. You do get a 3.6x zoom lens (covering a rather nonedescript 38-136mm range) and a handful of new gadgets designed to provide true point-and-shoot ease of use (including Auto Scene Selector, Smile Mode and Blink Detection) and a 3.0" screen, but that's about it. (April 2009)</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl20.gif</picture>
+    </links>
+    <releasedDate>2009-02-03</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3584" height="2016" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 1600)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="13">
+    <name>Nikon Coolpix L19</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density;</description>
+    <summary>Like sister model the L20, the Coolpix L19 is a basic budget camera with bare bones point-and-shoot functionality in an understated body. You do get a 3.6x zoom lens (covering a less than ideal 41-145mm range - so no wideangle) and a handful of new gadgets designed to provide true point-and-shoot ease of use (including Auto Scene Selector, Smile Mode and Blink Detection) and a 2.7" screen, but that's about it. (April 2009)</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl19.gif</picture>
+    </links>
+    <releasedDate>2009-02-03</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3200" height="1800" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 1600)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="14">
+    <name>Nikon Coolpix S630</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 37 mm - 260 mm (7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps630.gif</picture>
+    </links>
+    <releasedDate>2009-02-03</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3968" height="2232" />
+        <resolution width="2992" height="2992" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="15">
+    <name>Nikon Coolpix S230</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps230.gif</picture>
+    </links>
+    <releasedDate>2009-02-03</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3584" height="2016" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 2000)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="16">
+    <name>Nikon D3X</name>
+    <description>24.5 million effective pixels; 2.8 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>24.5 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond3x/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d3x.gif</picture>
+    </links>
+    <releasedDate>2008-12-01</releasedDate>
+    <resolutions>
+      <maxResolution width="6048" height="4032" />
+      <lowResolutions>
+        <resolution width="5056" height="4032" />
+        <resolution width="4544" height="3024" />
+        <resolution width="3968" height="2640" />
+        <resolution width="3792" height="3024" />
+        <resolution width="3024" height="2016" />
+        <resolution width="2976" height="1976" />
+        <resolution width="2528" height="2016" />
+        <resolution width="1984" height="132" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>100 - 1600 in 1/3</ISOrating>
+      <ISOrating>1/2 or 1.0 EV steps</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="35.9" height="24.0" />
+  </camera>
+  <camera id="17">
+    <name>Nikon D90</name>
+    <description>12.3 million effective pixels; 3.3 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.3 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond90/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d90.gif</picture>
+    </links>
+    <releasedDate>2008-08-27</releasedDate>
+    <resolutions>
+      <maxResolution width="4288" height="2848" />
+      <lowResolutions>
+        <resolution width="3216" height="2136" />
+        <resolution width="2144" height="1424" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200 - 3200 (plus 6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="18">
+    <name>Nikon Coolpix S610c</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps610c.gif</picture>
+    </links>
+    <releasedDate>2008-08-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2064" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1728" />
+        <resolution width="2592" height="1456" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 800)</ISOrating>
+      <ISOrating>Hi Auto (100 - 1600)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="19">
+    <name>Nikon Coolpix S560</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 34.8 mm - 174 mm (4.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps560.gif</picture>
+    </links>
+    <releasedDate>2008-08-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 800)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating>(3200 at 5 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="20">
+    <name>Nikon Coolpix P6000</name>
+    <description>13.5 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary>With its plethora of features and manual controls, the P6000 (which replaces the P5100) is - of all the cameras in its class - the one that gets closest to delivering SLR style control and handling in a truly pocketable format. . As you would expect Nikon has increased the megapixel count on the new model, but fortunately hasn't stopped there. The lens now offers a 28mm wide angle (from 35mm on the P5100) and the P6000 is also one of the first digital cameras featuring a built-in GPS receiver for geo-coding your images, and even has wired LAN connectivity. JPEG image quality is something of a mixed bag, but the inclusion of a raw mode does at least give you the option to fine tune the processing to your own taste.</summary>
+    <effectivePixels>13.5 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408enthusiastgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpp6000.gif</picture>
+    </links>
+    <releasedDate>2008-08-07</releasedDate>
+    <resolutions>
+      <maxResolution width="4224" height="3168" />
+      <lowResolutions>
+        <resolution width="4224" height="3168" />
+        <resolution width="4224" height="2816" />
+        <resolution width="4224" height="2376" />
+        <resolution width="3264" height="2448" />
+        <resolution width="3168" height="3168" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 800)</ISOrating>
+      <ISOrating>Hi-Auto (64 - 1600)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200</ISOrating>
+      <ISOrating>6400 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="21">
+    <name>Nikon Coolpix S60</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 33 mm - 165 mm (5x) zoom lens;</description>
+    <summary>Slim and stylish 10 MP compact with 5x (33-165mm equiv.) zoom and huge 3.5" touch sensitive screen that fills the entire rear of the body and replaces all the external controls you'd normally operate using buttons (including the zoom). The image quality isn't bad and it's got some cool features, but the whole thing is ruined by the fiddly and unresponsive touch screen that ensures taking even the simplest snapshot is a frustrating experience.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408slimgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps60.gif</picture>
+    </links>
+    <releasedDate>2008-08-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3584" height="2016" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 800)</ISOrating>
+      <ISOrating>Hi-Auto (64 - 1600)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 at 5MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="22">
+    <name>Nikon Coolpix S710</name>
+    <description>14.5 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 101 mm (3.6x) zoom lens;</description>
+    <summary>Sitting at the top of the Coolpix 'S' (Style) range, the S710 is packed with pixels (14.5 million of em) and features - including full photographic control, useful 28-101mm (equiv.) zoom and a large 3.0" LCD screen. First impressions are very positive (great styling and build quality, comprehensive features), but once you turn it on things start to go awry, with sluggish operation, pedestrian image quality and less than perfect metering, white balance, flash and focus. It's not a terrible camera by any measure, but it's not worth its premium price.</summary>
+    <effectivePixels>14.5 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408premiumgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps710.gif</picture>
+    </links>
+    <releasedDate>2008-08-07</releasedDate>
+    <resolutions>
+      <maxResolution width="4352" height="3264" />
+      <lowResolutions>
+        <resolution width="4352" height="3264" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200 (6400 &amp; 12</ISOrating>
+      <ISOrating>800 at 3 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="23">
+    <name>Nikon Coolpix S610</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps610.gif</picture>
+    </links>
+    <releasedDate>2008-08-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2064" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1728" />
+        <resolution width="2592" height="1456" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 800)</ISOrating>
+      <ISOrating>Hi Auto (100 - 1600)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="24">
+    <name>Nikon D700</name>
+    <description>12.1 million effective pixels; 1.4 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond700/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d700.gif</picture>
+    </links>
+    <releasedDate>2008-07-01</releasedDate>
+    <resolutions>
+      <maxResolution width="4256" height="2832" />
+      <lowResolutions>
+        <resolution width="3184" height="2120" />
+        <resolution width="2128" height="1416" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>200 - 6400 in 1</ISOrating>
+      <ISOrating>1/2 or 1/3 EV steps (100 - 25600 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="36.0" height="24.0" />
+  </camera>
+  <camera id="25">
+    <name>Nikon Coolpix S52c</name>
+    <description>9.0 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps52c.gif</picture>
+    </links>
+    <releasedDate>2008-04-10</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 800)</ISOrating>
+      <ISOrating>Hi-Auto (100 - 2000)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="26">
+    <name>Nikon Coolpix S52</name>
+    <description>9.0 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>9.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps52.gif</picture>
+    </links>
+    <releasedDate>2008-04-10</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 800)</ISOrating>
+      <ISOrating>Hi-Auto (100 - 2000)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="27">
+    <name>Nikon Coolpix P80</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 27 mm - 486 mm (18x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q109superzoomgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpp80.gif</picture>
+    </links>
+    <releasedDate>2008-04-10</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3584" height="2016" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 800)</ISOrating>
+      <ISOrating>Hi-Auto (64 - 1600)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200</ISOrating>
+      <ISOrating>6400 at 3MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="28">
+    <name>Nikon Coolpix S520</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps520.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+        <resolution width="3200" height="1800" />
+        <resolution width="2448" height="2448" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>(64 - 1600)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="29">
+    <name>Nikon Coolpix L18</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>The Coolpix L18 is an unassuming little budget camera that offers little in the way of frills but does its job - taking pictures - remarkably well. Our biggest frustrations during testing (the lack of ISO control and custom white balance) almost certainly won't be a concern to the kind of user looking to spend under $100 on a point and shoot camera. The large, relatively high resolution screen is a real bonus and there are a few neat features hidden away in the clear, simple menus (color options, D-Lighting in playback mode), but this is about as basic as digital cameras from major manufacturers gets. We didn't expect a lot from the L18, so were pleasantly surprised that it's quite nice to use and can be depended on to produce decent results under a wide range of shooting conditions.</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408budgetgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl18.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64-1600)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="30">
+    <name>Nikon Coolpix L16</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl16.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64-1600)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="31">
+    <name>Nikon Coolpix S210</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>The CoolPix S210 is a surprisingly affordable 'ultra compact' from one of the biggest names in photography. It sits at the bottom of Nikon's 'S' series of small, metal-bodied compacts in terms of specification, price and size. It lacks some of the finesse, speed and high quality construction of most of the other cameras in the 'ultra slim' class and offers a comparatively basic feature set, but it is one of the smallest cameras you can buy and it can match many more expensive models on image quality. If you want something truly pocketable that won't break the bank the Coolpix S210 is a reliable, if slightly pedestrian option.</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408slimgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps210.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>(64 - 800)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="32">
+    <name>Nikon D60</name>
+    <description>10.2 million effective pixels; 2.7 MP/cm^2 pixel density;</description>
+    <summary>The D60 is the third incarnation of Nikon's compact, user-friendly entry-level SLR line that started back in 2006 with the D40. The D60 is a direct replacement for the D40X , and once again it's not a major upgrade; the sensor remains the same (though now has a dust reduction system) and the external design is almost identical. There's a few new features, including the same Expeed processing 'concept' seen in the D3 / D300, Active D-Lighting, an eye sensor (to control the screen display), and some tweaks to the interface, but perhaps the most significant change isn't to the camera at all; the move to an optically stabilized version of the kit lens. It's not the most highly specified entry-level DSLR, but it's affordable, lightweight and a pleasure to use, and it produces pretty good results too.</summary>
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond60/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d60.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="2896" height="1944" />
+        <resolution width="1936" height="1296" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(plus 3200 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="33">
+    <name>Nikon Coolpix S600</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps600.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 800)</ISOrating>
+      <ISOrating>Hi Auto (100 - 1600)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="34">
+    <name>Nikon Coolpix S550</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps550.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 800)</ISOrating>
+      <ISOrating>Hi Auto (64 - 1600)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="35">
+    <name>Nikon Coolpix P60</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpp60.gif</picture>
+    </links>
+    <releasedDate>2008-01-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>(80 - 800)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="36">
+    <name>Nikon Coolpix S510</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps510.gif</picture>
+    </links>
+    <releasedDate>2007-08-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3200" height="1800" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="340" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64-1000)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="37">
+    <name>Nikon Coolpix P5100</name>
+    <description>12.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 123 mm (3.5x) zoom lens;</description>
+    <summary>Minor refresh of Nikon's flagship compact concentrates on improving performance, though it still feels pretty sluggish in use. The compact styling, useful (if slightly unambitious) 35-125mm equiv. 3.6x zoom, extensive manual controls and excellent build quality make it an appealing pocket camera for the serious photographer. It's capable of excellent results in the right conditions, but in low light it's painfully slow (and the results not worth the wait). A great landscape camera for the committed enthusiast wanting something small - and not too expensive - but one it's hard to recommend for more general uses.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikonp5100/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpp5100.gif</picture>
+    </links>
+    <releasedDate>2007-08-30</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 800)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating>(3200 at 5 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="38">
+    <name>Nikon Coolpix S700</name>
+    <description>12.1 million effective pixels; 29 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps700.gif</picture>
+    </links>
+    <releasedDate>2007-08-30</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3968" height="2232" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 1000)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000 (3200 at lower res)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="39">
+    <name>Nikon Coolpix S51</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps51.gif</picture>
+    </links>
+    <releasedDate>2007-08-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 800)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="40">
+    <name>Nikon Coolpix P50</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</description>
+    <summary>No-nonsense mid-range compact that struggles to stand out in a crowded market and is best summed up by the words 'nothing special'. The serious styling and nice use of materials - plus wide angle (28-102mm) zoom look appealing but the sluggish performance and less than impressive image quality make the P50 look like an 'also ran' in the face of such stiff competition. Recently replaced by the P60.</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikonp50/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpp50.gif</picture>
+    </links>
+    <releasedDate>2007-08-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3200" height="1800" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="340" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 1000)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="41">
+    <name>Nikon Coolpix S51c</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps51c.gif</picture>
+    </links>
+    <releasedDate>2007-08-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 800)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="42">
+    <name>Nikon Coolpix L15</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl15.gif</picture>
+    </links>
+    <releasedDate>2007-08-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 1000)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="43">
+    <name>Nikon Coolpix L14</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl14.gif</picture>
+    </links>
+    <releasedDate>2007-08-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 1000)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="44">
+    <name>Nikon D300</name>
+    <description>12.3 million effective pixels; 3.3 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.3 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond300/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d300.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="4288" height="2848" />
+      <lowResolutions>
+        <resolution width="3216" height="2136" />
+        <resolution width="2144" height="1424" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>200 - 3200 in 1</ISOrating>
+      <ISOrating>1/2 or 1/3 EV steps (100 - 6400 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="45">
+    <name>Nikon D3</name>
+    <description>12.1 million effective pixels; 1.4 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond3/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d3.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="4256" height="2832" />
+      <lowResolutions>
+        <resolution width="3184" height="2120" />
+        <resolution width="2128" height="1416" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+      <imageRatio width="5" height="4" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>200 - 6400 in 1</ISOrating>
+      <ISOrating>1/2 or 1/3 EV steps (100 - 25600 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="36.0" height="24.0" />
+  </camera>
+  <camera id="46">
+    <name>Nikon D40X</name>
+    <description>10.0 million effective pixels; 2.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond40x/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d40x.gif</picture>
+    </links>
+    <releasedDate>2007-03-06</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="2896" height="1944" />
+        <resolution width="1936" height="1296" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100 - 1600 (plus 3200 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.7" height="15.6" />
+  </camera>
+  <camera id="47">
+    <name>Nikon Coolpix L10</name>
+    <description>4.9 million effective pixels; 20 MP/cm^2 pixel density; 37.5 mm - 112.5 mm (2.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>4.9 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl10.gif</picture>
+    </links>
+    <releasedDate>2007-02-20</releasedDate>
+    <resolutions>
+      <maxResolution width="2560" height="1920" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 800)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="48">
+    <name>Nikon Coolpix S50</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps50.gif</picture>
+    </links>
+    <releasedDate>2007-02-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 800)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="49">
+    <name>Nikon Coolpix S500</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps500.gif</picture>
+    </links>
+    <releasedDate>2007-02-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50-1000)</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="50">
+    <name>Nikon Coolpix S200</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps200.gif</picture>
+    </links>
+    <releasedDate>2007-02-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50-800)</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="51">
+    <name>Nikon Coolpix P5000</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 36 mm - 126 mm (3.5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikonp5000/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpp5000.gif</picture>
+    </links>
+    <releasedDate>2007-02-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1280" height="960" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 800)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>2000</ISOrating>
+      <ISOrating>(3200 at 5 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="52">
+    <name>Nikon Coolpix S50c</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps50c.gif</picture>
+    </links>
+    <releasedDate>2007-02-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100 - 800)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="53">
+    <name>Nikon Coolpix L12</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl12.gif</picture>
+    </links>
+    <releasedDate>2007-02-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50 - 1600)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="54">
+    <name>Nikon Coolpix L11</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 37.5 mm - 112.5 mm (2.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl11.gif</picture>
+    </links>
+    <releasedDate>2007-02-20</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 - 800)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="55">
+    <name>Nikon D40</name>
+    <description>6.0 million effective pixels; 1.6 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond40/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d40.gif</picture>
+    </links>
+    <releasedDate>2006-11-16</releasedDate>
+    <resolutions>
+      <maxResolution width="3008" height="2000" />
+      <lowResolutions>
+        <resolution width="2256" height="1496" />
+        <resolution width="1504" height="1000" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200 - 1600 (plus 3200 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.7" height="15.5" />
+  </camera>
+  <camera id="56">
+    <name>Nikon Coolpix S10</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 380 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikons10/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps10.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50-800)</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="57">
+    <name>Nikon Coolpix L6</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 116 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl6.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50 - 800)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="58">
+    <name>Nikon Coolpix L5</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 190 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cpl5.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="59">
+    <name>Nikon Coolpix S7c</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps7c.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50-800)</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="60">
+    <name>Nikon Coolpix S9</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_cps9.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50-800)</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="61">
+    <name>Nikon D80</name>
+    <description>10.0 million effective pixels; 2.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/nikond80/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/nikon_d80.gif</picture>
+    </links>
+    <releasedDate>2006-08-09</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="2896" height="1944" />
+        <resolution width="1936" height="1296" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100 - 1600 (plus 3200 with boost)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+</cameras>
+

@@ -1,0 +1,3127 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="style.css" rel="stylesheet" type="text/css">
+<script src="jquery.js" type="text/javascript"></script><script type="text/javascript">
+					$(document).ready(function(){
+						var active="none";
+						$("tr.to_hide").hide();
+						
+						$("td.name").click(function(){
+							var tmp_id= $(this).attr("id");
+							$("tr.to_hide").hide();
+							if(active!=tmp_id){
+								active = tmp_id;
+								$(this).parent().parent().children().show();
+							}else{
+								active = "none";
+							}
+						});
+					});
+				</script>
+</head>
+<body>
+<h2>nikon</h2>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D3S">
+						Name
+				</td><td class="name" id="Nikon D3S">Nikon D3S</td>
+</tr>
+<tr class="Nikon D3S_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 1.4 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Release Date</td><td>2009-10-14</td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Maximum Resolution</td><td>4256x2832<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Lower Resolutions</td><td>3552x2832<br>3552x2368<br>3184x2128<br>2784x1848<br>2656x1776<br>2128x1416<br>2080x1384<br>1776x1416<br>1776x1184<br>1392x920<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Image Ratio</td><td>3x2<br>5x4<br>1x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Sensor size</td><td>36.0x23.9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Iso Rating</td><td>200 - 12800 in 1<br>1/2 or 1/3 EV steps (100 - 102400 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3S_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d3s.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S640">
+						Name
+				</td><td class="name" id="Nikon Coolpix S640">Nikon Coolpix S640</td>
+</tr>
+<tr class="Nikon Coolpix S640_all">
+<td class="left">Description</td><td>12.2 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Release Date</td><td>2009-08-04</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Lower Resolutions</td><td>3968x2232<br>3264x2448<br>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Effective pixels</td><td>12.2 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>2000<br>3200<br>6400<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S640_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps640.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S570">
+						Name
+				</td><td class="name" id="Nikon Coolpix S570">Nikon Coolpix S570</td>
+</tr>
+<tr class="Nikon Coolpix S570_all">
+<td class="left">Description</td><td>12.0 million effective pixels; 42 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Release Date</td><td>2009-08-04</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Lower Resolutions</td><td>3968x2232<br>3264x2448<br>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Effective pixels</td><td>12.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>2000<br>3200<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S570_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps570.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S70">
+						Name
+				</td><td class="name" id="Nikon Coolpix S70">Nikon Coolpix S70</td>
+</tr>
+<tr class="Nikon Coolpix S70_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Release Date</td><td>2009-08-04</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Lower Resolutions</td><td>3968x2232<br>3264x2448<br>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>2000 (3200<br>6400 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S70_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps70.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S1000pj">
+						Name
+				</td><td class="name" id="Nikon Coolpix S1000pj">Nikon Coolpix S1000pj</td>
+</tr>
+<tr class="Nikon Coolpix S1000pj_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Release Date</td><td>2009-08-04</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Lower Resolutions</td><td>3968x2232<br>3264x2448<br>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Iso Rating</td><td>Auto<br>80<br>100<br>200<br>400<br>800<br>1600<br>(3200<br>6400 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S1000pj_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps1000pj.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D3000">
+						Name
+				</td><td class="name" id="Nikon D3000">Nikon D3000</td>
+</tr>
+<tr class="Nikon D3000_all">
+<td class="left">Description</td><td>10.2 million effective pixels; 2.7 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Release Date</td><td>2009-07-30</td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Maximum Resolution</td><td>3872x2592<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Lower Resolutions</td><td>2896x1944<br>1936x1296<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Effective pixels</td><td>10.2 million</td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Sensor size</td><td>23.6x15.8<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>(plus 3200 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3000_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond3000">http://www.dpreview.com/reviews/nikond3000</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d3000.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D300S">
+						Name
+				</td><td class="name" id="Nikon D300S">Nikon D300S</td>
+</tr>
+<tr class="Nikon D300S_all">
+<td class="left">Description</td><td>12.3 million effective pixels; 3.3 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Release Date</td><td>2009-07-30</td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Maximum Resolution</td><td>4288x2848<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Lower Resolutions</td><td>3216x2136<br>2144x1424<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Effective pixels</td><td>12.3 million</td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Sensor size</td><td>23.6x15.8<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Iso Rating</td><td>200 - 3200 in 1<br>1/2 or 1/3 EV steps (100 - 6400 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300S_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond300s/">http://www.dpreview.com/reviews/nikond300s/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d300s.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D5000">
+						Name
+				</td><td class="name" id="Nikon D5000">Nikon D5000</td>
+</tr>
+<tr class="Nikon D5000_all">
+<td class="left">Description</td><td>12.3 million effective pixels; 3.3 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Release Date</td><td>2009-04-14</td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Maximum Resolution</td><td>4288x2848<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Lower Resolutions</td><td>3216x2136<br>2144x1424<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Effective pixels</td><td>12.3 million</td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Sensor size</td><td>23.6x15.8<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Iso Rating</td><td>Auto<br>200 - 3200 (plus 6400 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D5000_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond5000/">http://www.dpreview.com/reviews/nikond5000/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d5000.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S620">
+						Name
+				</td><td class="name" id="Nikon Coolpix S620">Nikon Coolpix S620</td>
+</tr>
+<tr class="Nikon Coolpix S620_all">
+<td class="left">Description</td><td>12.2 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Release Date</td><td>2009-02-03</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Lower Resolutions</td><td>3264x2448<br>2592x1944<br>2048x1536<br>1920x1080<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Effective pixels</td><td>12.2 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 6400)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S620_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps620.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix P90">
+						Name
+				</td><td class="name" id="Nikon Coolpix P90">Nikon Coolpix P90</td>
+</tr>
+<tr class="Nikon Coolpix P90_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 43 MP/cm^2 pixel density; 26 mm - 624 mm (24x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Release Date</td><td>2009-02-03</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Lower Resolutions</td><td>3264x2448<br>3984x2656<br>3968x2232<br>2992x2992<br>2592x1944<br>2048x1536<br>1600x1200<br>1280x960<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Image Ratio</td><td>16x9<br>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Iso Rating</td><td>Auto<br>64<br>100<br>200<br>400<br>800<br>1600<br>3200<br>6400<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P90_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpp90.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L100">
+						Name
+				</td><td class="name" id="Nikon Coolpix L100">Nikon Coolpix L100</td>
+</tr>
+<tr class="Nikon Coolpix L100_all">
+<td class="left">Description</td><td>10.1 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 420 mm (15x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Release Date</td><td>2009-02-03</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Lower Resolutions</td><td>3584x2016<br>2592x1944<br>2048x1536<br>1920x1080<br>1024x768<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Effective pixels</td><td>10.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Iso Rating</td><td>Auto (80 - 3200)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Shutter speed</td><td>
+						Min:8 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L100_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl100.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L20">
+						Name
+				</td><td class="name" id="Nikon Coolpix L20">Nikon Coolpix L20</td>
+</tr>
+<tr class="Nikon Coolpix L20_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 136 mm (3.5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Release Date</td><td>2009-02-03</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Lower Resolutions</td><td>3584x2016<br>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 1600)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L20_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl20.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L19">
+						Name
+				</td><td class="name" id="Nikon Coolpix L19">Nikon Coolpix L19</td>
+</tr>
+<tr class="Nikon Coolpix L19_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Release Date</td><td>2009-02-03</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Lower Resolutions</td><td>3200x1800<br>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 1600)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L19_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl19.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S630">
+						Name
+				</td><td class="name" id="Nikon Coolpix S630">Nikon Coolpix S630</td>
+</tr>
+<tr class="Nikon Coolpix S630_all">
+<td class="left">Description</td><td>12.0 million effective pixels; 43 MP/cm^2 pixel density; 37 mm - 260 mm (7x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Release Date</td><td>2009-02-03</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Lower Resolutions</td><td>3984x2656<br>3968x2232<br>2992x2992<br>2592x1944<br>2048x1536<br>1920x1080<br>1600x1200<br>1280x960<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Image Ratio</td><td>16x9<br>4x3<br>3x2<br>1x1<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Effective pixels</td><td>12.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 6400)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S630_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps630.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S230">
+						Name
+				</td><td class="name" id="Nikon Coolpix S230">Nikon Coolpix S230</td>
+</tr>
+<tr class="Nikon Coolpix S230_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Release Date</td><td>2009-02-03</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Lower Resolutions</td><td>3584x2016<br>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Iso Rating</td><td>Auto (80 - 2000)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S230_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps230.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S220">
+						Name
+				</td><td class="name" id="Nikon Coolpix S220">Nikon Coolpix S220</td>
+</tr>
+<tr class="Nikon Coolpix S220_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 36 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Release Date</td><td>2009-02-03</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Lower Resolutions</td><td>3584x2016<br>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Iso Rating</td><td>Auto (80 - 2000)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S220_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps220.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D3X">
+						Name
+				</td><td class="name" id="Nikon D3X">Nikon D3X</td>
+</tr>
+<tr class="Nikon D3X_all">
+<td class="left">Description</td><td>24.5 million effective pixels; 2.8 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Release Date</td><td>2008-12-01</td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Maximum Resolution</td><td>6048x4032<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Lower Resolutions</td><td>5056x4032<br>4544x3024<br>3968x2640<br>3792x3024<br>3024x2016<br>2976x1976<br>2528x2016<br>1984x132<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Effective pixels</td><td>24.5 million</td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Sensor size</td><td>35.9x24.0<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Iso Rating</td><td>100 - 1600 in 1/3<br>1/2 or 1.0 EV steps<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3X_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond3x/">http://www.dpreview.com/reviews/nikond3x/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d3x.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D90">
+						Name
+				</td><td class="name" id="Nikon D90">Nikon D90</td>
+</tr>
+<tr class="Nikon D90_all">
+<td class="left">Description</td><td>12.3 million effective pixels; 3.3 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Release Date</td><td>2008-08-27</td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Maximum Resolution</td><td>4288x2848<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Lower Resolutions</td><td>3216x2136<br>2144x1424<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Effective pixels</td><td>12.3 million</td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Sensor size</td><td>23.6x15.8<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Iso Rating</td><td>Auto<br>200 - 3200 (plus 6400 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D90_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond90/">http://www.dpreview.com/reviews/nikond90/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d90.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S610">
+						Name
+				</td><td class="name" id="Nikon Coolpix S610">Nikon Coolpix S610</td>
+</tr>
+<tr class="Nikon Coolpix S610_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Release Date</td><td>2008-08-07</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Lower Resolutions</td><td>3648x2432<br>3648x2064<br>2592x1944<br>2592x1728<br>2592x1456<br>2048x1536<br>2048x1360<br>1800x1200<br>1920x1080<br>1280x960<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 800)<br>Hi Auto (100 - 1600)<br>100<br>200<br>400<br>800<br>1600<br>3200<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps610.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S610c">
+						Name
+				</td><td class="name" id="Nikon Coolpix S610c">Nikon Coolpix S610c</td>
+</tr>
+<tr class="Nikon Coolpix S610c_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Release Date</td><td>2008-08-07</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Lower Resolutions</td><td>3648x2432<br>3648x2064<br>2592x1944<br>2592x1728<br>2592x1456<br>2048x1536<br>2048x1360<br>1800x1200<br>1920x1080<br>1280x960<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 800)<br>Hi Auto (100 - 1600)<br>100<br>200<br>400<br>800<br>1600<br>3200<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S610c_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps610c.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S710">
+						Name
+				</td><td class="name" id="Nikon Coolpix S710">Nikon Coolpix S710</td>
+</tr>
+<tr class="Nikon Coolpix S710_all">
+<td class="left">Description</td><td>14.5 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 101 mm (3.6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Release Date</td><td>2008-08-07</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Maximum Resolution</td><td>4352x3264<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Lower Resolutions</td><td>4352x3264<br>3264x2448<br>2592x1944<br>2048x1536<br>1024x768<br>3264x2448<br>2592x1944<br>2048x1536<br>1024x768<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Effective pixels</td><td>14.5 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Sensor size</td><td>7.4x5.55<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>3200 (6400 &amp; 12<br>800 at 3 MP)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S710_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408premiumgroup/">http://www.dpreview.com/reviews/Q408premiumgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps710.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S60">
+						Name
+				</td><td class="name" id="Nikon Coolpix S60">Nikon Coolpix S60</td>
+</tr>
+<tr class="Nikon Coolpix S60_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 33 mm - 165 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Release Date</td><td>2008-08-07</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Lower Resolutions</td><td>3648x2432<br>3584x2016<br>3264x2448<br>2592x1944<br>2048x1536<br>1600x1200<br>1280x960<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 800)<br>Hi-Auto (64 - 1600)<br>64<br>100<br>200<br>400<br>800<br>1600<br>(3200 at 5MP)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S60_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408slimgroup/">http://www.dpreview.com/reviews/Q408slimgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps60.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix P6000">
+						Name
+				</td><td class="name" id="Nikon Coolpix P6000">Nikon Coolpix P6000</td>
+</tr>
+<tr class="Nikon Coolpix P6000_all">
+<td class="left">Description</td><td>13.5 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Release Date</td><td>2008-08-07</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Maximum Resolution</td><td>4224x3168<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Lower Resolutions</td><td>4224x3168<br>4224x2816<br>4224x2376<br>3264x2448<br>3168x3168<br>2592x1944<br>2048x1536<br>1600x1200<br>1024x768<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Effective pixels</td><td>13.5 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Sensor size</td><td>7.4x5.55<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 800)<br>Hi-Auto (64 - 1600)<br>64<br>100<br>200<br>400<br>800<br>1600<br>(3200<br>6400 at 3MP)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P6000_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408enthusiastgroup/">http://www.dpreview.com/reviews/Q408enthusiastgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpp6000.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S560">
+						Name
+				</td><td class="name" id="Nikon Coolpix S560">Nikon Coolpix S560</td>
+</tr>
+<tr class="Nikon Coolpix S560_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 34.8 mm - 174 mm (4.9x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Release Date</td><td>2008-08-07</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>1920x1080<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>1x1<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 800)<br>64<br>100<br>200<br>400<br>800<br>1600<br>2000<br>(3200 at 5 MP)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S560_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps560.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D700">
+						Name
+				</td><td class="name" id="Nikon D700">Nikon D700</td>
+</tr>
+<tr class="Nikon D700_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 1.4 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Release Date</td><td>2008-07-01</td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Maximum Resolution</td><td>4256x2832<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Lower Resolutions</td><td>3184x2120<br>2128x1416<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Sensor size</td><td>36.0x24.0<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Iso Rating</td><td>200 - 6400 in 1<br>1/2 or 1/3 EV steps (100 - 25600 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D700_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond700/">http://www.dpreview.com/reviews/nikond700/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d700.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S52c">
+						Name
+				</td><td class="name" id="Nikon Coolpix S52c">Nikon Coolpix S52c</td>
+</tr>
+<tr class="Nikon Coolpix S52c_all">
+<td class="left">Description</td><td>9.0 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Release Date</td><td>2008-04-10</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Maximum Resolution</td><td>3456x2592<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Effective pixels</td><td>9.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 800)<br>Hi-Auto (100 - 2000)<br>100<br>200<br>400<br>800<br>1600<br>3200<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52c_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps52c.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S52">
+						Name
+				</td><td class="name" id="Nikon Coolpix S52">Nikon Coolpix S52</td>
+</tr>
+<tr class="Nikon Coolpix S52_all">
+<td class="left">Description</td><td>9.0 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Release Date</td><td>2008-04-10</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Maximum Resolution</td><td>3456x2592<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Effective pixels</td><td>9.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 800)<br>Hi-Auto (100 - 2000)<br>100<br>200<br>400<br>800<br>1600<br>3200<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S52_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps52.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix P80">
+						Name
+				</td><td class="name" id="Nikon Coolpix P80">Nikon Coolpix P80</td>
+</tr>
+<tr class="Nikon Coolpix P80_all">
+<td class="left">Description</td><td>10.1 million effective pixels; 36 MP/cm^2 pixel density; 27 mm - 486 mm (18x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Release Date</td><td>2008-04-10</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Lower Resolutions</td><td>3648x2432<br>3584x2016<br>3264x2448<br>2592x1944<br>2048x1536<br>1600x1200<br>1280x960<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Effective pixels</td><td>10.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 800)<br>Hi-Auto (64 - 1600)<br>64<br>100<br>200<br>400<br>800<br>1600<br>(3200<br>6400 at 3MP)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Shutter speed</td><td>
+						Min:8 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P80_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q109superzoomgroup/">http://www.dpreview.com/reviews/Q109superzoomgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpp80.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S520">
+						Name
+				</td><td class="name" id="Nikon Coolpix S520">Nikon Coolpix S520</td>
+</tr>
+<tr class="Nikon Coolpix S520_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Release Date</td><td>2008-01-29</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>3200x1800<br>2448x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>1x1<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Iso Rating</td><td>Auto<br>(64 - 1600)<br>64<br>100<br>200<br>400<br>800<br>1600<br>2000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S520_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps520.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L18">
+						Name
+				</td><td class="name" id="Nikon Coolpix L18">Nikon Coolpix L18</td>
+</tr>
+<tr class="Nikon Coolpix L18_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Release Date</td><td>2008-01-29</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1920x1080<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Iso Rating</td><td>Auto (64-1600)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L18_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408budgetgroup/">http://www.dpreview.com/reviews/Q408budgetgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl18.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L16">
+						Name
+				</td><td class="name" id="Nikon Coolpix L16">Nikon Coolpix L16</td>
+</tr>
+<tr class="Nikon Coolpix L16_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Release Date</td><td>2008-01-29</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1920x1080<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Iso Rating</td><td>Auto (64-1600)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L16_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl16.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S210">
+						Name
+				</td><td class="name" id="Nikon Coolpix S210">Nikon Coolpix S210</td>
+</tr>
+<tr class="Nikon Coolpix S210_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Release Date</td><td>2008-01-29</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>1920x1080<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Iso Rating</td><td>Auto<br>(64 - 800)<br>64<br>100<br>200<br>400<br>800<br>1600<br>2000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S210_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/Q408slimgroup/">http://www.dpreview.com/reviews/Q408slimgroup/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps210.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S550">
+						Name
+				</td><td class="name" id="Nikon Coolpix S550">Nikon Coolpix S550</td>
+</tr>
+<tr class="Nikon Coolpix S550_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 35 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Release Date</td><td>2008-01-29</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>1920x1080<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Sensor size</td><td>6.16x4.62<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 800)<br>Hi Auto (64 - 1600)<br>64<br>100<br>200<br>400<br>800<br>1600<br>2000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S550_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps550.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D60">
+						Name
+				</td><td class="name" id="Nikon D60">Nikon D60</td>
+</tr>
+<tr class="Nikon D60_all">
+<td class="left">Description</td><td>10.2 million effective pixels; 2.7 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Release Date</td><td>2008-01-29</td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Maximum Resolution</td><td>3872x2592<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Lower Resolutions</td><td>2896x1944<br>1936x1296<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Effective pixels</td><td>10.2 million</td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Sensor size</td><td>23.6x15.8<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Iso Rating</td><td>Auto<br>100<br>200<br>400<br>800<br>1600<br>(plus 3200 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D60_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond60/">http://www.dpreview.com/reviews/nikond60/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d60.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S600">
+						Name
+				</td><td class="name" id="Nikon Coolpix S600">Nikon Coolpix S600</td>
+</tr>
+<tr class="Nikon Coolpix S600_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 112 mm (4x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Release Date</td><td>2008-01-29</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Lower Resolutions</td><td>3072x2304<br>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Sensor size</td><td>6.13x4.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 800)<br>Hi Auto (100 - 1600)<br>100<br>200<br>400<br>800<br>1600<br>3200<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S600_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps600.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix P60">
+						Name
+				</td><td class="name" id="Nikon Coolpix P60">Nikon Coolpix P60</td>
+</tr>
+<tr class="Nikon Coolpix P60_all">
+<td class="left">Description</td><td>8.1 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Release Date</td><td>2008-01-29</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>1280x960<br>1024x768<br>640x480<br>3264x2176<br>3264x1836<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Effective pixels</td><td>8.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Iso Rating</td><td>Auto<br>(80 - 800)<br>80<br>100<br>200<br>400<br>800<br>1600<br>2000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P60_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpp60.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix P50">
+						Name
+				</td><td class="name" id="Nikon Coolpix P50">Nikon Coolpix P50</td>
+</tr>
+<tr class="Nikon Coolpix P50_all">
+<td class="left">Description</td><td>8.1 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 102 mm (3.6x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Release Date</td><td>2007-08-30</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Lower Resolutions</td><td>3200x1800<br>2592x1944<br>2048x1536<br>1024x768<br>340x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Effective pixels</td><td>8.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 1000)<br>64<br>100<br>200<br>400<br>800<br>1600<br>2000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P50_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikonp50/">http://www.dpreview.com/reviews/nikonp50/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpp50.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S51c">
+						Name
+				</td><td class="name" id="Nikon Coolpix S51c">Nikon Coolpix S51c</td>
+</tr>
+<tr class="Nikon Coolpix S51c_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Release Date</td><td>2007-08-30</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 800)<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51c_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps51c.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S51">
+						Name
+				</td><td class="name" id="Nikon Coolpix S51">Nikon Coolpix S51</td>
+</tr>
+<tr class="Nikon Coolpix S51_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Release Date</td><td>2007-08-30</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 800)<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S51_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps51.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S700">
+						Name
+				</td><td class="name" id="Nikon Coolpix S700">Nikon Coolpix S700</td>
+</tr>
+<tr class="Nikon Coolpix S700_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 29 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Release Date</td><td>2007-08-30</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Lower Resolutions</td><td>3968x2232<br>3264x2448<br>2592x1944<br>2048x1536<br>1024x768<br>3264x2448<br>2592x1944<br>2048x1536<br>1024x768<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Sensor size</td><td>7.4x5.55<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 1000)<br>64<br>100<br>200<br>400<br>800<br>1600<br>2000 (3200 at lower res)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S700_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps700.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix P5100">
+						Name
+				</td><td class="name" id="Nikon Coolpix P5100">Nikon Coolpix P5100</td>
+</tr>
+<tr class="Nikon Coolpix P5100_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 123 mm (3.5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Release Date</td><td>2007-08-30</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Maximum Resolution</td><td>4000x3000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Lower Resolutions</td><td>3264x2448<br>2592x1944<br>2048x1536<br>1600x1200<br>1280x960<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Sensor size</td><td>7.4x5.55<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 800)<br>64<br>100<br>200<br>400<br>800<br>1600<br>2000<br>(3200 at 5 MP)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Shutter speed</td><td>
+						Min:8 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5100_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikonp5100/">http://www.dpreview.com/reviews/nikonp5100/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpp5100.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S510">
+						Name
+				</td><td class="name" id="Nikon Coolpix S510">Nikon Coolpix S510</td>
+</tr>
+<tr class="Nikon Coolpix S510_all">
+<td class="left">Description</td><td>8.1 million effective pixels; 33 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Release Date</td><td>2007-08-30</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Lower Resolutions</td><td>3200x1800<br>2592x1944<br>2048x1536<br>1024x768<br>340x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Effective pixels</td><td>8.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Iso Rating</td><td>Auto (64-1000)<br>64<br>100<br>200<br>400<br>800<br>1600<br>2000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S510_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps510.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L15">
+						Name
+				</td><td class="name" id="Nikon Coolpix L15">Nikon Coolpix L15</td>
+</tr>
+<tr class="Nikon Coolpix L15_all">
+<td class="left">Description</td><td>8.0 million effective pixels; 32 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Release Date</td><td>2007-08-30</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Maximum Resolution</td><td>3264x2448<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>1280x960<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Effective pixels</td><td>8.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 1000)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L15_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl15.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L14">
+						Name
+				</td><td class="name" id="Nikon Coolpix L14">Nikon Coolpix L14</td>
+</tr>
+<tr class="Nikon Coolpix L14_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Release Date</td><td>2007-08-30</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Lower Resolutions</td><td>2048x1536<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Image Ratio</td><td>4x3<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 1000)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L14_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl14.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D300">
+						Name
+				</td><td class="name" id="Nikon D300">Nikon D300</td>
+</tr>
+<tr class="Nikon D300_all">
+<td class="left">Description</td><td>12.3 million effective pixels; 3.3 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Release Date</td><td>2007-08-23</td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Maximum Resolution</td><td>4288x2848<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Lower Resolutions</td><td>3216x2136<br>2144x1424<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Effective pixels</td><td>12.3 million</td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Sensor size</td><td>23.6x15.8<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Iso Rating</td><td>200 - 3200 in 1<br>1/2 or 1/3 EV steps (100 - 6400 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D300_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond300/">http://www.dpreview.com/reviews/nikond300/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d300.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D3">
+						Name
+				</td><td class="name" id="Nikon D3">Nikon D3</td>
+</tr>
+<tr class="Nikon D3_all">
+<td class="left">Description</td><td>12.1 million effective pixels; 1.4 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Release Date</td><td>2007-08-23</td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Maximum Resolution</td><td>4256x2832<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Lower Resolutions</td><td>3184x2120<br>2128x1416<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Image Ratio</td><td>3x2<br>5x4<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Effective pixels</td><td>12.1 million</td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Sensor size</td><td>36.0x24.0<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Iso Rating</td><td>200 - 6400 in 1<br>1/2 or 1/3 EV steps (100 - 25600 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/8000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D3_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond3/">http://www.dpreview.com/reviews/nikond3/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d3.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D40X">
+						Name
+				</td><td class="name" id="Nikon D40X">Nikon D40X</td>
+</tr>
+<tr class="Nikon D40X_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 2.7 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Release Date</td><td>2007-03-06</td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Maximum Resolution</td><td>3872x2592<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Lower Resolutions</td><td>2896x1944<br>1936x1296<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Sensor size</td><td>23.7x15.6<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Iso Rating</td><td>Auto<br>100 - 1600 (plus 3200 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40X_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond40x/">http://www.dpreview.com/reviews/nikond40x/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d40x.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L10">
+						Name
+				</td><td class="name" id="Nikon Coolpix L10">Nikon Coolpix L10</td>
+</tr>
+<tr class="Nikon Coolpix L10_all">
+<td class="left">Description</td><td>4.9 million effective pixels; 20 MP/cm^2 pixel density; 37.5 mm - 112.5 mm (2.9x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Release Date</td><td>2007-02-20</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Maximum Resolution</td><td>2560x1920<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Lower Resolutions</td><td>2048x1536<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Effective pixels</td><td>4.9 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 800)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L10_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl10.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S50">
+						Name
+				</td><td class="name" id="Nikon Coolpix S50">Nikon Coolpix S50</td>
+</tr>
+<tr class="Nikon Coolpix S50_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Release Date</td><td>2007-02-20</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 800)<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps50.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S500">
+						Name
+				</td><td class="name" id="Nikon Coolpix S500">Nikon Coolpix S500</td>
+</tr>
+<tr class="Nikon Coolpix S500_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Release Date</td><td>2007-02-20</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Iso Rating</td><td>Auto (50-1000)<br>50<br>100<br>200<br>400<br>800<br>1600<br>2000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S500_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps500.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S200">
+						Name
+				</td><td class="name" id="Nikon Coolpix S200">Nikon Coolpix S200</td>
+</tr>
+<tr class="Nikon Coolpix S200_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Release Date</td><td>2007-02-20</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Iso Rating</td><td>Auto (50-800)<br>50<br>100<br>200<br>400<br>800<br>1000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S200_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps200.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix P5000">
+						Name
+				</td><td class="name" id="Nikon Coolpix P5000">Nikon Coolpix P5000</td>
+</tr>
+<tr class="Nikon Coolpix P5000_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 26 MP/cm^2 pixel density; 36 mm - 126 mm (3.5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Release Date</td><td>2007-02-20</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Maximum Resolution</td><td>3648x2736<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1600x1200<br>1280x960<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Image Ratio</td><td>4x3<br>3x2<br>16x9<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Sensor size</td><td>7.18x5.32<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 800)<br>64<br>100<br>200<br>400<br>800<br>1600<br>2000<br>(3200 at 5 MP)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Shutter speed</td><td>
+						Min:8 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix P5000_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikonp5000/">http://www.dpreview.com/reviews/nikonp5000/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpp5000.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S50c">
+						Name
+				</td><td class="name" id="Nikon Coolpix S50c">Nikon Coolpix S50c</td>
+</tr>
+<tr class="Nikon Coolpix S50c_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Release Date</td><td>2007-02-20</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Iso Rating</td><td>Auto (100 - 800)<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S50c_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps50c.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L12">
+						Name
+				</td><td class="name" id="Nikon Coolpix L12">Nikon Coolpix L12</td>
+</tr>
+<tr class="Nikon Coolpix L12_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Release Date</td><td>2007-02-20</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Iso Rating</td><td>Auto (50 - 1600)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L12_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl12.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L11">
+						Name
+				</td><td class="name" id="Nikon Coolpix L11">Nikon Coolpix L11</td>
+</tr>
+<tr class="Nikon Coolpix L11_all">
+<td class="left">Description</td><td>6.0 million effective pixels; 24 MP/cm^2 pixel density; 37.5 mm - 112.5 mm (2.9x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Release Date</td><td>2007-02-20</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Maximum Resolution</td><td>2816x2112<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Lower Resolutions</td><td>2048x1536<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Effective pixels</td><td>6.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Iso Rating</td><td>Auto (64 - 800)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Shutter speed</td><td>
+						Min:&amp;nbsp;<br>
+						Max:&amp;nbsp;<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L11_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl11.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D40">
+						Name
+				</td><td class="name" id="Nikon D40">Nikon D40</td>
+</tr>
+<tr class="Nikon D40_all">
+<td class="left">Description</td><td>6.0 million effective pixels; 1.6 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Release Date</td><td>2006-11-16</td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Maximum Resolution</td><td>3008x2000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Lower Resolutions</td><td>2256x1496<br>1504x1000<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Effective pixels</td><td>6.0 million</td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Sensor size</td><td>23.7x15.5<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Iso Rating</td><td>Auto<br>200 - 1600 (plus 3200 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D40_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond40/">http://www.dpreview.com/reviews/nikond40/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d40.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S7c">
+						Name
+				</td><td class="name" id="Nikon Coolpix S7c">Nikon Coolpix S7c</td>
+</tr>
+<tr class="Nikon Coolpix S7c_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Release Date</td><td>2006-08-24</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Iso Rating</td><td>Auto (50-800)<br>50<br>100<br>200<br>400<br>800<br>1600<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Shutter speed</td><td>
+						Min:2 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S7c_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps7c.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S10">
+						Name
+				</td><td class="name" id="Nikon Coolpix S10">Nikon Coolpix S10</td>
+</tr>
+<tr class="Nikon Coolpix S10_all">
+<td class="left">Description</td><td>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 380 mm (10x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Release Date</td><td>2006-08-24</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Maximum Resolution</td><td>2816x2112<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Lower Resolutions</td><td>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Effective pixels</td><td>6.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Iso Rating</td><td>Auto (50-800)<br>50<br>100<br>200<br>400<br>800<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Shutter speed</td><td>
+						Min:2 sec<br>
+						Max:1/1000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S10_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikons10/">http://www.dpreview.com/reviews/nikons10/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps10.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix S9">
+						Name
+				</td><td class="name" id="Nikon Coolpix S9">Nikon Coolpix S9</td>
+</tr>
+<tr class="Nikon Coolpix S9_all">
+<td class="left">Description</td><td>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Release Date</td><td>2006-08-24</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Maximum Resolution</td><td>2816x2112<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Lower Resolutions</td><td>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Effective pixels</td><td>6.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Iso Rating</td><td>Auto (50-800)<br>50<br>100<br>200<br>400<br>800<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Shutter speed</td><td>
+						Min:2 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix S9_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cps9.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L5">
+						Name
+				</td><td class="name" id="Nikon Coolpix L5">Nikon Coolpix L5</td>
+</tr>
+<tr class="Nikon Coolpix L5_all">
+<td class="left">Description</td><td>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 190 mm (5x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Release Date</td><td>2006-08-24</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Maximum Resolution</td><td>3072x2304<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Lower Resolutions</td><td>2592x1944<br>2048x1536<br>1024x768<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Effective pixels</td><td>7.1 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Iso Rating</td><td>Auto (80 - 400)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/2000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L5_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl5.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon Coolpix L6">
+						Name
+				</td><td class="name" id="Nikon Coolpix L6">Nikon Coolpix L6</td>
+</tr>
+<tr class="Nikon Coolpix L6_all">
+<td class="left">Description</td><td>6.0 million effective pixels; 24 MP/cm^2 pixel density; 38 mm - 116 mm (3x) zoom lens;</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Release Date</td><td>2006-08-24</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Maximum Resolution</td><td>2816x2112<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Lower Resolutions</td><td>2048x1536<br>640x480<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Image Ratio</td><td>4x3<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Effective pixels</td><td>6.0 million</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Sensor size</td><td>5.75x4.31<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Iso Rating</td><td>Auto (50 - 800)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Shutter speed</td><td>
+						Min:4 sec<br>
+						Max:1/1500 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon Coolpix L6_all">
+<td class="left">Links</td><td><a href=""></a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_cpl6.gif"></td>
+</tr>
+</table>
+<table border="1" cellpadding="5">
+<tr>
+<td class="name left" id="Nikon D80">
+						Name
+				</td><td class="name" id="Nikon D80">Nikon D80</td>
+</tr>
+<tr class="Nikon D80_all">
+<td class="left">Description</td><td>10.0 million effective pixels; 2.7 MP/cm^2 pixel density;</td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Sumary</td><td></td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Release Date</td><td>2006-08-09</td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Maximum Resolution</td><td>3872x2592<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Lower Resolutions</td><td>2896x1944<br>1936x1296<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Image Ratio</td><td>3x2<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Effective pixels</td><td>10.0 million</td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Sensor size</td><td>23.6x15.8<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Iso Rating</td><td>Auto<br>100 - 1600 (plus 3200 with boost)<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Shutter speed</td><td>
+						Min:30 sec<br>
+						Max:1/4000 sec<br>
+</td>
+</tr>
+<tr class="to_hide Nikon D80_all">
+<td class="left">Links</td><td><a href="http://www.dpreview.com/reviews/nikond80/">http://www.dpreview.com/reviews/nikond80/</a>
+<br>
+<img src="http://a.img-dpreview.com/reviews/images/nikon_d80.gif"></td>
+</tr>
+</table>
+<br>
+</body>
+</html>

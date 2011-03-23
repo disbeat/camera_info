@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="kodak">
+  <camera id="0">
+    <name>Kodak EasyShare M381</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m381.gif</picture>
+    </links>
+    <releasedDate>2009-07-29</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2264" />
+        <resolution width="4000" height="2256" />
+        <resolution width="2832" height="2128" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64–1600)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="1">
+    <name>Kodak EasyShare M341</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m341.gif</picture>
+    </links>
+    <releasedDate>2009-07-29</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2264" />
+        <resolution width="4000" height="2256" />
+        <resolution width="2832" height="2128" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64–1600)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="2">
+    <name>Kodak EasyShare Z950</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 35 mm - 350 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="1/8 sec" max="1/1250 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z950.gif</picture>
+    </links>
+    <releasedDate>2009-07-29</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2264" />
+        <resolution width="4000" height="2256" />
+        <resolution width="2832" height="2128" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="3">
+    <name>Kodak EasyShare Z1485 IS</name>
+    <description>14.0 million effective pixels; 34 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>14.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z1485is.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="4352" height="3264" />
+      <lowResolutions>
+        <resolution width="4352" height="3264" />
+        <resolution width="4352" height="2896" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1728" />
+        <resolution width="2592" height="1456" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="2048" height="1152" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80-1600)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 and 6400 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="4">
+    <name>Kodak EasyShare Z915</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 350 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z915.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2048" />
+        <resolution width="2592" height="1936" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1824" height="1216" />
+        <resolution width="1920" height="1088" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="5">
+    <name>Kodak EasyShare M380</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 38 mm - 190 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1448 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m380.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2048" />
+        <resolution width="2592" height="1936" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1824" height="1216" />
+        <resolution width="1920" height="1088" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="6">
+    <name>Kodak EasyShare M320</name>
+    <description>9.2 million effective pixels; 37 MP/cm^2 pixel density; 34 mm - 102 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.2 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m320.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3472" height="2604" />
+      <lowResolutions>
+        <resolution width="3472" height="2314" />
+        <resolution width="3472" height="1952" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="7">
+    <name>Kodak EasyShare C140</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c140.gif</picture>
+    </links>
+    <releasedDate>2009-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80-240)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="8">
+    <name>Kodak EasyShare Z980</name>
+    <description>12.0 million effective pixels; 43 MP/cm^2 pixel density; 26 mm - 624 mm (24x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="16 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z980.gif</picture>
+    </links>
+    <releasedDate>2009-01-05</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2264" />
+        <resolution width="4000" height="2256" />
+        <resolution width="2832" height="2128" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64-1600)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 and 6400 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="9">
+    <name>Kodak EasyShare M340</name>
+    <description>10.2 million effective pixels; 36 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m340.gif</picture>
+    </links>
+    <releasedDate>2009-01-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3664" height="2748" />
+      <lowResolutions>
+        <resolution width="3664" height="2442" />
+        <resolution width="3664" height="2062" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="10">
+    <name>Kodak EasyShare C913</name>
+    <description>9.2 million effective pixels; 37 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.2 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c913.gif</picture>
+    </links>
+    <releasedDate>2008-09-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3472" height="2604" />
+      <lowResolutions>
+        <resolution width="3472" height="2314" />
+        <resolution width="3472" height="1952" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="11">
+    <name>Kodak EasyShare C1013</name>
+    <description>10.3 million effective pixels; 36 MP/cm^2 pixel density; 34 mm - 102 mm (3x) zoom lens;</description>
+    <summary>An uninspiring camera that struggles to produce anything but uninspiring results, it's hard to see how you would recommend the C1013 over similarly priced competitors that offer better styling and more reliable results. Kodak is capable of making great budget cameras, but unfortunately the C1013 simply isn't one of them. At its best, in the right conditions, the C1013 can produce appealing photos, but it's frustrating to use and is far too likely to mess up the exposure or color to be considered a reliable point and shoot camera. Our advice? Steer clear.</summary>
+    <effectivePixels>10.3 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408budgetgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c1013.gif</picture>
+    </links>
+    <releasedDate>2008-09-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3644" height="2748" />
+      <lowResolutions>
+        <resolution width="3664" height="2442" />
+        <resolution width="3664" height="2062" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="12">
+    <name>Kodak EasyShare Z1015 IS</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 420 mm (15x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="16 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z1015is.gif</picture>
+    </links>
+    <releasedDate>2008-07-10</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2064" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1728" />
+        <resolution width="2592" height="1456" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80-3200)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 and 6400 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="13">
+    <name>Kodak EasyShare M1093 IS</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1448 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m1093is.gif</picture>
+    </links>
+    <releasedDate>2008-07-10</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2736" />
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2064" />
+        <resolution width="2592" height="1944" />
+        <resolution width="5292" height="1728" />
+        <resolution width="2592" height="1456" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="2048" height="1152" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>(6400 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="14">
+    <name>Kodak EasyShare M1063</name>
+    <description>10.3 million effective pixels; 37 MP/cm^2 pixel density; 32 mm - 96 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.3 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m1063.gif</picture>
+    </links>
+    <releasedDate>2008-04-01</releasedDate>
+    <resolutions>
+      <maxResolution width="3664" height="2748" />
+      <lowResolutions>
+        <resolution width="3664" height="2442" />
+        <resolution width="3664" height="2062" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="15">
+    <name>Kodak EasyShare M1073 IS</name>
+    <description>10.3 million effective pixels; 37 MP/cm^2 pixel density; 32 mm - 96 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.3 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m1073is.gif</picture>
+    </links>
+    <releasedDate>2008-04-01</releasedDate>
+    <resolutions>
+      <maxResolution width="3680" height="2760" />
+      <lowResolutions>
+        <resolution width="3680" height="2452" />
+        <resolution width="3680" height="2070" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="16">
+    <name>Kodak EasyShare C713</name>
+    <description>7.0 million effective pixels; 28 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.0 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c713.gif</picture>
+    </links>
+    <releasedDate>2008-04-01</releasedDate>
+    <resolutions>
+      <maxResolution width="3056" height="2292" />
+      <lowResolutions>
+        <resolution width="3056" height="2036" />
+        <resolution width="3056" height="1719" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="17">
+    <name>Kodak EasyShare Z1285</name>
+    <description>12.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary>Mid-sized  12 megapixel compact with a 5x zoom that's marginally cheaper than sister model the Z1085is, but the pointless extra megapixels are no compensation for the loss of optical image stabilization and reduced manual controls. Decent enough feature set but there are more appealing models in Kodak's range - and elsewhere.</summary>
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z1285.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2664" />
+        <resolution width="4000" height="2256" />
+        <resolution width="2832" height="2128" />
+        <resolution width="2048" height="1536" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="18">
+    <name>Kodak EasyShare M1033</name>
+    <description>10.1 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary>Small and stylish (something Kodak is finally mastering) 10 megapixel compact that offers 720p30 HD movie capture (MPEG-4), large wide-view 3" screen and a range of color options. The 3x zoom is nothing to write home about but at least it covers a useful 35-105mm range and the overall feature set is pretty comprehensive  for a camera at this price point. One of a range of confusingly similar EasyShare 'M' models that offer minor design and feature variations.</summary>
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1448 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m1033.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2064" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>(6400 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="19">
+    <name>Kodak EasyShare M893 IS</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 34 mm - 102 mm (3x) zoom lens;</description>
+    <summary>Simple budget compact with Kodak's signature ease of use and relatively slim, stylish design. Decent feature set for a camera at this level and range of color options - plus optical image stabilization. One of a range of confusingly similar EasyShare 'M' models that offer minor design and feature variations.</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m893is.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3296" height="2472" />
+      <lowResolutions>
+        <resolution width="3296" height="2196" />
+        <resolution width="3296" height="1854" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80-400)</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="20">
+    <name>Kodak EasyShare M863</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 34 mm - 102 mm (3x) zoom lens;</description>
+    <summary>Basic budget compact with Kodak's signature ease of use and relatively slim, stylish design. Decent feature set for a camera at this level and range of color options. One of a range of confusingly similar EasyShare 'M' models that offer minor design and feature variations.</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m863.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3280" height="2460" />
+      <lowResolutions>
+        <resolution width="3280" height="2186" />
+        <resolution width="3280" height="1846" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64-320)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="21">
+    <name>Kodak EasyShare M763</name>
+    <description>7.2 million effective pixels; 29 MP/cm^2 pixel density; 34 mm - 102 mm (3x) zoom lens;</description>
+    <summary>Basic budget compact with Kodak's signature ease of use and relatively slim, stylish design. Decent feature set for a camera at this level and range of color options. One of a range of confusingly similar EasyShare 'M' models that offer minor design and feature variations.</summary>
+    <effectivePixels>7.2 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m763.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="3072" height="2048" />
+        <resolution width="3072" height="1728" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64-320)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="22">
+    <name>Kodak EasyShare Z1085 IS</name>
+    <description>10.0 million effective pixels; 21 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary>Mid-sized  12 megapixel compact with a 5x zoom and optical image stabilization. 720p30 high definition movie capture and a full range of manual exposure controls broaden the appeal, but our experience of Kodak's image quality in the Z range is that they only really perform in good light at the lowest ISO settings.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z1085is.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2064" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>(6400</ISOrating>
+      <ISOrating>8000 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="1280.0" height="720.0" />
+  </camera>
+  <camera id="23">
+    <name>Kodak EasyShare V1273</name>
+    <description>12.0 million effective pixels; 29 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary>Kodak's premium V series compacts offer large high resolution touch-screen displays, image stabilization and lots of funky features (though the 3x zoom has no real wide angle). The V1073 and V1273 (which adds a couple more megapixels) are good value for the gadget lover looking for a feature-rich pocket-sized camera.</summary>
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1164 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_v1273.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2664" />
+        <resolution width="4000" height="2256" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1728" />
+        <resolution width="2592" height="1456" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="2048" height="1152" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>(6400 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.4" height="5.55" />
+  </camera>
+  <camera id="24">
+    <name>Kodak EasyShare V1073</name>
+    <description>11.1 million effective pixels; 24 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary>Kodak's premium V series compacts offer large high resolution touch-screen displays, image stabilization and lots of funky features (though the 3x zoom has no real wide angle). The V1073 and V1273 (which adds a couple more megapixels) are good value for the gadget lover looking for a feature-rich pocket-sized camera.</summary>
+    <effectivePixels>11.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1164 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_v1073.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2064" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1728" />
+        <resolution width="2572" height="1456" />
+        <resolution width="2048" height="1536" />
+        <resolution width="2048" height="1360" />
+        <resolution width="2048" height="1152" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>(6400</ISOrating>
+      <ISOrating>8000 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="1280.0" height="720.0" />
+  </camera>
+  <camera id="25">
+    <name>Kodak EasyShare Z8612 IS</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 432 mm (12x) zoom lens;</description>
+    <summary>The Easyshare Z8612 IS offers a 12X optically stabilized zoom, a fair degree of manual control and an 8.1 megapixel sensor all wrapped up in a fairly compact body at a very attractive price point. The design is a bit 'love it or hate it', but for a budget model it's surprisingly well put together, handling is pretty good and the user interface is actually very nice. Unfortunately image quality problems and sluggish performance mean that it's hard to give it an unreserved recommendation.</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="16 sec" max="1/3200 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408enthusiastgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z8612is.gif</picture>
+    </links>
+    <releasedDate>2008-01-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1840" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 at 2.2 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="26">
+    <name>Kodak EasyShare C813</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary>One of a handful of almost identical budget cameras from Kodak (this one has 8.2 megapixels, a 3x zoom and a low-resolution 2.4" screen). As with all EasyShare models the emphasis is on user-friendly ease of use, and digital cameras don't some much simpler than this. The specification is as basic as you'd expect for such a low price and though we've not tested this particular model, our experience of this range is that in good light the results are fine, but don't expect much shooting at night or with flash. (April 2009)</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c813.gif</picture>
+    </links>
+    <releasedDate>2008-01-01</releasedDate>
+    <resolutions>
+      <maxResolution width="3296" height="2472" />
+      <lowResolutions>
+        <resolution width="3296" height="2196" />
+        <resolution width="3296" height="1854" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="27">
+    <name>Kodak EasyShare Z1012 IS</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 33 mm - 396 mm (12x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="1/30 sec" max="1/3200 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z1012is.gif</picture>
+    </links>
+    <releasedDate>2007-08-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3648" height="2064" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2592" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>(6400 at 3.1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="28">
+    <name>Kodak EasyShare Z812 IS</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 432 mm (12x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z812.gif</picture>
+    </links>
+    <releasedDate>2007-08-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="3264" height="1836" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1800" height="1200" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>(3200 at 2.2 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="29">
+    <name>Kodak EasyShare C513</name>
+    <description>5.0 million effective pixels; 20 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>5.0 million</effectivePixels>
+    <shutterTime min="&amp;nbsp;" max="&amp;nbsp;" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c513.gif</picture>
+    </links>
+    <releasedDate>2007-07-25</releasedDate>
+    <resolutions>
+      <maxResolution width="2572" height="1928" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (80 - 160 / 200)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="30">
+    <name>Kodak EasyShare Z712 IS</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 36 mm - 423 mm (11.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="1/2 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z712.gif</picture>
+    </links>
+    <releasedDate>2007-06-29</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="31">
+    <name>Kodak EasyShare M883</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_m883.gif</picture>
+    </links>
+    <releasedDate>2007-06-12</releasedDate>
+    <resolutions>
+      <maxResolution width="3280" height="2454" />
+      <lowResolutions />
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="32">
+    <name>Kodak EasyShare C763</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c763.gif</picture>
+    </links>
+    <releasedDate>2007-03-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="33">
+    <name>Kodak EasyShare C613</name>
+    <description>6.2 million effective pixels; 25 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.2 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c613.gif</picture>
+    </links>
+    <releasedDate>2007-03-07</releasedDate>
+    <resolutions>
+      <maxResolution width="2848" height="2134" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="34">
+    <name>Kodak EasyShare C653</name>
+    <description>6.1 million effective pixels; 25 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c653.gif</picture>
+    </links>
+    <releasedDate>2007-01-07</releasedDate>
+    <resolutions>
+      <maxResolution width="2848" height="2134" />
+      <lowResolutions>
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>1250</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="35">
+    <name>Kodak EasyShare Z710</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 380 mm (10x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_z710.gif</picture>
+    </links>
+    <releasedDate>2006-09-25</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>(800 at 2 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="36">
+    <name>Kodak EasyShare V705</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 23 mm - 117 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1170 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_v705.gif</picture>
+    </links>
+    <releasedDate>2006-08-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2576" height="1932" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1200" height="900" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="37">
+    <name>Kodak EasyShare C743</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c743.gif</picture>
+    </links>
+    <releasedDate>2006-08-08</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2304" height="1728" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>(800 at 1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="38">
+    <name>Kodak EasyShare C433</name>
+    <description>4.0 million effective pixels; 16 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>4.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1400 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_c433.gif</picture>
+    </links>
+    <releasedDate>2006-08-08</releasedDate>
+    <resolutions>
+      <maxResolution width="2304" height="1728" />
+      <lowResolutions>
+        <resolution width="2048" height="1536" />
+        <resolution width="1656" height="1242" />
+        <resolution width="1200" height="900" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>(800 at 1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="39">
+    <name>Kodak EasyShare P712</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 36 mm - 432 mm (12x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="16 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/kodak_p712.gif</picture>
+    </links>
+    <releasedDate>2006-06-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64 - 400</ISOrating>
+      <ISOrating>(800 at 1 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+</cameras>
+

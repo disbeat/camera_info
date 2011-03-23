@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="pentax">
+  <camera id="0">
+    <name>Pentax K-x</name>
+    <description>12.4 million effective pixels; 3.3 MP/cm^2 pixel density;</description>
+    <summary>The K-x is Pentax's upper-entry-level model, offering a familiar 12.4 megapixel CMOS sensor in the same compact body as the less expensive K2000 (K-m outside the US). The K-x combines a selection of high-end features, such as an 11-point AF system (9 of them cross-type) with a very compact body and the abilty to use standard AA batteries. It can shoot 720p HD video at 24 fps and shoot 17 JPEGs at 4.7 frames per second. It misses out on the more expensive K-7's magnesium alloy body and cannot display the selected AF-point in the viewfinder but shares its image processing engine and is one of the smallest and lightest APS-C DSLRs on the market.</summary>
+    <effectivePixels>12.4 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/6000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_kx.gif</picture>
+    </links>
+    <releasedDate>2009-09-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4288" height="2428" />
+      <lowResolutions>
+        <resolution width="3936" height="2684" />
+        <resolution width="3072" height="2048" />
+        <resolution width="1728" height="1152" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200 - 6400 in 1EV</ISOrating>
+      <ISOrating>1/2 EV or 1/3 EV stops</ISOrating>
+      <ISOrating>ISO 100-12800 expandable</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.6" height="15.8" />
+  </camera>
+  <camera id="1">
+    <name>Pentax Optio M85</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 32 mm - 96 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiom85.gif</picture>
+    </links>
+    <releasedDate>2009-09-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Fixed (ISO 80 - 3200)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="2">
+    <name>Pentax Optio E85</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 32 mm - 96 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioe85.gif</picture>
+    </links>
+    <releasedDate>2009-09-17</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Fixed (ISO 80 - 3200)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="3">
+    <name>Pentax Optio WS80</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 35 mm - 175 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiows80.gif</picture>
+    </links>
+    <releasedDate>2009-08-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="4">
+    <name>Pentax Optio P80</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 27.5 mm - 110 mm (3.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiop80.gif</picture>
+    </links>
+    <releasedDate>2009-08-05</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64-6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="5">
+    <name>Pentax Optio E80</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 31.5 mm - 94.5 mm (2.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioe80.gif</picture>
+    </links>
+    <releasedDate>2009-08-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2052" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100-6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="6">
+    <name>Pentax Optio W80</name>
+    <description>12.1 million effective pixels; 43 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiow80.gif</picture>
+    </links>
+    <releasedDate>2009-06-25</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2256" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto(64-1600)</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="7">
+    <name>Pentax K-7</name>
+    <description>14.6 million effective pixels; 4.0 MP/cm^2 pixel density;</description>
+    <summary>The K-7 is Pentax's latest enthusiast/semi-pro grade DSLR. It the first Pentax DSLR to have a magnesium-alloy body making it smaller than the K20D it replaces, while still offering reassuring build quality. The body is weather sealed (though not weather proof) and features a 920,000 dot LCD and 100% viewfinder and the ability to shoot 720p HD movies. Like the models before it, the K-7 has image stabilization built into the body, stabilizing all lenses. It offers the high level of exterior control you'd expect on a camera at this level and its operation can be customized to a high degree.</summary>
+    <effectivePixels>14.6 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/8000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/pentaxk7</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_k7.gif</picture>
+    </links>
+    <releasedDate>2009-05-20</releasedDate>
+    <resolutions>
+      <maxResolution width="4672" height="3104" />
+      <lowResolutions>
+        <resolution width="3936" height="2592" />
+        <resolution width="3072" height="2048" />
+        <resolution width="1728" height="1152" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100 - 3200 in 1EV</ISOrating>
+      <ISOrating>1/2 EV or 1/3 EV stops</ISOrating>
+      <ISOrating>ISO 6400 as option</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.4" height="15.6" />
+  </camera>
+  <camera id="8">
+    <name>Pentax X70</name>
+    <description>12.0 million effective pixels; 42 MP/cm^2 pixel density; 26 mm - 624 mm (24x) zoom lens;</description>
+    <summary>The first SLR-style 'super zoom' compact from Pentax pushes the envelope with a huge 24x optical zoom covering an amazing 26-624mm (equiv.) range. The X70 also sports a 12 MP sensor, 2.7 inch LCD and includes features such as Image Stabilization, Auto Picture Mode, HD video recording and P/A/S/M shooting modes. In addition, it can deliver 11 fps of continuous shooting, and its fast Face Detection can detect up to 32 faces in 0.03 seconds.</summary>
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_x70.gif</picture>
+    </links>
+    <releasedDate>2009-03-02</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="4000" height="2672" />
+        <resolution width="4000" height="2256" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (50-6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="9">
+    <name>Pentax Optio P70</name>
+    <description>12.0 million effective pixels; 42 MP/cm^2 pixel density; 28 mm - 110 mm (3.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiop70.gif</picture>
+    </links>
+    <releasedDate>2009-03-02</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="16" height="9" />
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64-6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="10">
+    <name>Pentax Optio E70</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 35 mm - 105 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioe70.gif</picture>
+    </links>
+    <releasedDate>2009-01-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2052" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64-6400)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="11">
+    <name>Pentax K2000 (K-m)</name>
+    <description>10.2 million effective pixels; 2.8 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/pentaxk2000/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_km.gif</picture>
+    </links>
+    <releasedDate>2008-09-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="3008" height="2000" />
+        <resolution width="1824" height="1216" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (custom)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.7" />
+  </camera>
+  <camera id="12">
+    <name>Pentax Optio M60</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiom60.gif</picture>
+    </links>
+    <releasedDate>2008-07-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2052" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="13">
+    <name>Pentax Optio E60</name>
+    <description>10.1 million effective pixels; 36 MP/cm^2 pixel density; 32 mm - 96 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioe60.gif</picture>
+    </links>
+    <releasedDate>2008-07-31</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1920" height="1080" />
+        <resolution width="1024" height="768" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="14">
+    <name>Pentax Optio W60</name>
+    <description>10.0 million effective pixels; 36 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q209waterproofgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiow60.gif</picture>
+    </links>
+    <releasedDate>2008-05-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2052" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="16" height="9" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.13" height="4.6" />
+  </camera>
+  <camera id="15">
+    <name>Pentax Optio V20</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiov20.gif</picture>
+    </links>
+    <releasedDate>2008-05-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>(6400 in Digital Shake Reduction mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="16">
+    <name>Pentax Optio E50</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 38 mm - 113 mm (2.9x) zoom lens;</description>
+    <summary>Unremarkable entry-level 8.1 megapixel compact with a 3x (37.5-112.5) zoom and AA battery compatability. Superceded by the better specified Optio E60. April 2009</summary>
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioe50.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (100-1600)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="17">
+    <name>Pentax Optio S12</name>
+    <description>12.0 million effective pixels; 28 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>The Pentax S12 is the latest in a line of  slim metal-bodied cameras that stretches back to the Optio S, launched in January 2003.The S12 may boast a 12 megapixel sensor, but the 37-111mm zoom lacks a real wide angle, the design is dull and the user interface isn't a patch on the best cameras in this class. In good light it produces pleasant natural results and feels fairly speedy - though both output quality and focus speed go rapidly downhill in low light and at higher ISO settings. (April 2009)</summary>
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408slimgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optios12.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3648" height="2736" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="18">
+    <name>Pentax K200D</name>
+    <description>10.2 million effective pixels; 2.8 MP/cm^2 pixel density;</description>
+    <summary>Replacement for the K100D/ K100D Super, the K200D is aimed at the entry level segment of the market where it has to compete with the likes of the Nikon D60 and the Canon EOS 450D.</summary>
+    <effectivePixels>10.2 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/pentaxk200d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_k200d.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="3008" height="2000" />
+        <resolution width="1824" height="1216" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100 -1600 in 1EV</ISOrating>
+      <ISOrating>1/2EV or 1/3EV stops</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.7" />
+  </camera>
+  <camera id="19">
+    <name>Pentax K20D</name>
+    <description>14.6 million effective pixels; 4.0 MP/cm^2 pixel density;</description>
+    <summary>Strong mid-range showing from Pentax (developed in conjunction with Samsung) updates K10D with new 14.6 megapixel CMOS sensor, live view and improvements to the LCD and burst shooting - plus a host of feature tweaks and upgrades. The Pentax K20D could be seen as a K10D Mk2, a camera that attempts to move on while putting right the minor flaws in its predecessor. And in that respect, it's a huge success. The K20D builds on the strengths of its forebear and addresses our complaints about its image quality. It offers a great on-paper specification that is backed-up by a level of customization that allow you to tailor the camera to the way you want to shoot.</summary>
+    <effectivePixels>14.6 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/pentaxk20d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_k20d.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="4672" height="3104" />
+      <lowResolutions>
+        <resolution width="3872" height="2592" />
+        <resolution width="3008" height="2000" />
+        <resolution width="1824" height="1216" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>100 - 3200 in 1EV</ISOrating>
+      <ISOrating>1/2 EV or 1/3 EV stops</ISOrating>
+      <ISOrating>ISO 6400 as option</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.4" height="15.6" />
+  </camera>
+  <camera id="20">
+    <name>Pentax Optio M50</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 180 mm (5x) zoom lens;</description>
+    <summary>Slimline entry-level 8.1 megapixel compact with a longer than usual 5x (36-180mm) zoom and the usual smattering of scene modes and face detection features. Superceded by the 10 megapixel Optio M60. April 2009</summary>
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiom50.gif</picture>
+    </links>
+    <releasedDate>2008-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating>6400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="21">
+    <name>Pentax Optio V10</name>
+    <description>8.0 million effective pixels; 33 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiov10.gif</picture>
+    </links>
+    <releasedDate>2007-10-01</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.68" height="4.26" />
+  </camera>
+  <camera id="22">
+    <name>Pentax Optio A40</name>
+    <description>12.0 million effective pixels; 28 MP/cm^2 pixel density; 37 mm - 111 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioa40.gif</picture>
+    </links>
+    <releasedDate>2007-10-01</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3648" height="2736" />
+        <resolution width="3072" height="2736" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="23">
+    <name>Pentax Optio Z10</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 38 mm - 266 mm (7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/1440 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioz10.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 � 400)</ISOrating>
+      <ISOrating>64 � 3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="24">
+    <name>Pentax Optio S10</name>
+    <description>10.0 million effective pixels; 26 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optios10.gif</picture>
+    </links>
+    <releasedDate>2007-08-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (64 � 800)</ISOrating>
+      <ISOrating>64 � 3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.18" height="5.32" />
+  </camera>
+  <camera id="25">
+    <name>Pentax Optio E40</name>
+    <description>8.1 million effective pixels; 33 MP/cm^2 pixel density; 37.5 mm - 112.5 mm (2.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioe40.gif</picture>
+    </links>
+    <releasedDate>2007-07-11</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="1539" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>160</ISOrating>
+      <ISOrating>320</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1000</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="26">
+    <name>Pentax Optio M40</name>
+    <description>8.0 million effective pixels; 32 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>8.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiom40.gif</picture>
+    </links>
+    <releasedDate>2007-07-11</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="27">
+    <name>Pentax K100D Super</name>
+    <description>6.1 million effective pixels; 1.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_k100dsuper.gif</picture>
+    </links>
+    <releasedDate>2007-06-28</releasedDate>
+    <resolutions>
+      <maxResolution width="3008" height="2008" />
+      <lowResolutions>
+        <resolution width="2400" height="1600" />
+        <resolution width="1536" height="1024" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.7" />
+  </camera>
+  <camera id="28">
+    <name>Pentax Optio W30</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiow30.gif</picture>
+    </links>
+    <releasedDate>2007-02-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="29">
+    <name>Pentax Optio A30</name>
+    <description>10.0 million effective pixels; 40 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioa30.gif</picture>
+    </links>
+    <releasedDate>2007-02-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3072" height="2736" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>50</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="30">
+    <name>Pentax Optio T30</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 112.5 mm (2.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiot30.gif</picture>
+    </links>
+    <releasedDate>2007-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="31">
+    <name>Pentax Optio M30</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiom30.gif</picture>
+    </links>
+    <releasedDate>2007-01-23</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="32">
+    <name>Pentax Optio E30</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 36 mm - 108 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioe30.gif</picture>
+    </links>
+    <releasedDate>2007-01-03</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>160</ISOrating>
+      <ISOrating>320</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="33">
+    <name>Pentax Optio E20</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 34 mm - 102 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="2 sec" max="1/1000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioe20.gif</picture>
+    </links>
+    <releasedDate>2006-09-13</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2272" height="1704" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="34">
+    <name>Pentax Optio T20</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 37.5 mm - 112.5 mm (2.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiot20.gif</picture>
+    </links>
+    <releasedDate>2006-09-13</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>160</ISOrating>
+      <ISOrating>320</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="35">
+    <name>Pentax K10D</name>
+    <description>10.0 million effective pixels; 2.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/pentaxk10d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_k10d.gif</picture>
+    </links>
+    <releasedDate>2006-09-13</releasedDate>
+    <resolutions>
+      <maxResolution width="3872" height="2592" />
+      <lowResolutions>
+        <resolution width="3008" height="2000" />
+        <resolution width="1824" height="1216" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto (custom)</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.7" />
+  </camera>
+  <camera id="36">
+    <name>Pentax Optio M20</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiom20.gif</picture>
+    </links>
+    <releasedDate>2006-08-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="37">
+    <name>Pentax Optio A20</name>
+    <description>10.0 million effective pixels; 40 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/pentaxa20/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optioa20.gif</picture>
+    </links>
+    <releasedDate>2006-08-21</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3072" height="2736" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="38">
+    <name>Pentax Optio W20</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 38 mm - 114 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optiow20.gif</picture>
+    </links>
+    <releasedDate>2006-08-07</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2560" height="1920" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>(800 candle mode)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="39">
+    <name>Pentax Optio S7</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 37.5 mm - 112.5 mm (2.9x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="4 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_optios7.gif</picture>
+    </links>
+    <releasedDate>2006-07-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2304" height="1728" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1600" height="1200" />
+        <resolution width="1024" height="768" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>(800/1600 at 4 MP)</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="40">
+    <name>Pentax K100D</name>
+    <description>6.1 million effective pixels; 1.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/pentaxk100d/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_k100d.gif</picture>
+    </links>
+    <releasedDate>2006-05-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3008" height="2008" />
+      <lowResolutions>
+        <resolution width="2400" height="1600" />
+        <resolution width="1536" height="1024" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.7" />
+  </camera>
+  <camera id="41">
+    <name>Pentax K110D</name>
+    <description>6.1 million effective pixels; 1.7 MP/cm^2 pixel density;</description>
+    <summary />
+    <effectivePixels>6.1 million</effectivePixels>
+    <shutterTime min="30 sec" max="1/4000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/pentax_k110d.gif</picture>
+    </links>
+    <releasedDate>2006-05-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3008" height="2008" />
+      <lowResolutions>
+        <resolution width="2400" height="1600" />
+        <resolution width="1536" height="1024" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="23.5" height="15.7" />
+  </camera>
+</cameras>
+

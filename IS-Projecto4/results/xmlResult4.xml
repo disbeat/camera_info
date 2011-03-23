@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="summary.xsd">
+  <manufacturer name="olympus">
+    <totalCameras>69</totalCameras>
+    <mostRecentCameras>
+      <releasedDate>2006-08-24</releasedDate>
+      <modelsList>
+        <model>Olympus FE-200</model>
+        <model>Olympus FE-190</model>
+        <model>Olympus Stylus 725 SW (mju 725 SW Digital)</model>
+        <model>Olympus Stylus 730 (mju 730 Digital)</model>
+        <model>Olympus Stylus 740 (mju 740 Digital)</model>
+        <model>Olympus Stylus 750 (mju 750 Digital)</model>
+        <model>Olympus FE-180</model>
+        <model>Olympus FE-170</model>
+        <model>Olympus Stylus 1000 (mju 1000 Digital)</model>
+        <model>Olympus SP-510 UZ</model>
+      </modelsList>
+    </mostRecentCameras>
+    <olderCameras>
+      <releasedDate>2009-11-05</releasedDate>
+      <modelsList>
+        <model>Olympus PEN E-P2</model>
+      </modelsList>
+    </olderCameras>
+    <resolutions>
+      <minResolutionCameras>
+        <resolution totalPixels="307200" />
+        <modelsList>
+          <model>Olympus PEN E-P2</model>
+          <model>Olympus E-600</model>
+          <model>Olympus Stylus 7010 (mju 7010)</model>
+          <model>Olympus FE-5020 (X-935)</model>
+          <model>Olympus FE-4000 (X-925)</model>
+          <model>Olympus Stylus Tough 6010 (mju Tough 6010)</model>
+          <model>Olympus PEN E-P1</model>
+          <model>Olympus E-450</model>
+          <model>Olympus E-620</model>
+          <model>Olympus FE-5010</model>
+          <model>Olympus FE-5000</model>
+          <model>Olympus Stylus Tough 8000 (mju Tough 8000)</model>
+          <model>Olympus Stylus 7000 (mju 7000)</model>
+          <model>Olympus FE-3010</model>
+          <model>Olympus Stylus 9000 (mju 9000)</model>
+          <model>Olympus FE-3000</model>
+          <model>Olympus FE-45</model>
+          <model>Olympus Stylus Tough 6000 (mju Tough 6000)</model>
+          <model>Olympus SP-590 UZ</model>
+          <model>Olympus Stylus 550WP (mju  550WP)</model>
+          <model>Olympus E-30</model>
+          <model>Olympus SP-565UZ</model>
+          <model>Olympus FE-20 (C-25, X-15)</model>
+          <model>Olympus Stylus 1050 SW (mju 1050 SW)</model>
+          <model>Olympus Stylus 1040 (mju 1040)</model>
+          <model>Olympus FE-370</model>
+          <model>Olympus FE-360 (C-570, X-875)</model>
+          <model>Olympus E-520</model>
+          <model>Olympus E-420</model>
+          <model>Olympus Stylus 850 SW</model>
+          <model>Olympus Stylus 840</model>
+          <model>Olympus Stylus 1030 SW</model>
+          <model>Olympus Stylus 1020</model>
+          <model>Olympus FE-350</model>
+          <model>Olympus FE-340 (C-560)</model>
+          <model>Olympus FE-310</model>
+          <model>Olympus SP-570 UZ</model>
+          <model>Olympus Stylus 1010</model>
+          <model>Olympus E-3</model>
+          <model>Olympus FE-290</model>
+          <model>Olympus FE-280</model>
+          <model>Olympus FE-270</model>
+          <model>Olympus SP-560 UZ</model>
+          <model>Olympus Stylus 820 (mju 820 Digital)</model>
+          <model>Olympus Stylus 790 SW (mju 790 SW Digital)</model>
+          <model>Olympus FE-300</model>
+          <model>Olympus Stylus 1200 (mju 1200 Digital)</model>
+          <model>Olympus Stylus 830 (mju 830 Digital)</model>
+          <model>Olympus E-410 (EVOLT E-410)</model>
+          <model>Olympus E-510 (EVOLT E-510)</model>
+          <model>Olympus Stylus 780 (mju 780 Digital)</model>
+          <model>Olympus Stylus 760 (mju 760 Digital)</model>
+          <model>Olympus SP-550 UZ</model>
+          <model>Olympus Stylus 770 SW (mju 770 SW Digital)</model>
+          <model>Olympus FE-250</model>
+          <model>Olympus FE-240</model>
+          <model>Olympus FE-230</model>
+          <model>Olympus FE-210</model>
+          <model>Olympus E-400</model>
+          <model>Olympus FE-200</model>
+          <model>Olympus FE-190</model>
+          <model>Olympus Stylus 725 SW (mju 725 SW Digital)</model>
+          <model>Olympus Stylus 730 (mju 730 Digital)</model>
+          <model>Olympus Stylus 740 (mju 740 Digital)</model>
+          <model>Olympus Stylus 750 (mju 750 Digital)</model>
+          <model>Olympus FE-180</model>
+          <model>Olympus FE-170</model>
+          <model>Olympus Stylus 1000 (mju 1000 Digital)</model>
+          <model>Olympus SP-510 UZ</model>
+        </modelsList>
+      </minResolutionCameras>
+      <maxResolutionCameras>
+        <resolution totalPixels="12192768" />
+        <modelsList>
+          <model>Olympus PEN E-P2</model>
+          <model>Olympus E-600</model>
+          <model>Olympus PEN E-P1</model>
+          <model>Olympus E-620</model>
+          <model>Olympus E-30</model>
+        </modelsList>
+      </maxResolutionCameras>
+    </resolutions>
+    <modelsList>
+      <model>Olympus PEN E-P2</model>
+      <model>Olympus E-600</model>
+      <model>Olympus Stylus 7010 (mju 7010)</model>
+      <model>Olympus FE-5020 (X-935)</model>
+      <model>Olympus FE-4000 (X-925)</model>
+      <model>Olympus Stylus Tough 6010 (mju Tough 6010)</model>
+      <model>Olympus PEN E-P1</model>
+      <model>Olympus E-450</model>
+      <model>Olympus E-620</model>
+      <model>Olympus FE-5010</model>
+      <model>Olympus FE-5000</model>
+      <model>Olympus Stylus Tough 8000 (mju Tough 8000)</model>
+      <model>Olympus Stylus 7000 (mju 7000)</model>
+      <model>Olympus FE-3010</model>
+      <model>Olympus Stylus 9000 (mju 9000)</model>
+      <model>Olympus FE-3000</model>
+      <model>Olympus FE-45</model>
+      <model>Olympus Stylus Tough 6000 (mju Tough 6000)</model>
+      <model>Olympus SP-590 UZ</model>
+      <model>Olympus Stylus 550WP (mju  550WP)</model>
+      <model>Olympus E-30</model>
+      <model>Olympus SP-565UZ</model>
+      <model>Olympus FE-20 (C-25, X-15)</model>
+      <model>Olympus Stylus 1050 SW (mju 1050 SW)</model>
+      <model>Olympus Stylus 1040 (mju 1040)</model>
+      <model>Olympus FE-370</model>
+      <model>Olympus FE-360 (C-570, X-875)</model>
+      <model>Olympus E-520</model>
+      <model>Olympus E-420</model>
+      <model>Olympus Stylus 850 SW</model>
+      <model>Olympus Stylus 840</model>
+      <model>Olympus Stylus 1030 SW</model>
+      <model>Olympus Stylus 1020</model>
+      <model>Olympus FE-350</model>
+      <model>Olympus FE-340 (C-560)</model>
+      <model>Olympus FE-310</model>
+      <model>Olympus SP-570 UZ</model>
+      <model>Olympus Stylus 1010</model>
+      <model>Olympus E-3</model>
+      <model>Olympus FE-290</model>
+      <model>Olympus FE-280</model>
+      <model>Olympus FE-270</model>
+      <model>Olympus SP-560 UZ</model>
+      <model>Olympus Stylus 820 (mju 820 Digital)</model>
+      <model>Olympus Stylus 790 SW (mju 790 SW Digital)</model>
+      <model>Olympus FE-300</model>
+      <model>Olympus Stylus 1200 (mju 1200 Digital)</model>
+      <model>Olympus Stylus 830 (mju 830 Digital)</model>
+      <model>Olympus E-410 (EVOLT E-410)</model>
+      <model>Olympus E-510 (EVOLT E-510)</model>
+      <model>Olympus Stylus 780 (mju 780 Digital)</model>
+      <model>Olympus Stylus 760 (mju 760 Digital)</model>
+      <model>Olympus SP-550 UZ</model>
+      <model>Olympus Stylus 770 SW (mju 770 SW Digital)</model>
+      <model>Olympus FE-250</model>
+      <model>Olympus FE-240</model>
+      <model>Olympus FE-230</model>
+      <model>Olympus FE-210</model>
+      <model>Olympus E-400</model>
+      <model>Olympus FE-200</model>
+      <model>Olympus FE-190</model>
+      <model>Olympus Stylus 725 SW (mju 725 SW Digital)</model>
+      <model>Olympus Stylus 730 (mju 730 Digital)</model>
+      <model>Olympus Stylus 740 (mju 740 Digital)</model>
+      <model>Olympus Stylus 750 (mju 750 Digital)</model>
+      <model>Olympus FE-180</model>
+      <model>Olympus FE-170</model>
+      <model>Olympus Stylus 1000 (mju 1000 Digital)</model>
+      <model>Olympus SP-510 UZ</model>
+    </modelsList>
+  </manufacturer>
+</summary>
+

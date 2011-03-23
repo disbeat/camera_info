@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CameraListBeautifier.xsl"?>
+<cameras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="camera_list.xsd" brand="ricoh">
+  <camera id="0">
+    <name>Ricoh CX2</name>
+    <description>9.3 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 300 mm (10.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>9.3 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_cx2.gif</picture>
+    </links>
+    <releasedDate>2009-08-20</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="3456" height="2304" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="2592" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1728" height="1296" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto HI</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="1">
+    <name>Ricoh GR Digital III</name>
+    <description>10.0 million effective pixels; 23 MP/cm^2 pixel density; 28 mm § lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="1 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_grdigital3.gif</picture>
+    </links>
+    <releasedDate>2009-07-27</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2736" height="2736" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="2">
+    <name>Ricoh CX1</name>
+    <description>9.3 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 200 mm (7.1x) zoom lens;</description>
+    <summary>Latest version of Ricoh's slimline big zoom cameras, the CX1 puts a new generation 9 megapixel CMOS sensor in a R10-like body offering a 28-200mm equivalent zoom range and increasing the screen resolution to 920,000 dots (unusually good for a compact camera). The new sensor allows high-speed continuous shooting (up to 120 frames per second at 640x480 pixel resolution), and offers increased dynamic range by taking two pictures at different exposure settings in rapid succession.</summary>
+    <effectivePixels>9.3 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/gallery/ricohcx1_preview_samples/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_cx1.gif</picture>
+    </links>
+    <releasedDate>2009-02-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3456" height="2592" />
+      <lowResolutions>
+        <resolution width="3456" height="2304" />
+        <resolution width="3072" height="2304" />
+        <resolution width="2592" height="2592" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1728" height="1296" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto HI</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="3">
+    <name>Ricoh R10</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 200 mm (7.1x) zoom lens;</description>
+    <summary>The R10 was announced in September as an upgrade to the R8, which was itself launched just over half a year earlier, and is the latest in a line of compact models sporting a 28-200mm zoom that goes back to the original R3 in 2005. The new model constitutes only a fairly minor upgrade. The most obvious change is the larger 3.0" screen (the resolution of 460,000 pixels remains the same) but there are also a few new features including an electronic level and a customizable Fn button. It's a great little camera with much to recommend it, but the sensor - and processing - let it down badly, and the image quality leaves much to be desired.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/Q408enthusiastgroup/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_r10.gif</picture>
+    </links>
+    <releasedDate>2008-09-18</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2736" height="2736" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto HI</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="4">
+    <name>Ricoh Caplio GX200</name>
+    <description>12.1 million effective pixels; 28 MP/cm^2 pixel density; 24 mm - 72 mm (3x) zoom lens;</description>
+    <summary />
+    <effectivePixels>12.1 million</effectivePixels>
+    <shutterTime min="180 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_gx200.gif</picture>
+    </links>
+    <releasedDate>2008-06-24</releasedDate>
+    <resolutions>
+      <maxResolution width="4000" height="3000" />
+      <lowResolutions>
+        <resolution width="3984" height="2656" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2992" height="2992" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto-Hi</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.6" height="5.7" />
+  </camera>
+  <camera id="5">
+    <name>Ricoh G600</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 140 mm (5x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/1500 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_g600.gif</picture>
+    </links>
+    <releasedDate>2008-04-22</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="3264" height="2448" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating>3200</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="6">
+    <name>Ricoh Caplio R8</name>
+    <description>10.0 million effective pixels; 35 MP/cm^2 pixel density; 28 mm - 200 mm (7.1x) zoom lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/ricohr8/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_r8.gif</picture>
+    </links>
+    <releasedDate>2008-02-19</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2736" height="2736" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>Auto HI</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="6.16" height="4.62" />
+  </camera>
+  <camera id="7">
+    <name>Ricoh GR Digital II</name>
+    <description>10.0 million effective pixels; 25 MP/cm^2 pixel density; 28 mm § lens;</description>
+    <summary />
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="180 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_grdigital2.gif</picture>
+    </links>
+    <releasedDate>2007-10-30</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3648" height="2432" />
+        <resolution width="2736" height="2736" />
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.36" height="5.52" />
+  </camera>
+  <camera id="8">
+    <name>Ricoh Caplio R7</name>
+    <description>8.2 million effective pixels; 33 MP/cm^2 pixel density; 28 mm - 200 mm (7.1x) zoom lens;</description>
+    <summary>&amp;nbsp;</summary>
+    <effectivePixels>8.2 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_caplior7.gif</picture>
+    </links>
+    <releasedDate>2007-08-28</releasedDate>
+    <resolutions>
+      <maxResolution width="3264" height="2448" />
+      <lowResolutions>
+        <resolution width="3264" height="2176" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="9">
+    <name>Ricoh Caplio GX100</name>
+    <description>10.0 million effective pixels; 25 MP/cm^2 pixel density; 24 mm - 72 mm (3x) zoom lens;</description>
+    <summary>The GX100 has several features to set it apart from the majority of 10MP compacts, most interestingly a 3x zoom lens with a true wideangle capability, covering a range equivalent to 24-72mm on a 35mm camera. The GX100 is also the world's first digital compact to offer an (optional) removable electronic viewfinder, which slips into the flash hot shoe and tilts upwards through 90 degrees. Like the GR-D the GX100 offers 'SLR like' control thanks to twin control dials, raw capture (using the 'universal' DNG format) and a high level of customization options. Unfortunately the GX100 isn't quite as good a camera as it thinks it is, because great features and handling cannot make up for a noisy sensor and questionable processing.</summary>
+    <effectivePixels>10.0 million</effectivePixels>
+    <shutterTime min="180 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview>http://www.dpreview.com/reviews/ricohgx100/</inDepthReview>
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_gx100.gif</picture>
+    </links>
+    <releasedDate>2007-03-28</releasedDate>
+    <resolutions>
+      <maxResolution width="3648" height="2736" />
+      <lowResolutions>
+        <resolution width="3264" height="2448" />
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+      <imageRatio width="1" height="1" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>80</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="7.36" height="5.52" />
+  </camera>
+  <camera id="10">
+    <name>Ricoh Caplio R6</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 200 mm (7.1x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_caplior6.gif</picture>
+    </links>
+    <releasedDate>2007-03-05</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="11">
+    <name>Ricoh Caplio R5</name>
+    <description>7.1 million effective pixels; 29 MP/cm^2 pixel density; 28 mm - 200 mm (7.1x) zoom lens;</description>
+    <summary />
+    <effectivePixels>7.1 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_caplior5.gif</picture>
+    </links>
+    <releasedDate>2006-08-24</releasedDate>
+    <resolutions>
+      <maxResolution width="3072" height="2304" />
+      <lowResolutions>
+        <resolution width="2592" height="1944" />
+        <resolution width="2048" height="1536" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating>1600</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+  <camera id="12">
+    <name>Ricoh Caplio R40</name>
+    <description>6.0 million effective pixels; 24 MP/cm^2 pixel density; 28 mm - 160 mm (5.7x) zoom lens;</description>
+    <summary />
+    <effectivePixels>6.0 million</effectivePixels>
+    <shutterTime min="8 sec" max="1/2000 sec" />
+    <links>
+      <inDepthReview />
+      <picture>http://a.img-dpreview.com/reviews/images/ricoh_caplior40.gif</picture>
+    </links>
+    <releasedDate>2006-05-22</releasedDate>
+    <resolutions>
+      <maxResolution width="2816" height="2112" />
+      <lowResolutions>
+        <resolution width="2048" height="1563" />
+        <resolution width="1280" height="960" />
+        <resolution width="640" height="480" />
+      </lowResolutions>
+    </resolutions>
+    <imageRatios>
+      <imageRatio width="4" height="3" />
+      <imageRatio width="3" height="2" />
+    </imageRatios>
+    <ISOratings>
+      <ISOrating>Auto</ISOrating>
+      <ISOrating>64</ISOrating>
+      <ISOrating>100</ISOrating>
+      <ISOrating>200</ISOrating>
+      <ISOrating>400</ISOrating>
+      <ISOrating>800</ISOrating>
+      <ISOrating />
+    </ISOratings>
+    <sensorSize width="5.75" height="4.31" />
+  </camera>
+</cameras>
+

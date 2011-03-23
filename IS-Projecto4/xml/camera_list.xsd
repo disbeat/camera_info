@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="camera">
+    <xs:complexType>
+      <xs:all>
+        <xs:element ref="name" />
+        <xs:element ref="description" />
+        <xs:element ref="summary" />
+        <xs:element ref="effectivePixels" />
+        <xs:element ref="shutterTime" />
+        <xs:element ref="links" />
+        <xs:element ref="releasedDate" />
+        <xs:element ref="resolutions" />
+        <xs:element ref="imageRatios" />
+        <xs:element ref="ISOratings" />
+        <xs:element ref="sensorSize" />
+      </xs:all>
+      <xs:attribute name="id" type="xs:decimal" use="required" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="cameras">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="camera" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+      <xs:attribute name="brand" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="description" type="xs:string" />
+
+  <xs:element name="summary" type="xs:string" />
+
+  <xs:element name="effectivePixels" type="xs:string" />
+
+  <xs:element name="imageRatio">
+    <xs:complexType>
+      <xs:attribute name="height" use="required" type="xs:integer" />
+      <xs:attribute name="width" use="required" type="xs:integer" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="imageRatios">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="imageRatio" maxOccurs="unbounded" minOccurs="0" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="inDepthReview" type="xs:string" />
+
+  <xs:element name="ISOrating" type="xs:string" />
+
+  <xs:element name="ISOratings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ISOrating" maxOccurs="unbounded" minOccurs="0" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="links">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="inDepthReview" />
+        <xs:element ref="picture" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="lowResolutions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="resolution" maxOccurs="unbounded" minOccurs="0" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="maxResolution">
+    <xs:complexType>
+      <xs:attribute name="height" use="required" type="xs:integer" />
+      <xs:attribute name="width" use="required" type="xs:integer" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="name" type="xs:string" />
+
+  <xs:element name="picture" type="xs:string" />
+
+  <xs:element name="releasedDate" type="xs:date" />
+
+  <xs:element name="resolution">
+    <xs:complexType>
+      <xs:attribute name="height" use="required" type="xs:integer" />
+      <xs:attribute name="width" use="required" type="xs:integer" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="resolutions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="maxResolution" />
+        <xs:element ref="lowResolutions" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="sensorSize">
+    <xs:complexType>
+      <xs:attribute name="height" use="required" type="xs:decimal" />
+      <xs:attribute name="width" use="required" type="xs:decimal" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="shutterTime">
+    <xs:complexType>
+      <xs:attribute name="max" type="xs:string" use="required" />
+      <xs:attribute name="min" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
